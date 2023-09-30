@@ -1,0 +1,39 @@
+narrative_3 a nrtv:Narrative;
+    nrtv:about "Myspace";
+    nrtv:has_theme http://dbpedia.org/class/yago/Artifact100021939;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Computer103082979;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Device103183080;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Instrumentality103575240;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Machine103699975;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Object100002684;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PhysicalEntity100001930;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WebSite106359193;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Whole100003553;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatAmericanWebsites;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatCommunityWebsites;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMultilingualWebsites;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMusicWebsites;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWebsites;
+    nrtv:has_theme  http://dbpedia.org/ontology/Company;
+    nrtv:has_theme  http://dbpedia.org/ontology/Website;
+    nrtv:has_theme  http://dbpedia.org/ontology/Work;
+    nrtv:has_theme  http://schema.org/CreativeWork;
+    nrtv:has_theme  http://schema.org/WebSite;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Business;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Organization;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q386724;
+    nrtv:event_sequence event_sequence_3.
+
+event_sequence_3 a rdf:Seq;
+    rdf:_1 event_27;
+    rdf:_2 event_28.
+
+event_27 a nrtv:Event;
+    nrtv:what "launched";
+    nrtv:when "2003-08-01".
+
+event_28 a nrtv:Event;
+    nrtv:what "founded";
+    nrtv:when "2003-08-01".
+

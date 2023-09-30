@@ -1,0 +1,213 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Mount Everest";
+    nrtv:has_theme http://www.wikidata.org/entity/Q570116;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q8502;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6;
+    rdf:_7 event_7;
+    rdf:_8 event_8;
+    rdf:_9 event_9;
+    rdf:_10 event_10;
+    rdf:_11 event_11;
+    rdf:_12 event_12;
+    rdf:_13 event_13;
+    rdf:_14 event_14;
+    rdf:_15 event_15;
+    rdf:_16 event_16;
+    rdf:_17 event_17.
+
+event_1 a nrtv:Event;
+    nrtv:what "named after start time";
+    nrtv:when "1865-01-01T00:00:00Z";
+    nrtv:who nrtv:character_3;
+    nrtv:where nrtv:location_3.
+
+event_2 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "1953-01-01T00:00:00Z";
+    nrtv:where nrtv:location_4.
+
+event_3 a nrtv:Event;
+    nrtv:what "significant event first ascent point in time";
+    nrtv:when "1953-05-29T00:00:00Z";
+    nrtv:who nrtv:character_4;
+    nrtv:who nrtv:character_5;
+    nrtv:where nrtv:location_5;
+    nrtv:where nrtv:location_6;
+    nrtv:where nrtv:location_7;
+    nrtv:where nrtv:location_8;
+    nrtv:related_to nrtv:related_event_1.
+
+event_4 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "1956-01-01T00:00:00Z";
+    nrtv:where nrtv:location_9.
+
+event_5 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "1960-01-01T00:00:00Z";
+    nrtv:where nrtv:location_10.
+
+event_6 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "1963-01-01T00:00:00Z";
+    nrtv:where nrtv:location_11.
+
+event_7 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2000-01-01T00:00:00Z";
+    nrtv:where nrtv:location_12.
+
+event_8 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2012-01-01T00:00:00Z";
+    nrtv:where nrtv:location_13.
+
+event_9 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2013-01-01T00:00:00Z";
+    nrtv:where nrtv:location_14.
+
+event_10 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2014-01-01T00:00:00Z";
+    nrtv:where nrtv:location_15.
+
+event_11 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2015-01-01T00:00:00Z";
+    nrtv:where nrtv:location_16.
+
+event_12 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2016-01-01T00:00:00Z";
+    nrtv:where nrtv:location_17.
+
+event_13 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2017-01-01T00:00:00Z";
+    nrtv:where nrtv:location_18.
+
+event_14 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2018-01-01T00:00:00Z";
+    nrtv:where nrtv:location_19.
+
+event_15 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2019-01-01T00:00:00Z";
+    nrtv:where nrtv:location_20.
+
+event_16 a nrtv:Event;
+    nrtv:what "visitors per year point in time";
+    nrtv:when "2020-01-01T00:00:00Z";
+    nrtv:where nrtv:location_21.
+
+event_17 a nrtv:Event;
+    nrtv:what "on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time";
+    nrtv:when "2022-10-31T00:00:00Z";
+    nrtv:where nrtv:location_22.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q217119;
+    nrtv:role http://www.wikidata.org/prop/P138.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q80732;
+    nrtv:role http://www.wikidata.org/prop/P793.
+
+character_5 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q33817;
+    nrtv:role http://www.wikidata.org/prop/P793.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q99671023;
+    nrtv:setting http://www.wikidata.org/prop/direct/P7153.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q99671286;
+    nrtv:setting http://www.wikidata.org/prop/direct/P7153.
+
+location_8 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q104155704;
+    nrtv:setting http://www.wikidata.org/prop/direct/P7153.
+
+location_9 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_10 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_11 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_12 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_13 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_14 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_15 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_16 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_17 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_18 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_19 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_20 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_21 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+location_22 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q513;
+    nrtv:setting origin.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4567715;
+    nrtv:relation http://www.wikidata.org/prop/P793.
+

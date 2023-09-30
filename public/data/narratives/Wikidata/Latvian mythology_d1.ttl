@@ -1,0 +1,3 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Latvian mythology";
+    nrtv:has_theme http://www.wikidata.org/entity/Q805779;

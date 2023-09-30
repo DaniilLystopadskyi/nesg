@@ -1,0 +1,978 @@
+graph_name	topic	topic_type	depth	size	centrality_degree	similarity_threshold	what	when	num_chars	num_locs	num_rel_events	has_why	has_how	what_word_count	temp_dist_start	temp_dist_end	temp_dist_prev	temp_dist_next	is_ent_event	mean_char_pres	mean_loc_pres	num_unique_roles	num_unique_settings	num_unique_relations	num_rel_narr_events	role_dens	setting_dens	relation_dens	same_narr_dens	num_corr_attr	relevant
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	date of birth	1982-01-08T00:00:00Z	1	1	0	0	0	3	0.00	15071.00	0	730.00	0	16.00	2.00	1	1	0	0	1.00	1.00	0	0	2	0
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	date of birth	1984-01-08T00:00:00Z	1	1	0	0	0	3	730.00	14341.00	730.00	9490.00	0	16.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	work period (start)	2010-01-01T00:00:00Z	1	0	0	0	0	3	10220.00	4851.00	9490.00	365.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Time 100 point in time	2011-01-01T00:00:00Z	1	0	0	0	0	7	10585.00	4486.00	365.00	350.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	position held Supreme Commander of the Korean People’s Army start time	2011-12-17T00:00:00Z	2	0	0	0	0	11	10935.00	4136.00	350.00	0.00	0	10.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	position held Supreme Leader of North Korea start time	2011-12-17T00:00:00Z	2	0	0	0	0	9	10935.00	4136.00	0.00	15.00	0	10.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	Treccani's Lessico del XXI Secolo ID publication date	2012-01-01T00:00:00Z	1	0	0	0	0	8	10950.00	4121.00	15.00	101.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	position held General Secretary of the Workers' Party of Korea start time	2012-04-11T00:00:00Z	2	0	0	0	0	12	11051.00	4020.00	101.00	2.00	0	10.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	position held President of the State Affairs Commission start time	2012-04-13T00:00:00Z	2	0	0	0	0	10	11053.00	4018.00	2.00	263.00	0	10.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Time 100 point in time	2013-01-01T00:00:00Z	1	0	0	0	0	7	11316.00	3755.00	263.00	1095.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Time 100 point in time	2016-01-01T00:00:00Z	1	0	0	0	0	7	12411.00	2660.00	1095.00	366.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Time 100 point in time	2017-01-01T00:00:00Z	1	0	0	0	0	7	12777.00	2294.00	366.00	365.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	image point in time	2019-01-01T00:00:00Z	1	0	0	0	0	4	13507.00	1564.00	365.00	490.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Time 100 point in time	2018-01-01T00:00:00Z	1	0	0	0	0	7	13142.00	1929.00	365.00	365.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	award received Jubilee Medal "75 Years of Victory in the Great Patriotic War 1941–1945" point in time	2020-05-05T00:00:00Z	1	0	0	0	0	17	13997.00	1074.00	490.00	1074.00	0	16.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	1	10	500	0.5	Baidu Tieba name point in time	2023-04-14T00:00:00Z	1	0	0	0	0	6	15071.00	0.00	1074.00	0	0	16.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	date of birth	1881-10-25T00:00:00Z	1	3	0	0	0	3	0.00	NaN	0	5547.00	0	28.00	1.00	1	2	0	0	1.00	0.67	0	0	4	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	educated at start time	1897-01-01T00:00:00Z	1	1	0	0	0	4	5547.00	NaN	5547.00	2555.00	0	28.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner start time	1904-01-01T00:00:00Z	2	0	0	0	0	4	8102.00	NaN	2555.00	2922.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner end time	1912-01-01T00:00:00Z	2	0	0	0	0	4	11024.00	NaN	2922.00	1096.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner end time	1915-01-01T00:00:00Z	2	0	0	0	0	4	12120.00	NaN	1096.00	1288.00	0	14.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	spouse start time	1918-07-12T00:00:00Z	2	1	0	1	0	3	13408.00	NaN	1288.00	3095.00	0	15.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner start time	1927-01-01T00:00:00Z	2	0	0	0	0	4	16503.00	NaN	3095.00	2922.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner end time	1935-01-01T00:00:00Z	2	0	0	0	0	4	19425.00	NaN	2922.00	0.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1935-01-01T00:00:00Z	1	0	0	0	0	6	19425.00	NaN	0.00	365.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner start time	1936-01-01T00:00:00Z	2	0	0	0	0	4	19790.00	NaN	365.00	2922.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner end time	1944-01-01T00:00:00Z	2	0	0	0	0	4	22712.00	NaN	2922.00	1461.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner start time	1948-01-01T00:00:00Z	2	0	0	0	0	4	24173.00	NaN	1461.00	366.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1949-01-01T00:00:00Z	1	0	0	0	0	6	24539.00	NaN	366.00	1461.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	unmarried partner end time	1953-01-01T00:00:00Z	2	0	0	0	0	4	26000.00	NaN	1461.00	771.00	0	15.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	spouse end time	1955-02-11T00:00:00Z	2	1	0	1	0	3	26771.00	NaN	771.00	1055.00	0	15.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	residence start time	1958-01-01T00:00:00Z	1	1	0	0	0	3	27826.00	NaN	1055.00	1096.00	0	28.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	residence end time	1961-01-01T00:00:00Z	1	1	0	0	0	3	28922.00	NaN	1096.00	0.00	0	28.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	residence start time	1961-01-01T00:00:00Z	1	1	0	0	0	3	28922.00	NaN	0.00	60.00	0	28.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	spouse start time	1961-03-02T00:00:00Z	2	1	1	0	0	3	28982.00	NaN	60.00	305.00	0	15.00	2.00	2	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	award received Lenin Peace Prize point in time	1962-01-01T00:00:00Z	1	0	0	0	0	8	29287.00	NaN	305.00	0.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	image point in time	1962-01-01T00:00:00Z	1	0	0	0	0	4	29287.00	NaN	0.00	4018.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	spouse end time	1973-01-01T00:00:00Z	2	1	1	0	0	3	33305.00	NaN	4018.00	0.00	0	15.00	2.00	2	1	1	0	1.00	1.00	1.00	0.00	4	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	residence end time	1973-01-01T00:00:00Z	1	1	0	0	0	3	33305.00	NaN	0.00	97.00	0	28.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	date of death	1973-04-08T00:00:00Z	1	3	1	0	0	3	33402.00	NaN	97.00	633.00	0	28.00	1.67	1	2	1	0	1.00	0.67	1.00	0.00	5	1
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	described by source Great Soviet Encyclopedia (1969–1978) publication date	1975-01-01T00:00:00Z	1	0	0	0	0	9	34035.00	NaN	633.00	1461.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1979-01-01T00:00:00Z	1	0	0	0	0	6	35496.00	NaN	1461.00	16009.00	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	51505.00	NaN	16009.00	NaN	0	28.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	1	10	500	0.5	described by source 	Guggenheim Collection Online	1	1	0	0	0	3	NaN	NaN	NaN	0	0	28.00	1.00	1	1	0	0	1.00	1.00	0	0	2	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	date of birth	1756-01-27T00:00:00Z	1	3	0	0	0	3	0.00	97541.00	0	1801.00	0	15.00	1.33	1	2	0	0	1.00	0.67	0	0	4	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	work period (start)	1761-01-01T00:00:00Z	1	0	0	0	0	3	1801.00	95740.00	1801.00	3287.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	award received Order of the Golden Spur point in time	1770-01-01T00:00:00Z	1	0	0	0	0	10	5088.00	92453.00	3287.00	4598.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	spouse start time	1782-08-04T00:00:00Z	2	0	0	0	0	3	9686.00	87855.00	4598.00	863.00	0	8.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	member of start time	1784-12-14T00:00:00Z	2	0	0	0	0	4	10549.00	86992.00	863.00	2209.00	0	8.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	work period (end)	1791-01-01T00:00:00Z	1	0	0	0	0	3	12758.00	84783.00	2209.00	338.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	date of death	1791-12-05T00:00:00Z	1	3	1	0	0	3	13096.00	84445.00	338.00	0.00	0	15.00	1.33	1	2	1	0	1.00	0.67	1.00	0.00	5	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	spouse end time	1791-12-05T00:00:00Z	2	0	0	0	0	3	13096.00	84445.00	0.00	51891.00	0	8.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	64987.00	32554.00	51891.00	29019.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	YouTube channel ID start time	2013-06-14T00:00:00Z	1	0	0	0	0	5	94006.00	3535.00	29019.00	2747.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	YouTube channel ID point in time	2020-12-21T00:00:00Z	1	0	0	0	0	6	96753.00	788.00	2747.00	194.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	social media followers point in time	2021-07-03T00:00:00Z	1	0	0	0	0	6	96947.00	594.00	194.00	257.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	social media followers point in time	2022-03-17T00:00:00Z	1	0	0	0	0	6	97204.00	337.00	257.00	228.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	97432.00	109.00	228.00	109.00	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	1	10	500	0.5	social media followers point in time	2023-02-17T00:00:00Z	1	0	0	0	0	6	97541.00	0.00	109.00	0	0	15.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	date of birth	1809-02-12T00:00:00Z	1	4	0	1	0	3	0.00	78235.00	0	8469.00	0	26.00	1.00	1	2	0	0	1.00	0.50	0	0	5	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	military branch start time	1832-04-21T00:00:00Z	2	0	0	0	0	4	8469.00	69766.00	8469.00	80.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	military branch end time	1832-07-10T00:00:00Z	2	0	0	0	0	4	8549.00	69686.00	80.00	540.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held member of the Illinois House of Representatives start time	1834-01-01T00:00:00Z	1	0	0	0	0	11	9089.00	69146.00	540.00	0.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party start time	1834-01-01T00:00:00Z	2	0	0	0	0	6	9089.00	69146.00	0.00	2922.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held member of the Illinois House of Representatives end time	1842-01-01T00:00:00Z	1	0	0	0	0	11	12011.00	66224.00	2922.00	307.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	spouse start time	1842-11-04T00:00:00Z	2	1	0	1	0	3	12318.00	65917.00	307.00	1581.00	0	14.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held United States representative start time	1847-03-04T00:00:00Z	3	1	0	0	0	7	13899.00	64336.00	1581.00	731.00	0	10.00	2.00	2	1	0	0	0.67	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held United States representative end time	1849-03-04T00:00:00Z	3	1	0	0	0	7	14630.00	63605.00	731.00	1764.00	0	10.00	2.00	2	1	0	0	0.67	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party end time	1854-01-01T00:00:00Z	2	0	0	0	0	6	16394.00	61841.00	1764.00	0.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held President-elect of the United States start time	1860-11-06T00:00:00Z	3	0	1	0	0	9	18895.00	59340.00	2501.00	118.00	0	10.67	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party start time	1854-01-01T00:00:00Z	2	0	0	0	0	6	16394.00	61841.00	0.00	2501.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held President-elect of the United States end time	1861-03-04T00:00:00Z	3	0	1	0	0	9	19013.00	59222.00	118.00	0.00	0	10.67	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held start time	1861-03-04T00:00:00Z	4	0	2	1	0	4	19013.00	59222.00	0.00	1033.00	0	8.50	0	2	0	1	0	0.50	0	0.50	0.00	7	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party start time	1864-01-01T00:00:00Z	2	0	0	0	0	6	20046.00	58189.00	1033.00	366.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party end time	1865-01-01T00:00:00Z	2	0	0	0	0	6	20412.00	57823.00	366.00	0.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	member of political party end time	1865-01-01T00:00:00Z	2	0	0	0	0	6	20412.00	57823.00	0.00	104.00	0	14.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	spouse end time	1865-04-15T00:00:00Z	2	1	0	1	0	3	20516.00	57719.00	0.00	0.00	0	14.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	45613.00	32622.00	25097.00	27759.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	1	0	0	0	0	7	73372.00	4863.00	27759.00	4144.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	date of death	1865-04-15T00:00:00Z	2	3	2	1	0	3	20516.00	57719.00	104.00	0.00	0	13.50	1.00	2	2	2	0	1.00	0.67	1.00	0.00	7	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	position held end time	1865-04-15T00:00:00Z	4	0	2	1	0	4	20516.00	57719.00	0.00	25097.00	0	8.50	0	2	0	1	0	0.50	0	0.50	0.00	7	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	1	0	0	0	0	12	77516.00	719.00	4144.00	136.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	78058.00	177.00	406.00	177.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	Goodreads author ID point in time	2023-04-26T00:00:00Z	1	0	0	0	0	6	78235.00	0.00	177.00	0	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1966-01-01T00:00:00Z	2	0	0	0	0	4	1611.00	20973.95	1611.00	365.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	1	10	500	0.5	Library of Congress authority ID retrieved	2021-09-20T00:00:00Z	1	0	0	0	0	6	77652.00	583.00	136.00	406.00	0	26.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1967-01-01T00:00:00Z	2	0	0	0	0	4	1976.00	20608.95	0.00	1096.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence Menteng start time	1970-01-01T00:00:00Z	1	0	0	0	0	4	3072.00	19512.95	0.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence Menteng end time	1971-01-01T00:00:00Z	1	0	0	0	0	4	3437.00	19147.95	365.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	1971-01-01T00:00:00Z	1	1	0	0	0	3	3437.00	19147.95	0.00	2922.00	0	104.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1979-01-01T00:00:00Z	2	0	0	0	0	4	6359.00	16225.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1971-01-01T00:00:00Z	2	0	0	0	0	4	3437.00	19147.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	1979-01-01T00:00:00Z	1	1	0	0	0	3	6359.00	16225.95	0.00	365.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1971-01-01T00:00:00Z	2	0	0	0	0	4	3437.00	19147.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1981-01-01T00:00:00Z	1	1	0	0	0	4	7090.00	15494.95	366.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence end time	1981-01-01T00:00:00Z	1	1	0	0	0	3	7090.00	15494.95	0.00	580.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	country of citizenship end time	1982-08-04T00:00:00Z	1	1	0	0	0	5	7670.00	14914.95	580.00	150.00	0	104.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer start time	1983-01-01T00:00:00Z	2	0	0	0	0	3	7820.00	14764.95	0.00	365.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer end time	1984-01-01T00:00:00Z	2	0	0	0	0	3	8185.00	14399.95	365.00	366.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer start time	1985-01-01T00:00:00Z	2	0	0	0	0	3	8551.00	14033.95	366.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer end time	1985-01-01T00:00:00Z	2	0	0	0	0	3	8551.00	14033.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	1985-01-01T00:00:00Z	1	1	0	0	0	3	8551.00	14033.95	0.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	occupation community organizer end time	1988-01-01T00:00:00Z	2	0	0	0	0	5	9646.00	12938.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	occupation lawyer start time	1991-01-01T00:00:00Z	1	0	0	0	0	4	10742.00	11842.95	0.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1988-01-01T00:00:00Z	1	1	1	0	0	4	9646.00	12938.95	1095.00	0.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1991-01-01T00:00:00Z	1	1	1	0	0	4	10742.00	11842.95	0.00	641.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence end time	1985-01-01T00:00:00Z	1	1	0	0	0	3	8551.00	14033.95	0.00	1095.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	occupation political writer start time	1995-01-01T00:00:00Z	1	0	0	0	0	5	12203.00	10381.95	820.00	731.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held member of the State Senate of Illinois start time	1997-01-08T00:00:00Z	3	1	1	0	0	11	12941.00	9643.95	7.00	1819.00	0	36.00	2.00	2	1	1	0	0.67	1.00	1.00	0.00	5	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held member of the State Senate of Illinois end time	2004-11-04T00:00:00Z	3	1	1	0	0	11	15798.00	6786.95	1038.00	58.00	0	36.00	2.00	2	1	1	0	0.67	1.00	1.00	0.00	5	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time	2005-01-01T00:00:00Z	1	0	0	0	0	15	15856.00	6728.95	0.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	participant in point in time	2005-01-01T00:00:00Z	1	0	2	0	0	5	15856.00	6728.95	0.00	0.00	0	104.00	0	1	0	1	0	1.00	0	0.50	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time	2006-02-08T00:00:00Z	1	0	0	0	0	15	16259.00	6325.95	401.00	209.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	2002-01-01T00:00:00Z	1	1	1	0	0	4	14760.00	7824.95	1819.00	1038.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	nominated for NAACP Image Award for Outstanding Literary Work, Nonfiction point in time	2007-01-01T00:00:00Z	1	0	0	0	0	13	16586.00	5998.95	0.00	2.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held United States senator start time	2007-01-03T00:00:00Z	3	2	1	0	0	7	16588.00	5996.95	0.00	61.00	0	36.67	3.00	2	1	1	0	0.67	0.50	1.00	0.00	6	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	religion or worldview end time	2008-01-01T00:00:00Z	2	0	0	0	0	5	16951.00	5633.95	0.00	0.00	0	52.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Time Person of the Year point in time	2008-01-01T00:00:00Z	1	0	0	0	0	10	16951.00	5633.95	0.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held United States senator end time	2008-11-16T00:00:00Z	3	2	1	0	0	7	17271.00	5313.95	12.00	46.00	0	36.67	3.00	2	1	1	0	0.67	0.50	1.00	0.00	6	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received point in time	2009-01-01T00:00:00Z	2	0	0	0	0	5	17317.00	5267.95	0.00	0.00	0	52.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	participant in point in time	2009-01-01T00:00:00Z	1	0	1	0	0	5	17317.00	5267.95	0.00	19.00	0	104.00	0	1	0	1	0	1.00	0	1.00	0.00	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence end time	2009-01-20T00:00:00Z	1	1	0	0	0	3	17336.00	5248.95	0.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Time Person of the Year point in time	2012-01-01T00:00:00Z	1	0	0	0	0	10	18412.00	4172.95	1076.00	239.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Reddit username start time	2012-08-27T00:00:00Z	1	0	0	0	0	4	18651.00	3933.95	239.00	101.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	image point in time	2012-12-06T00:00:00Z	1	0	0	0	0	4	18752.00	3832.95	101.00	105.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username start time	2013-06-01T00:00:00Z	2	0	1	0	0	4	18929.00	3655.95	72.00	214.00	0	56.50	0	2	0	1	0	1.00	0	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received point in time	2014-04-28T00:00:00Z	2	0	0	0	0	5	19260.00	3324.95	117.00	248.00	0	52.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	2015-01-01T00:00:00Z	1	0	0	0	0	6	19508.00	3076.95	248.00	365.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	height point in time	2016-03-01T00:00:00Z	1	0	0	0	0	4	19933.00	2651.95	60.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username end time	2017-01-20T00:00:00Z	2	0	1	0	0	4	20258.00	2326.95	325.00	0.00	0	56.50	0	2	0	1	0	1.00	0	1.00	0.00	3	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	2017-01-20T00:00:00Z	1	1	0	0	0	3	20258.00	2326.95	0.00	0.00	0	104.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Facebook ID end time	2017-01-20T00:00:00Z	2	0	1	0	0	4	20258.00	2326.95	0.00	0.00	0	56.50	0	2	0	1	0	1.00	0	1.00	0.00	0	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held end time	2017-01-20T00:00:00Z	4	0	3	0	0	4	20258.00	2326.95	0.00	977.00	0	30.25	0	2	0	1	0	0.50	0	0.33	0.00	7	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Courrier international topic ID retrieved	2020-02-11T00:00:00Z	1	0	0	0	0	5	21375.00	1209.95	140.00	75.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	Goodreads author ID point in time	2020-09-26T00:00:00Z	1	0	0	0	0	6	21603.00	981.95	153.00	36.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	notable work A Promised Land publication date	2020-11-01T00:00:00Z	1	0	0	0	0	7	21639.00	945.95	36.00	37.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	social media followers point in time	2021-02-05T00:00:00Z	1	0	0	0	0	6	21735.00	849.95	35.00	45.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	social media followers point in time	2021-07-03T00:00:00Z	1	0	0	0	0	6	21883.00	701.95	103.00	79.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Primetime Emmy Award for Outstanding Narrator point in time	2022-09-03T00:00:00Z	1	0	0	0	0	11	22310.00	274.95	186.00	58.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	social media followers point in time	2023-02-04T00:00:00Z	1	0	0	0	0	6	22464.00	120.95	96.00	46.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	social media followers point in time	2023-03-22T00:00:00Z	1	0	0	0	0	6	22510.00	74.95	46.00	74.95	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	personal pronoun 	2023-06-04T22:41:50Z	1	0	0	0	0	2	22584.95	0.00	74.95	0	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	medical condition point in time	2022-03-01T00:00:00Z	1	0	0	1	0	5	22124.00	460.95	8.00	186.00	0	104.00	0	1	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	22368.00	216.95	58.00	96.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	social media followers point in time	2022-02-21T00:00:00Z	1	0	0	0	0	6	22116.00	468.95	154.00	8.00	0	104.00	0	1	0	0	0	1.00	0	0	0	0	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username point in time	2021-03-22T00:00:00Z	1	0	0	0	0	5	21780.00	804.95	45.00	103.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	Library of Congress authority ID retrieved	2021-09-20T00:00:00Z	1	0	0	0	0	6	21962.00	622.95	79.00	154.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username point in time	2019-09-24T00:00:00Z	2	0	0	0	0	5	21235.00	1349.95	977.00	140.00	0	56.50	0	2	0	0	0	1.00	0	0	0	2	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received NAACP Image Award for Outstanding Literary Work, Nonfiction point in time	2021-01-01T00:00:00Z	1	0	0	0	0	13	21700.00	884.95	24.00	35.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	mass point in time	2016-03-01T00:00:00Z	1	0	0	0	0	4	19933.00	2651.95	0.00	325.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	YouTube channel ID point in time	2020-12-08T00:00:00Z	1	0	0	0	0	6	21676.00	908.95	37.00	24.00	0	104.00	0	1	0	0	0	1.00	0	0	0	0	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received point in time	2013-03-21T00:00:00Z	2	0	0	0	0	5	18857.00	3727.95	105.00	72.00	0	52.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username point in time	2020-04-26T00:00:00Z	2	0	0	0	0	5	21450.00	1134.95	75.00	153.00	0	56.50	0	2	0	0	0	1.00	0	0	0	2	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	2009-01-20T00:00:00Z	1	1	0	0	0	3	17336.00	5248.95	19.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Facebook ID start time	2017-01-20T00:00:00Z	2	0	0	0	0	4	20258.00	2326.95	0.00	0.00	0	56.50	0	2	0	0	0	1.00	0	0	0	0	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Nobel Peace Prize point in time	2009-01-01T00:00:00Z	1	0	0	0	0	8	17317.00	5267.95	46.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username start time	2017-01-20T00:00:00Z	2	0	0	0	0	4	20258.00	2326.95	0.00	0.00	0	56.50	0	2	0	0	0	1.00	0	0	0	0	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held United States senator end time	2007-01-03T00:00:00Z	3	2	1	0	0	7	16588.00	5996.95	2.00	0.00	0	36.67	3.00	2	1	1	0	0.67	0.50	1.00	0.00	6	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence end time	2017-01-20T00:00:00Z	1	1	0	0	0	3	20258.00	2326.95	0.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	spouse start time	1992-10-03T00:00:00Z	2	1	0	0	0	3	11383.00	11201.95	641.00	820.00	0	52.50	1.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received German Media Award point in time	2016-01-01T00:00:00Z	1	0	0	0	0	8	19873.00	2711.95	365.00	60.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer end time	1991-01-01T00:00:00Z	2	0	0	0	0	3	10742.00	11842.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	mass point in time	2014-01-01T00:00:00Z	1	0	0	0	0	4	19143.00	3441.95	214.00	117.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	employer start time	1991-01-01T00:00:00Z	2	0	0	0	0	3	10742.00	11842.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held start time	2009-01-20T00:00:00Z	4	0	3	0	0	4	17336.00	5248.95	0.00	1076.00	0	30.25	0	2	0	1	0	0.50	0	0.33	0.00	7	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1991-01-01T00:00:00Z	1	1	1	0	0	4	10742.00	11842.95	1096.00	0.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held President-elect of the United States end time	2009-01-20T00:00:00Z	3	0	1	0	0	9	17336.00	5248.95	0.00	0.00	0	37.33	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1988-01-01T00:00:00Z	1	1	1	0	0	4	9646.00	12938.95	0.00	1096.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held President-elect of the United States start time	2008-11-04T00:00:00Z	3	0	1	0	0	9	17259.00	5325.95	308.00	12.00	0	37.33	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	occupation community organizer start time	1985-01-01T00:00:00Z	2	0	0	0	0	5	8551.00	14033.95	0.00	0.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Phoenix Award point in time	2008-01-01T00:00:00Z	1	0	0	0	0	7	16951.00	5633.95	0.00	308.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at end time	1983-01-01T00:00:00Z	1	1	1	0	0	4	7820.00	14764.95	150.00	0.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received Financial Times Person of the Year point in time	2008-01-01T00:00:00Z	1	0	0	0	0	11	16951.00	5633.95	302.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence start time	1981-01-01T00:00:00Z	1	1	0	0	0	3	7090.00	15494.95	0.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	Twitter username start time	2007-03-05T00:00:00Z	1	0	0	0	0	4	16649.00	5935.95	61.00	302.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1981-01-01T00:00:00Z	1	1	1	0	0	4	7090.00	15494.95	0.00	0.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received NAACP Image Award for Outstanding Literary Work, Nonfiction point in time	2007-01-01T00:00:00Z	1	0	0	0	0	13	16586.00	5998.95	118.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence Tebet end time	1970-01-01T00:00:00Z	1	0	0	0	0	4	3072.00	19512.95	1096.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	YouTube channel ID start time	2006-09-05T00:00:00Z	1	0	0	0	0	5	16468.00	6116.95	209.00	118.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Barack Obama	Person	1	10	500	0.5	date of birth	1961-08-04T00:00:00Z	1	6	1	1	0	3	0.00	22584.95	0	1611.00	0	104.00	2.00	1	2	1	0	1.00	0.33	1.00	0.00	7	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	position held United States senator start time	2005-01-03T00:00:00Z	3	2	1	0	0	7	15858.00	6726.95	2.00	401.00	0	36.67	3.00	2	1	1	0	0.67	0.50	1.00	0.00	6	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence Tebet start time	1967-01-01T00:00:00Z	1	0	0	0	0	4	1976.00	20608.95	365.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1970-01-01T00:00:00Z	2	0	0	0	0	4	3072.00	19512.95	0.00	365.00	0	53.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	award received NAACP Image Award – Chairman's Award point in time	2005-01-01T00:00:00Z	1	0	0	0	0	11	15856.00	6728.95	0.00	2.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	nominated for Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time	2005-01-01T00:00:00Z	1	0	0	0	0	15	15856.00	6728.95	58.00	0.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1979-01-01T00:00:00Z	1	1	0	0	0	4	6359.00	16225.95	2922.00	0.00	0	104.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	residence end time	1979-01-01T00:00:00Z	1	1	0	0	0	3	6359.00	16225.95	0.00	0.00	0	104.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	educated at start time	1997-01-01T00:00:00Z	1	1	1	0	0	4	12934.00	9650.95	731.00	7.00	0	104.00	2.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Barack Obama	Person	1	10	500	0.5	nickname end time	1980-01-01T00:00:00Z	1	0	0	0	0	3	6724.00	15860.95	365.00	366.00	0	104.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	date of birth	1642-01-01T00:00:00Z	1	6	0	0	0	3	0.00	139095.00	0	368.00	0	33.00	3.33	1	2	0	0	1.00	0.33	0	0	7	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	date of birth	1643-01-04T00:00:00Z	1	6	0	0	0	3	368.00	138727.00	368.00	4380.00	0	33.00	3.33	1	2	0	0	1.00	0.33	0	0	7	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at start time	1655-01-01T00:00:00Z	1	1	0	0	0	4	4748.00	134347.00	4380.00	1461.00	0	33.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at end time	1659-01-01T00:00:00Z	1	1	0	0	0	4	6209.00	132886.00	1461.00	882.00	0	33.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at start time	1661-06-01T00:00:00Z	1	1	1	0	0	4	7091.00	132004.00	882.00	1522.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at end time	1665-08-01T00:00:00Z	1	1	1	0	0	4	8613.00	130482.00	1522.00	608.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at start time	1667-04-01T00:00:00Z	1	1	1	0	0	4	9221.00	129874.00	608.00	275.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	educated at end time	1668-01-01T00:00:00Z	1	1	1	0	0	4	9496.00	129599.00	275.00	366.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Lucasian Professor of Mathematics start time	1669-01-01T00:00:00Z	1	0	0	0	0	8	9862.00	129233.00	366.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	professorship Lucasian Professor of Mathematics start time	1669-01-01T00:00:00Z	3	0	0	0	0	7	9862.00	129233.00	0.00	1105.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	member of start time	1672-01-11T00:00:00Z	1	1	0	0	0	4	10967.00	128128.00	1105.00	6200.00	0	33.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Member of Parliament in the Parliament of England start time	1689-01-01T00:00:00Z	1	1	0	0	0	12	17167.00	121928.00	6200.00	365.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Member of Parliament in the Parliament of England end time	1690-01-01T00:00:00Z	1	1	0	0	0	12	17532.00	121563.00	365.00	2191.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Warden of the Mint start time	1696-01-01T00:00:00Z	1	0	0	0	0	8	19723.00	119372.00	2191.00	1461.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Master of the Mint start time	1700-01-01T00:00:00Z	1	0	0	0	0	8	21184.00	117911.00	1461.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Warden of the Mint end time	1700-01-01T00:00:00Z	1	0	0	0	0	8	21184.00	117911.00	0.00	699.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Member of Parliament in the Parliament of England start time	1701-12-01T00:00:00Z	1	1	0	0	0	12	21883.00	117212.00	699.00	9.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	professorship Lucasian Professor of Mathematics end time	1701-12-10T00:00:00Z	3	0	0	0	0	7	21892.00	117203.00	9.00	22.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Lucasian Professor of Mathematics end time	1702-01-01T00:00:00Z	1	0	0	0	0	8	21914.00	117181.00	22.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Member of Parliament in the Parliament of England end time	1702-01-01T00:00:00Z	1	1	0	0	0	12	21914.00	117181.00	0.00	365.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	award received point in time	1705-01-01T00:00:00Z	2	0	0	0	0	5	23010.00	116085.00	731.00	0.00	0	17.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held President of the Royal Society start time	1703-01-01T00:00:00Z	3	0	0	0	0	9	22279.00	116816.00	365.00	731.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held President of the Royal Society end time	1727-01-01T00:00:00Z	3	0	0	0	0	9	31045.00	108050.00	8035.00	0.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	date of death	1727-03-31T00:00:00Z	1	2	0	0	0	3	31134.00	107961.00	89.00	0.00	0	33.00	2.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	106650.00	32445.00	75516.00	14610.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	described by source Great Soviet Encyclopedia (1969–1978) publication date	1974-01-01T00:00:00Z	1	0	0	0	0	9	121260.00	17835.00	14610.00	10227.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	honorific prefix start time	1705-01-01T00:00:00Z	1	1	0	0	0	4	23010.00	116085.00	0.00	8035.00	0	33.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	date of death	1727-01-01T00:00:00Z	1	2	0	0	0	3	31045.00	108050.00	0.00	89.00	0	33.00	2.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	position held Master of the Mint end time	1727-03-31T00:00:00Z	1	0	0	0	0	8	31134.00	107961.00	0.00	75516.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	1	10	500	0.5	Treccani ID publication date	2002-01-01T00:00:00Z	1	0	0	0	0	4	131487.00	7608.00	10227.00	2557.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	139095.00	0.00	3590.00	0	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	Treccani's Dizionario di Filosofia ID publication date	2009-01-01T00:00:00Z	1	0	0	0	0	7	134044.00	5051.00	2557.00	1461.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	1	10	500	0.5	Treccani's Enciclopedia della Matematica ID publication date	2013-01-01T00:00:00Z	1	0	0	0	0	7	135505.00	3590.00	1461.00	3590.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	date of birth	1642-01-01T00:00:00Z	1	6	0	0	0	3	0.00	139095.00	0	368.00	0	33.00	3.33	1	2	0	0	1.00	0.33	0	0	7	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	date of birth	1643-01-04T00:00:00Z	1	6	0	0	0	3	368.00	138727.00	368.00	4380.00	0	33.00	3.33	1	2	0	0	1.00	0.33	0	0	7	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at start time	1655-01-01T00:00:00Z	1	1	0	0	0	4	4748.00	134347.00	4380.00	1461.00	0	33.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at end time	1659-01-01T00:00:00Z	1	1	0	0	0	4	6209.00	132886.00	1461.00	882.00	0	33.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at start time	1661-06-01T00:00:00Z	1	1	1	0	0	4	7091.00	132004.00	882.00	1522.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at end time	1665-08-01T00:00:00Z	1	1	1	0	0	4	8613.00	130482.00	1522.00	608.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at start time	1667-04-01T00:00:00Z	1	1	1	0	0	4	9221.00	129874.00	608.00	275.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	educated at end time	1668-01-01T00:00:00Z	1	1	1	0	0	4	9496.00	129599.00	275.00	366.00	0	33.00	4.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Lucasian Professor of Mathematics start time	1669-01-01T00:00:00Z	1	0	0	0	0	8	9862.00	129233.00	366.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	professorship Lucasian Professor of Mathematics start time	1669-01-01T00:00:00Z	3	0	0	0	0	7	9862.00	129233.00	0.00	1105.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	member of start time	1672-01-11T00:00:00Z	2	0	0	0	0	4	10967.00	128128.00	1105.00	6200.00	0	17.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Member of Parliament in the Parliament of England start time	1689-01-01T00:00:00Z	1	1	0	0	0	12	17167.00	121928.00	6200.00	365.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Member of Parliament in the Parliament of England end time	1690-01-01T00:00:00Z	1	1	0	0	0	12	17532.00	121563.00	365.00	2191.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Warden of the Mint start time	1696-01-01T00:00:00Z	1	0	0	0	0	8	19723.00	119372.00	2191.00	1461.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Master of the Mint start time	1700-01-01T00:00:00Z	1	0	0	0	0	8	21184.00	117911.00	1461.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Warden of the Mint end time	1700-01-01T00:00:00Z	1	0	0	0	0	8	21184.00	117911.00	0.00	699.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Member of Parliament in the Parliament of England start time	1701-12-01T00:00:00Z	1	1	0	0	0	12	21883.00	117212.00	699.00	9.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	professorship Lucasian Professor of Mathematics end time	1701-12-10T00:00:00Z	3	0	0	0	0	7	21892.00	117203.00	9.00	22.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Lucasian Professor of Mathematics end time	1702-01-01T00:00:00Z	1	0	0	0	0	8	21914.00	117181.00	22.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Member of Parliament in the Parliament of England end time	1702-01-01T00:00:00Z	1	1	0	0	0	12	21914.00	117181.00	0.00	365.00	0	33.00	4.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held President of the Royal Society start time	1703-01-01T00:00:00Z	3	0	0	0	0	9	22279.00	116816.00	365.00	731.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	honorific prefix Sir start time	1705-01-01T00:00:00Z	1	0	0	0	0	5	23010.00	116085.00	731.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	award received point in time	1705-01-01T00:00:00Z	2	0	0	0	0	5	23010.00	116085.00	0.00	8035.00	0	17.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	date of death	1727-01-01T00:00:00Z	1	2	0	0	0	3	31045.00	108050.00	8035.00	0.00	0	33.00	2.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held President of the Royal Society end time	1727-01-01T00:00:00Z	3	0	0	0	0	9	31045.00	108050.00	0.00	89.00	0	12.33	0	2	0	0	0	0.67	0	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	position held Master of the Mint end time	1727-03-31T00:00:00Z	1	0	0	0	0	8	31134.00	107961.00	89.00	0.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	date of death	1727-03-31T00:00:00Z	1	2	0	0	0	3	31134.00	107961.00	0.00	75516.00	0	33.00	2.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Isaac Newton	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	106650.00	32445.00	75516.00	14610.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	described by source Great Soviet Encyclopedia (1969–1978) publication date	1974-01-01T00:00:00Z	1	0	0	0	0	9	121260.00	17835.00	14610.00	10227.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	Treccani ID publication date	2002-01-01T00:00:00Z	1	0	0	0	0	4	131487.00	7608.00	10227.00	2557.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	Treccani's Dizionario di Filosofia ID publication date	2009-01-01T00:00:00Z	1	0	0	0	0	7	134044.00	5051.00	2557.00	1461.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	Treccani's Enciclopedia della Matematica ID publication date	2013-01-01T00:00:00Z	1	0	0	0	0	7	135505.00	3590.00	1461.00	3590.00	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Isaac Newton	Person	2	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	139095.00	0.00	3590.00	0	0	33.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	date of birth	1982-01-08T00:00:00Z	1	1	0	0	0	3	0.00	15071.00	0	730.00	0	20.00	2.00	1	1	0	0	1.00	1.00	0	0	2	0
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	date of birth	1984-01-08T00:00:00Z	1	1	0	0	0	3	730.00	14341.00	730.00	9490.00	0	20.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	work period (start)	2010-01-01T00:00:00Z	1	0	0	0	0	3	10220.00	4851.00	9490.00	365.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Time 100 point in time	2011-01-01T00:00:00Z	1	0	0	0	0	7	10585.00	4486.00	365.00	350.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	position held Supreme Commander of the Korean People’s Army start time	2011-12-17T00:00:00Z	2	0	0	0	0	11	10935.00	4136.00	350.00	0.00	0	12.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	position held Supreme Leader of North Korea start time	2011-12-17T00:00:00Z	2	0	0	0	0	9	10935.00	4136.00	0.00	15.00	0	12.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	Treccani's Lessico del XXI Secolo ID publication date	2012-01-01T00:00:00Z	1	0	0	0	0	8	10950.00	4121.00	15.00	101.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	position held General Secretary of the Workers' Party of Korea start time	2012-04-11T00:00:00Z	2	0	0	0	0	12	11051.00	4020.00	101.00	2.00	0	12.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	position held President of the State Affairs Commission start time	2012-04-13T00:00:00Z	2	0	0	0	0	10	11053.00	4018.00	2.00	263.00	0	12.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Time 100 point in time	2013-01-01T00:00:00Z	1	0	0	0	0	7	11316.00	3755.00	263.00	432.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	2014 North Korean parliamentary election point in time	2014-03-09T00:00:00Z	3	2	3	0	0	8	11748.00	3323.00	432.00	663.00	1	13.67	3.00	3	2	2	0	1.00	1.00	0.67	0.00	8	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Time 100 point in time	2016-01-01T00:00:00Z	1	0	0	0	0	7	12411.00	2660.00	663.00	366.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Time 100 point in time	2017-01-01T00:00:00Z	1	0	0	0	0	7	12777.00	2294.00	366.00	365.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Time 100 point in time	2018-01-01T00:00:00Z	1	0	0	0	0	7	13142.00	1929.00	365.00	145.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	May 2018 inter-Korean summit point in time	2018-05-26T00:00:00Z	2	4	3	0	0	7	13287.00	1784.00	145.00	220.00	1	10.50	2.00	1	3	2	0	0.50	0.75	0.67	0.00	9	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	image point in time	2019-01-01T00:00:00Z	1	0	0	0	0	4	13507.00	1564.00	220.00	114.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	2019 North Korea–Russia summit point in time	2019-04-25T00:00:00Z	2	0	1	0	0	7	13621.00	1450.00	114.00	376.00	1	10.50	0	1	0	1	0	0.50	0	1.00	0.00	3	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	award received Jubilee Medal "75 Years of Victory in the Great Patriotic War 1941–1945" point in time	2020-05-05T00:00:00Z	1	0	0	0	0	17	13997.00	1074.00	376.00	1074.00	0	20.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Kim Jong-un	Person	2	10	500	0.5	Baidu Tieba name point in time	2023-04-14T00:00:00Z	1	0	0	0	0	6	15071.00	0.00	1074.00	0	0	20.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	date of birth	1881-10-25T00:00:00Z	1	3	0	0	0	3	0.00	NaN	0	5547.00	0	30.00	1.00	1	2	0	0	1.00	0.67	0	0	4	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	educated at start time	1897-01-01T00:00:00Z	1	1	0	0	0	4	5547.00	NaN	5547.00	2555.00	0	30.00	1.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner start time	1904-01-01T00:00:00Z	2	0	0	0	0	4	8102.00	NaN	2555.00	2922.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner end time	1912-01-01T00:00:00Z	2	0	0	0	0	4	11024.00	NaN	2922.00	1096.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner end time	1915-01-01T00:00:00Z	2	0	0	0	0	4	12120.00	NaN	1096.00	1288.00	0	15.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	spouse start time	1918-07-12T00:00:00Z	2	1	0	1	0	3	13408.00	NaN	1288.00	3095.00	0	16.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner start time	1927-01-01T00:00:00Z	2	0	0	0	0	4	16503.00	NaN	3095.00	2922.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner end time	1935-01-01T00:00:00Z	2	0	0	0	0	4	19425.00	NaN	2922.00	0.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1935-01-01T00:00:00Z	1	0	0	0	0	6	19425.00	NaN	0.00	365.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner start time	1936-01-01T00:00:00Z	2	0	0	0	0	4	19790.00	NaN	365.00	2922.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner end time	1944-01-01T00:00:00Z	2	0	0	0	0	4	22712.00	NaN	2922.00	1461.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner start time	1948-01-01T00:00:00Z	2	0	0	0	0	4	24173.00	NaN	1461.00	366.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1949-01-01T00:00:00Z	1	0	0	0	0	6	24539.00	NaN	366.00	1461.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	unmarried partner end time	1953-01-01T00:00:00Z	2	0	0	0	0	4	26000.00	NaN	1461.00	771.00	0	16.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	spouse end time	1955-02-11T00:00:00Z	2	1	0	1	0	3	26771.00	NaN	771.00	1055.00	0	16.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	residence start time	1958-01-01T00:00:00Z	1	1	0	0	0	3	27826.00	NaN	1055.00	1096.00	0	30.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	residence end time	1961-01-01T00:00:00Z	1	1	0	0	0	3	28922.00	NaN	1096.00	0.00	0	30.00	2.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	residence start time	1961-01-01T00:00:00Z	1	1	0	0	0	3	28922.00	NaN	0.00	60.00	0	30.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	spouse start time	1961-03-02T00:00:00Z	2	1	1	0	0	3	28982.00	NaN	60.00	305.00	0	16.00	2.00	2	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	award received Lenin Peace Prize point in time	1962-01-01T00:00:00Z	1	0	0	0	0	8	29287.00	NaN	305.00	0.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	image point in time	1962-01-01T00:00:00Z	1	0	0	0	0	4	29287.00	NaN	0.00	4018.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	spouse end time	1973-01-01T00:00:00Z	2	1	1	0	0	3	33305.00	NaN	4018.00	0.00	0	16.00	2.00	2	1	1	0	1.00	1.00	1.00	0.00	4	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	residence end time	1973-01-01T00:00:00Z	1	1	0	0	0	3	33305.00	NaN	0.00	97.00	0	30.00	3.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	date of death	1973-04-08T00:00:00Z	1	3	1	0	0	3	33402.00	NaN	97.00	633.00	0	30.00	1.67	1	2	1	0	1.00	0.67	1.00	0.00	5	1
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	described by source Great Soviet Encyclopedia (1969–1978) publication date	1975-01-01T00:00:00Z	1	0	0	0	0	9	34035.00	NaN	633.00	1461.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1979-01-01T00:00:00Z	1	0	0	0	0	6	35496.00	NaN	1461.00	14308.00	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	Rhode Island School of Design denies claim on Picasso by Alphonse Kann heirs publication date news article work	2018-03-05T00:00:00Z	8	3	2	0	0	18	49804.00	NaN	14308.00	1701.00	1	9.00	1.67	4	2	2	0	0.50	0.67	1.00	0.00	13	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	51505.00	NaN	1701.00	NaN	0	30.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Pablo Picasso	Person	2	10	500	0.5	described by source 	Guggenheim Collection Online	1	1	0	0	0	3	NaN	NaN	NaN	0	0	30.00	1.00	1	1	0	0	1.00	1.00	0	0	2	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	Classical period inception Wikipedia:Vital articles/Level/4	1730-01-01T00:00:00Z	5	0	2	0	0	5	0.00	107063.00	0	9522.00	1	8.20	0	3	0	2	0	0.60	0	1.00	0.00	7	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	date of birth	1756-01-27T00:00:00Z	1	3	0	0	0	3	9522.00	97541.00	9522.00	1801.00	0	19.00	1.33	1	2	0	0	1.00	0.67	0	0	4	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	work period (start)	1761-01-01T00:00:00Z	1	0	0	0	0	3	11323.00	95740.00	1801.00	3287.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	award received Order of the Golden Spur point in time	1770-01-01T00:00:00Z	1	0	0	0	0	10	14610.00	92453.00	3287.00	4598.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	spouse start time	1782-08-04T00:00:00Z	2	0	0	0	0	3	19208.00	87855.00	4598.00	863.00	0	10.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	member of start time	1784-12-14T00:00:00Z	2	0	0	0	0	4	20071.00	86992.00	863.00	2209.00	0	10.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	work period (end)	1791-01-01T00:00:00Z	1	0	0	0	0	3	22280.00	84783.00	2209.00	338.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	date of death	1791-12-05T00:00:00Z	1	3	1	0	0	3	22618.00	84445.00	338.00	0.00	0	19.00	1.67	1	2	1	0	1.00	0.67	1.00	0.00	5	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	spouse end time	1791-12-05T00:00:00Z	2	0	0	0	0	3	22618.00	84445.00	0.00	0.00	0	10.50	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	death of Wolfgang Amadeus Mozart point in time	1791-12-05T00:00:00Z	2	2	1	0	0	8	22618.00	84445.00	0.00	51891.00	1	19.00	1.50	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	74509.00	32554.00	51891.00	29019.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	YouTube channel ID start time	2013-06-14T00:00:00Z	1	0	0	0	0	5	103528.00	3535.00	29019.00	2747.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	YouTube channel ID point in time	2020-12-21T00:00:00Z	1	0	0	0	0	6	106275.00	788.00	2747.00	194.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	social media followers point in time	2021-07-03T00:00:00Z	1	0	0	0	0	6	106469.00	594.00	194.00	257.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	social media followers point in time	2022-03-17T00:00:00Z	1	0	0	0	0	6	106726.00	337.00	257.00	228.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	106954.00	109.00	228.00	109.00	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Wolfgang Amadeus Mozart	Person	2	10	500	0.5	social media followers point in time	2023-02-17T00:00:00Z	1	0	0	0	0	6	107063.00	0.00	109.00	0	0	19.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	date of birth	1809-02-12T00:00:00Z	1	4	0	1	0	3	0.00	78235.00	0	8469.00	0	58.00	1.00	1	2	0	0	1.00	0.50	0	0	5	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	military branch start time	1832-04-21T00:00:00Z	2	0	0	0	0	4	8469.00	69766.00	8469.00	10.00	0	30.00	0	2	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Black Hawk War start time British Band	1832-05-01T00:00:00Z	3	6	2	0	0	7	8479.00	69756.00	10.00	70.00	1	21.33	5.33	3	2	1	0	1.00	0.33	0.50	0.00	11	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	military branch end time	1832-07-10T00:00:00Z	2	0	0	0	0	4	8549.00	69686.00	70.00	22.00	0	30.00	0	2	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Black Hawk War end time British Band	1832-08-01T00:00:00Z	3	6	2	0	0	7	8571.00	69664.00	22.00	26.00	1	21.33	5.33	3	2	1	0	1.00	0.33	0.50	0.00	11	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Black Hawk War point in time British Band	1832-08-27T00:00:00Z	3	6	2	0	0	8	8597.00	69638.00	26.00	492.00	1	21.33	5.33	3	2	1	0	1.00	0.33	0.50	0.00	11	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held member of the Illinois House of Representatives start time	1834-01-01T00:00:00Z	1	0	0	0	0	11	9089.00	69146.00	492.00	0.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party start time	1834-01-01T00:00:00Z	2	0	0	0	0	6	9089.00	69146.00	0.00	2922.00	0	30.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held member of the Illinois House of Representatives end time	1842-01-01T00:00:00Z	1	0	0	0	0	11	12011.00	66224.00	2922.00	307.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	spouse start time	1842-11-04T00:00:00Z	2	1	0	1	0	3	12318.00	65917.00	307.00	1154.00	0	30.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	1846 United States House of Representatives elections point in time	1846-01-01T00:00:00Z	2	2	4	0	0	10	13472.00	64763.00	1154.00	427.00	1	29.50	17.00	2	2	2	0	1.00	1.00	0.50	0.00	8	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held United States representative start time	1847-03-04T00:00:00Z	3	1	0	0	0	7	13899.00	64336.00	427.00	731.00	0	20.67	2.00	2	1	0	0	0.67	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held United States representative end time	1849-03-04T00:00:00Z	3	1	0	0	0	7	14630.00	63605.00	731.00	1764.00	0	20.67	2.00	2	1	0	0	0.67	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party end time	1854-01-01T00:00:00Z	2	0	0	0	0	6	16394.00	61841.00	1764.00	0.00	0	30.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party start time	1854-01-01T00:00:00Z	2	0	0	0	0	6	16394.00	61841.00	0.00	2501.00	0	31.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held President-elect of the United States start time	1860-11-06T00:00:00Z	3	0	1	0	0	9	18895.00	59340.00	2501.00	0.00	0	21.33	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	1860 United States presidential election point in time	1860-11-06T00:00:00Z	20	2	4	0	0	8	18895.00	59340.00	0.00	118.00	1	13.60	17.00	6	2	3	0	0.30	1.00	0.75	0.00	26	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held President-elect of the United States end time	1861-03-04T00:00:00Z	3	0	1	0	0	9	19013.00	59222.00	118.00	0.00	0	21.33	0	2	0	1	0	0.67	0	1.00	0.00	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held start time	1861-03-04T00:00:00Z	4	0	2	1	0	4	19013.00	59222.00	0.00	0.00	0	17.50	0	2	0	1	0	0.50	0	0.50	0.00	7	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	first inauguration of Abraham Lincoln point in time	1861-03-04T00:00:00Z	6	2	4	0	0	8	19013.00	59222.00	0.00	990.00	1	30.00	9.50	4	2	3	0	0.67	1.00	0.75	0.00	12	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Gettysburg Address point in time Everett draft of the Gettysburg Address Bancroft draft of the Gettysburg Address Nicolay draft of the Gettysburg Address Hay draft of the Gettysburg Address Bliss copy of the Gettysburg Address	1863-11-19T00:00:00Z	8	5	6	0	0	35	20003.00	58232.00	990.00	0.00	1	30.13	8.80	4	4	4	0	0.50	0.80	0.67	0.00	19	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Gettysburg Address publication date Everett draft of the Gettysburg Address Bancroft draft of the Gettysburg Address Nicolay draft of the Gettysburg Address Hay draft of the Gettysburg Address Bliss copy of the Gettysburg Address	1863-11-19T00:00:00Z	8	5	6	0	0	34	20003.00	58232.00	0.00	43.00	1	30.13	8.80	4	4	4	0	0.50	0.80	0.67	0.00	19	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party start time	1864-01-01T00:00:00Z	2	0	0	0	0	6	20046.00	58189.00	43.00	312.00	0	31.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	1864 United States presidential election point in time	1864-11-08T00:00:00Z	12	2	10	0	0	8	20358.00	57877.00	312.00	54.00	1	21.67	17.00	6	2	4	0	0.50	1.00	0.40	0.00	24	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party end time	1865-01-01T00:00:00Z	2	0	0	0	0	6	20412.00	57823.00	54.00	0.00	0	31.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	member of political party end time	1865-01-01T00:00:00Z	2	0	0	0	0	6	20412.00	57823.00	0.00	62.00	0	31.00	0	2	0	0	0	1.00	0	0	0	2	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	second inauguration of Abraham Lincoln point in time	1865-03-04T00:00:00Z	6	2	6	0	0	8	20474.00	57761.00	62.00	42.00	1	30.33	9.50	4	2	5	0	0.67	1.00	0.83	0.00	14	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	date of death	1865-04-15T00:00:00Z	2	3	2	1	0	3	20516.00	57719.00	42.00	0.00	0	30.50	7.00	2	2	2	0	1.00	0.67	1.00	0.00	7	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	spouse end time	1865-04-15T00:00:00Z	2	1	0	1	0	3	20516.00	57719.00	0.00	0.00	0	30.00	2.00	2	1	0	0	1.00	1.00	0	0	4	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	position held end time	1865-04-15T00:00:00Z	4	0	2	1	0	4	20516.00	57719.00	0.00	0.00	0	17.50	0	2	0	1	0	0.50	0	0.50	0.00	7	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	assassination of Abraham Lincoln point in time	1865-04-15T00:00:00Z	16	5	5	0	0	7	20516.00	57719.00	0.00	25097.00	1	22.88	4.60	9	4	1	0	0.56	0.80	0.20	0.00	21	1
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1934-01-01T00:00:00Z	1	0	0	0	0	6	45613.00	32622.00	25097.00	27759.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	1	0	0	0	0	7	73372.00	4863.00	27759.00	4144.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	1	0	0	0	0	12	77516.00	719.00	4144.00	136.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Library of Congress authority ID retrieved	2021-09-20T00:00:00Z	1	0	0	0	0	6	77652.00	583.00	136.00	406.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	1	0	0	0	0	11	78058.00	177.00	406.00	177.00	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Abraham Lincoln	Person	2	10	500	0.5	Goodreads author ID point in time	2023-04-26T00:00:00Z	1	0	0	0	0	6	78235.00	0.00	177.00	0	0	58.00	0	1	0	0	0	1.00	0	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	named after start time	1865-01-01T00:00:00Z	1	1	0	0	0	4	0.00	57646.00	0	20453.00	0	1.00	94.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1921 British Mount Everest reconnaissance expedition point in time mountaineering expedition	1921-01-01T00:00:00Z	15	6	2	0	0	11	20453.00	37193.00	20453.00	90.00	1	6.40	34.50	2	5	2	0	0.13	0.83	1.00	0.00	23	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1921 British Mount Everest reconnaissance expedition start time mountaineering expedition	1921-04-01T00:00:00Z	15	6	2	0	0	10	20543.00	37103.00	90.00	153.00	1	6.40	34.50	2	5	2	0	0.13	0.83	1.00	0.00	23	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1921 British Mount Everest reconnaissance expedition end time mountaineering expedition	1921-09-01T00:00:00Z	15	6	2	0	0	10	20696.00	36950.00	153.00	122.00	1	6.40	34.50	2	5	2	0	0.13	0.83	1.00	0.00	23	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1922 British Mount Everest Expedition point in time mountaineering expedition	1922-01-01T00:00:00Z	14	4	4	0	0	10	20818.00	36828.00	122.00	59.00	1	6.57	73.50	2	4	2	0	0.14	1.00	0.50	0.00	22	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1922 British Mount Everest Expedition start time mountaineering expedition	1922-03-01T00:00:00Z	14	4	4	0	0	9	20877.00	36769.00	59.00	153.00	1	6.57	73.50	2	4	2	0	0.14	1.00	0.50	0.00	22	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1922 British Mount Everest Expedition end time mountaineering expedition	1922-08-01T00:00:00Z	14	4	4	0	0	9	21030.00	36616.00	153.00	518.00	1	6.57	73.50	2	4	2	0	0.14	1.00	0.50	0.00	22	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1924 British Mount Everest Expedition point in time mountaineering expedition	1924-01-01T00:00:00Z	18	4	4	0	0	10	21548.00	36098.00	518.00	31.00	1	7.33	50.75	2	4	2	0	0.11	1.00	0.50	0.00	26	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1924 British Mount Everest Expedition start time mountaineering expedition	1924-02-01T00:00:00Z	18	4	4	0	0	9	21579.00	36067.00	31.00	121.00	1	7.33	50.75	2	4	2	0	0.11	1.00	0.50	0.00	26	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1924 British Mount Everest Expedition end time mountaineering expedition	1924-06-01T00:00:00Z	18	4	4	0	0	9	21700.00	35946.00	121.00	3136.00	1	7.33	50.75	2	4	2	0	0.11	1.00	0.50	0.00	26	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1933 British Mount Everest expedition point in time mountaineering expedition	1933-01-01T00:00:00Z	20	2	4	0	0	10	24836.00	32810.00	3136.00	730.00	1	2.75	94.00	4	2	2	0	0.20	1.00	0.50	0.00	26	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1935 British Mount Everest reconnaissance expedition point in time expedition	1935-01-01T00:00:00Z	13	4	3	0	0	10	25566.00	32080.00	730.00	120.00	1	11.15	51.75	3	4	2	0	0.23	1.00	0.67	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1935 British Mount Everest reconnaissance expedition start time expedition	1935-05-01T00:00:00Z	13	4	3	0	0	9	25686.00	31960.00	120.00	92.00	1	11.15	51.75	3	4	2	0	0.23	1.00	0.67	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1935 British Mount Everest reconnaissance expedition end time expedition	1935-08-01T00:00:00Z	13	4	3	0	0	9	25778.00	31868.00	92.00	153.00	1	11.15	51.75	3	4	2	0	0.23	1.00	0.67	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1936 British Mount Everest expedition point in time expedition	1936-01-01T00:00:00Z	19	2	3	0	0	9	25931.00	31715.00	153.00	731.00	1	7.37	94.00	2	2	2	0	0.11	1.00	0.67	0.00	24	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1938 British Mount Everest expedition point in time expedition	1938-01-01T00:00:00Z	19	4	2	0	0	9	26662.00	30984.00	731.00	4748.00	1	7.58	49.25	3	4	2	0	0.16	1.00	1.00	0.00	25	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1951 British Mount Everest reconnaissance expedition point in time expedition	1951-01-01T00:00:00Z	14	5	0	0	0	10	31410.00	26236.00	4748.00	365.00	1	5.57	38.40	2	4	0	0	0.14	0.80	0	0	19	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1952 Swiss Mount Everest expedition point in time mountaineering expedition	1952-01-01T00:00:00Z	13	4	3	0	0	10	31775.00	25871.00	365.00	0.00	1	8.23	48.50	2	4	3	0	0.15	1.00	1.00	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1952 Swiss Mount Everest expedition start time mountaineering expedition	1952-01-01T00:00:00Z	13	4	3	0	0	9	31775.00	25871.00	0.00	0.00	1	8.23	48.50	2	4	3	0	0.15	1.00	1.00	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1952 Swiss Mount Everest expedition end time mountaineering expedition	1952-01-01T00:00:00Z	13	4	3	0	0	9	31775.00	25871.00	0.00	0.00	1	8.23	48.50	2	4	3	0	0.15	1.00	1.00	0.00	20	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1952 Swiss autumn Mount Everest expedition point in time mountaineering expedition	1952-01-01T00:00:00Z	16	2	3	0	0	11	31775.00	25871.00	0.00	366.00	1	6.38	94.00	2	2	3	0	0.13	1.00	1.00	0.00	21	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	1953-01-01T00:00:00Z	0	1	0	0	0	6	32141.00	25505.00	366.00	0.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	1953 British Mount Everest Expedition point in time research expedition first ascent	1953-01-01T00:00:00Z	23	5	1	0	0	12	32141.00	25505.00	0.00	31.00	1	8.26	77.60	3	5	1	0	0.13	1.00	1.00	0.00	29	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1953 British Mount Everest Expedition start time research expedition first ascent	1953-02-01T00:00:00Z	23	5	1	0	0	11	32172.00	25474.00	31.00	117.00	1	8.26	77.60	3	5	1	0	0.13	1.00	1.00	0.00	29	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	significant event first ascent point in time	1953-05-29T00:00:00Z	2	4	1	0	0	7	32289.00	25357.00	117.00	3.00	0	18.50	24.25	1	2	1	0	0.50	0.50	1.00	0.00	7	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1953 British Mount Everest Expedition end time research expedition first ascent	1953-06-01T00:00:00Z	23	5	1	0	0	11	32292.00	25354.00	3.00	944.00	1	8.26	77.60	3	5	1	0	0.13	1.00	1.00	0.00	29	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	1960-01-01T00:00:00Z	0	1	0	0	0	6	34697.00	22949.00	1461.00	0.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	1956-01-01T00:00:00Z	0	1	0	0	0	6	33236.00	24410.00	944.00	1461.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	1960 Chinese Mount Everest expedition point in time expedition	1960-01-01T00:00:00Z	4	4	0	0	0	9	34697.00	22949.00	0.00	1096.00	1	2.00	47.75	2	4	0	0	0.50	1.00	0	0	8	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	1963-01-01T00:00:00Z	0	1	0	0	0	6	35793.00	21853.00	1096.00	8217.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	1985 Catalan expedition to Everest start time expedition	1985-07-01T00:00:00Z	19	6	0	0	0	8	44010.00	13636.00	8217.00	58.00	1	7.11	49.00	5	6	0	0	0.26	1.00	0	0	25	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1985 Catalan expedition to Everest point in time expedition	1985-08-28T00:00:00Z	19	6	0	0	0	9	44068.00	13578.00	58.00	4.00	1	7.11	49.00	5	6	0	0	0.26	1.00	0	0	25	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1996 Mount Everest disaster point in time mountaineering accident	1996-05-01T00:00:00Z	0	3	0	0	0	9	47967.00	9679.00	2312.00	975.00	1	0	32.33	0	3	0	0	0	1.00	0	0	3	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	Mallory and Irvine Research Expedition point in time research expedition	1999-01-01T00:00:00Z	0	1	0	0	0	10	48942.00	8704.00	975.00	365.00	1	0	94.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	2006 Philippine Mount Everest Expedition point in time expedition	2006-01-01T00:00:00Z	0	3	0	0	0	9	51499.00	6147.00	232.00	365.00	1	0	63.00	0	3	0	0	0	1.00	0	0	3	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	1985 Catalan expedition to Everest end time expedition	1985-09-01T00:00:00Z	19	6	0	0	0	8	44072.00	13574.00	4.00	1583.00	1	7.11	49.00	5	6	0	0	0.26	1.00	0	0	25	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	2007 Altitude Everest Expedition point in time research expedition	2007-01-01T00:00:00Z	8	2	0	0	0	9	51864.00	5782.00	365.00	1826.00	1	2.00	94.00	2	2	0	0	0.25	1.00	0	0	10	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2013-01-01T00:00:00Z	0	1	0	0	0	6	54056.00	3590.00	366.00	365.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2017-01-01T00:00:00Z	0	1	0	0	0	6	55517.00	2129.00	366.00	365.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	Everest disaster of 2019 point in time disaster	2019-05-01T00:00:00Z	0	1	0	0	0	8	56367.00	1279.00	120.00	15.00	1	0	94.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	Everest disaster of 2019 start time disaster	2019-05-16T00:00:00Z	0	1	0	0	0	7	56382.00	1264.00	15.00	11.00	1	0	94.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	57646.00	0.00	1034.00	0	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	Earth Day 20 International Peace Climb point in time Everest expedition	1990-01-01T00:00:00Z	0	1	0	0	0	11	45655.00	11991.00	1583.00	2312.00	1	0	94.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2020-01-01T00:00:00Z	0	1	0	0	0	6	56612.00	1034.00	219.00	1034.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2016-01-01T00:00:00Z	0	1	0	0	0	6	55151.00	2495.00	365.00	366.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	Everest disaster of 2019 end time disaster	2019-05-27T00:00:00Z	0	1	0	0	0	7	56393.00	1253.00	11.00	219.00	1	0	94.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2015-01-01T00:00:00Z	0	1	0	0	0	6	54786.00	2860.00	365.00	365.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2019-01-01T00:00:00Z	0	1	0	0	0	6	56247.00	1399.00	365.00	120.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2014-01-01T00:00:00Z	0	1	0	0	0	6	54421.00	3225.00	365.00	365.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2000-01-01T00:00:00Z	0	1	0	0	0	6	49307.00	8339.00	365.00	1960.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	2005 Mount Everest helicopter landing point in time landing	2005-05-14T00:00:00Z	3	2	1	0	0	9	51267.00	6379.00	1960.00	232.00	1	3.00	47.50	3	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2018-01-01T00:00:00Z	0	1	0	0	0	6	55882.00	1764.00	365.00	365.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	2	20	500	0.5	visitors per year point in time	2012-01-01T00:00:00Z	0	1	0	0	0	6	53690.00	3956.00	1826.00	366.00	0	0	94.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	named after start time	1865-01-01T00:00:00Z	1	1	0	0	0	4	0.00	57646.00	0	32141.00	0	1.00	17.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	1953-01-01T00:00:00Z	0	1	0	0	0	6	32141.00	25505.00	32141.00	148.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	significant event first ascent point in time	1953-05-29T00:00:00Z	2	4	1	0	0	7	32289.00	25357.00	148.00	947.00	0	1.00	5.00	1	2	1	0	0.50	0.50	1.00	0.00	7	1
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	1956-01-01T00:00:00Z	0	1	0	0	0	6	33236.00	24410.00	947.00	1461.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	1960-01-01T00:00:00Z	0	1	0	0	0	6	34697.00	22949.00	1461.00	1096.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	1963-01-01T00:00:00Z	0	1	0	0	0	6	35793.00	21853.00	1096.00	13514.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2000-01-01T00:00:00Z	0	1	0	0	0	6	49307.00	8339.00	13514.00	4383.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2012-01-01T00:00:00Z	0	1	0	0	0	6	53690.00	3956.00	4383.00	366.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2013-01-01T00:00:00Z	0	1	0	0	0	6	54056.00	3590.00	366.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2014-01-01T00:00:00Z	0	1	0	0	0	6	54421.00	3225.00	365.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2015-01-01T00:00:00Z	0	1	0	0	0	6	54786.00	2860.00	365.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2016-01-01T00:00:00Z	0	1	0	0	0	6	55151.00	2495.00	365.00	366.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2017-01-01T00:00:00Z	0	1	0	0	0	6	55517.00	2129.00	366.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2020-01-01T00:00:00Z	0	1	0	0	0	6	56612.00	1034.00	365.00	1034.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2019-01-01T00:00:00Z	0	1	0	0	0	6	56247.00	1399.00	365.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	57646.00	0.00	1034.00	0	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Mount Everest	Place	1	20	500	0.5	visitors per year point in time	2018-01-01T00:00:00Z	0	1	0	0	0	6	55882.00	1764.00	365.00	365.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	time of earliest written record	-0100-01-01T00:00:00Z	0	1	0	0	0	5	NaN	NaN	0	NaN	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	inception	-0100-01-01T00:00:00Z	0	1	0	0	0	1	NaN	NaN	NaN	NaN	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	0976-01-01T00:00:00Z	0	2	0	0	0	3	NaN	382347.00	NaN	0.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	0976-01-01T00:00:00Z	0	2	0	0	0	3	NaN	382347.00	0.00	65743.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1156-01-01T00:00:00Z	0	2	0	0	0	3	NaN	316604.00	65743.00	0.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1156-01-01T00:00:00Z	0	2	0	0	0	3	NaN	316604.00	0.00	108478.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1453-01-01T00:00:00Z	0	2	0	0	0	3	NaN	208126.00	108478.00	0.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1453-01-01T00:00:00Z	0	2	0	0	0	3	NaN	208126.00	0.00	2922.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image start time	1461-01-01T00:00:00Z	0	1	0	0	0	6	NaN	205204.00	2922.00	23740.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1526-01-01T00:00:00Z	0	2	0	0	0	3	NaN	181464.00	23740.00	0.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1526-01-01T00:00:00Z	0	2	0	0	0	3	NaN	181464.00	0.00	83276.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1754-01-01T00:00:00Z	0	1	0	0	0	4	NaN	98188.00	83276.00	16801.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1800-01-01T00:00:00Z	0	1	0	0	0	4	NaN	81387.00	16801.00	1682.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1804-08-10T00:00:00Z	0	2	0	0	0	3	NaN	79705.00	1682.00	1.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1804-08-11T00:00:00Z	0	2	0	0	0	3	NaN	79704.00	1.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1804-08-11T00:00:00Z	0	25	0	0	0	8	NaN	79704.00	0.00	16579.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1850-01-01T00:00:00Z	0	1	0	0	0	4	NaN	63125.00	16579.00	6296.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1867-03-29T00:00:00Z	0	2	0	0	0	3	NaN	56829.00	6296.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1867-03-29T00:00:00Z	0	25	0	0	0	8	NaN	56829.00	0.00	1.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1867-03-30T00:00:00Z	0	25	0	0	0	8	NaN	56828.00	1.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1867-03-30T00:00:00Z	0	2	0	0	0	3	NaN	56828.00	0.00	10967.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1897-04-08T00:00:00Z	1	1	0	0	0	5	NaN	45861.00	10967.00	998.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1900-01-01T00:00:00Z	0	1	0	0	0	4	NaN	44863.00	998.00	730.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image point in time	1902-01-01T00:00:00Z	1	1	0	0	0	7	NaN	44133.00	730.00	2922.00	0	1.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1910-01-01T00:00:00Z	0	1	0	0	0	4	NaN	41211.00	2922.00	68.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1910-03-10T00:00:00Z	1	1	0	0	0	5	NaN	41143.00	68.00	55.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1910-05-04T00:00:00Z	1	1	0	0	0	5	NaN	41088.00	55.00	960.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1912-12-19T00:00:00Z	1	1	0	0	0	5	NaN	40128.00	960.00	4.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1912-12-23T00:00:00Z	1	1	0	0	0	5	NaN	40124.00	4.00	2149.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1918-11-11T00:00:00Z	0	25	0	0	0	8	NaN	37975.00	2149.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1918-11-11T00:00:00Z	0	2	0	0	0	3	NaN	37975.00	0.00	1.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1918-11-12T00:00:00Z	0	2	0	0	0	3	NaN	37974.00	1.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1918-11-12T00:00:00Z	0	25	0	0	0	8	NaN	37974.00	0.00	50.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1919-01-01T00:00:00Z	0	2	0	0	0	3	NaN	37924.00	50.00	140.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1919-05-21T00:00:00Z	1	1	0	0	0	5	NaN	37784.00	140.00	1.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1919-05-22T00:00:00Z	1	1	0	0	0	5	NaN	37783.00	1.00	111.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1919-09-10T00:00:00Z	0	2	0	0	0	3	NaN	37672.00	111.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1919-09-10T00:00:00Z	0	25	0	0	0	8	NaN	37672.00	0.00	1.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1919-09-11T00:00:00Z	0	25	0	0	0	8	NaN	37671.00	1.00	434.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	instance of Provinces of Austria start time	1920-11-18T00:00:00Z	0	1	0	0	0	7	NaN	37237.00	434.00	44.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1923-01-01T00:00:00Z	0	1	0	0	0	4	NaN	36463.00	730.00	316.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1923-11-13T00:00:00Z	1	1	0	0	0	5	NaN	36147.00	316.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	capital of end time	1921-01-01T00:00:00Z	0	2	0	0	0	4	NaN	37193.00	44.00	730.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image end time	1925-01-01T00:00:00Z	0	1	0	0	0	6	NaN	35732.00	415.00	3287.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1923-11-13T00:00:00Z	1	1	0	0	0	5	NaN	36147.00	0.00	415.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1934-01-01T00:00:00Z	0	2	0	0	0	3	NaN	32445.00	3287.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image start time	1934-01-01T00:00:00Z	0	1	0	0	0	6	NaN	32445.00	0.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1934-01-01T00:00:00Z	0	2	0	0	0	3	NaN	32445.00	0.00	42.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1934-02-12T00:00:00Z	1	1	0	0	0	5	NaN	32403.00	42.00	54.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1934-04-07T00:00:00Z	1	1	0	0	0	5	NaN	32349.00	54.00	24.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1934-05-01T00:00:00Z	0	25	0	0	0	8	NaN	32325.00	0.00	976.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1937-01-01T00:00:00Z	0	1	0	0	0	6	NaN	31349.00	976.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image end time	1938-01-01T00:00:00Z	0	1	0	0	0	6	NaN	30984.00	365.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1934-05-01T00:00:00Z	0	25	0	0	0	8	NaN	32325.00	24.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image start time	1938-01-01T00:00:00Z	0	1	0	0	0	6	NaN	30984.00	0.00	59.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1938-03-01T00:00:00Z	0	2	0	0	0	3	NaN	30925.00	59.00	0.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1938-03-01T00:00:00Z	0	2	0	0	0	3	NaN	30925.00	0.00	10.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1938-03-11T00:00:00Z	1	1	0	0	0	5	NaN	30915.00	10.00	2.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1938-03-13T00:00:00Z	0	25	0	0	0	8	NaN	30913.00	2.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1938-03-13T00:00:00Z	1	1	0	0	0	5	NaN	30913.00	0.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1938-03-13T00:00:00Z	0	25	0	0	0	8	NaN	30913.00	0.00	216.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	official name start time	1938-10-15T00:00:00Z	0	1	0	0	0	4	NaN	30697.00	216.00	78.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1939-01-01T00:00:00Z	0	1	0	0	0	4	NaN	30619.00	78.00	713.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1940-12-14T00:00:00Z	1	1	0	0	0	5	NaN	29906.00	713.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1940-12-14T00:00:00Z	1	1	0	0	0	5	NaN	29906.00	0.00	1111.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1943-12-30T00:00:00Z	1	1	0	0	0	5	NaN	28795.00	1111.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1943-12-30T00:00:00Z	1	1	0	0	0	5	NaN	28795.00	0.00	368.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	coat of arms image end time	1945-01-01T00:00:00Z	0	1	0	0	0	6	NaN	28427.00	368.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1945-01-01T00:00:00Z	0	2	0	0	0	3	NaN	28427.00	0.00	90.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1945-04-01T00:00:00Z	0	25	0	0	0	8	NaN	28337.00	90.00	1.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1945-04-02T00:00:00Z	0	25	0	0	0	8	NaN	28336.00	1.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1945-04-02T00:00:00Z	0	2	0	0	0	3	NaN	28336.00	0.00	15.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1945-04-17T00:00:00Z	1	1	0	0	0	5	NaN	28321.00	15.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1945-04-17T00:00:00Z	1	1	0	0	0	5	NaN	28321.00	0.00	1355.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1949-01-01T00:00:00Z	0	1	0	0	0	6	NaN	26966.00	1355.00	730.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1951-01-01T00:00:00Z	0	1	0	0	0	4	NaN	26236.00	730.00	168.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1951-06-18T00:00:00Z	1	1	0	0	0	5	NaN	26068.00	168.00	4.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1951-06-22T00:00:00Z	1	1	0	0	0	5	NaN	26064.00	4.00	924.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	official name end time	1954-01-01T00:00:00Z	0	1	0	0	0	4	NaN	25140.00	924.00	571.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity end time	1955-07-26T00:00:00Z	0	25	0	0	0	8	NaN	24569.00	571.00	0.00	0	0	19.00	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country end time	1955-07-26T00:00:00Z	0	2	0	0	0	3	NaN	24569.00	0.00	1.00	0	0	65.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	located in the administrative territorial entity start time	1955-07-27T00:00:00Z	0	25	0	0	0	8	NaN	24568.00	1.00	0.00	0	0	18.92	0	3	0	0	0	0.12	0	0	25	1
+Wikidata	Vienna	Place	1	20	500	0.5	country start time	1955-07-27T00:00:00Z	0	2	0	0	0	3	NaN	24568.00	0.00	1985.00	0	0	64.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1961-01-01T00:00:00Z	0	1	0	0	0	4	NaN	22583.00	1985.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	Treccani's Enciclopedia Italiana ID publication date	1961-01-01T00:00:00Z	0	1	0	0	0	6	NaN	22583.00	0.00	1612.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1965-06-01T00:00:00Z	1	1	0	0	0	5	NaN	20971.00	1612.00	9.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1965-06-10T00:00:00Z	1	1	0	0	0	5	NaN	20962.00	9.00	2016.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1970-12-17T00:00:00Z	1	1	0	0	0	5	NaN	18946.00	2016.00	4.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1970-12-21T00:00:00Z	1	1	0	0	0	5	NaN	18942.00	4.00	11.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1971-01-01T00:00:00Z	0	1	0	0	0	4	NaN	18931.00	11.00	916.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1973-07-05T00:00:00Z	1	1	0	0	0	5	NaN	18015.00	916.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1973-07-05T00:00:00Z	1	1	0	0	0	5	NaN	18015.00	0.00	2737.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1981-01-01T00:00:00Z	0	1	0	0	0	4	NaN	15278.00	2737.00	1348.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1984-09-10T00:00:00Z	1	1	0	0	0	5	NaN	13930.00	1348.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1984-09-10T00:00:00Z	1	1	0	0	0	5	NaN	13930.00	0.00	113.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1985-01-01T00:00:00Z	0	1	0	0	0	4	NaN	13817.00	113.00	1826.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1990-01-01T00:00:00Z	0	1	0	0	0	4	NaN	11991.00	1826.00	323.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	twinned administrative body start time	1990-11-20T00:00:00Z	0	2	0	0	0	5	NaN	11668.00	323.00	42.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1991-01-01T00:00:00Z	0	1	0	0	0	4	NaN	11626.00	42.00	511.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	1994-11-07T00:00:00Z	1	1	0	0	0	5	NaN	10220.00	895.00	0.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	1995-01-01T00:00:00Z	0	1	0	0	0	4	NaN	10165.00	55.00	1461.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2000-01-01T00:00:00Z	0	1	0	0	0	4	NaN	8339.00	365.00	366.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2005-01-01T00:00:00Z	0	1	0	0	0	4	NaN	6512.00	731.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2010-01-01T00:00:00Z	0	1	0	0	0	4	NaN	4686.00	850.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	twinned administrative body start time	1992-05-26T00:00:00Z	0	2	0	0	0	5	NaN	11115.00	511.00	895.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	1994-11-07T00:00:00Z	1	1	0	0	0	5	NaN	10220.00	0.00	55.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2012-01-01T00:00:00Z	0	1	0	0	0	4	NaN	3956.00	365.00	1096.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2015-01-01T00:00:00Z	0	1	0	0	0	4	NaN	2860.00	1096.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	official website retrieved	2017-05-17T00:00:00Z	0	1	0	0	0	3	NaN	1993.00	502.00	229.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	head of government end time	2018-05-24T00:00:00Z	1	1	0	0	0	5	NaN	1621.00	0.00	222.00	0	2.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2020-01-01T00:00:00Z	0	1	0	0	0	4	NaN	1034.00	365.00	366.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2022-10-01T00:00:00Z	0	1	0	0	0	4	NaN	30.00	638.00	30.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	NaN	0.00	30.00	0	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	award received European City of the Trees point in time	2021-01-01T00:00:00Z	0	1	0	0	0	10	NaN	668.00	366.00	638.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Vienna	Place	1	20	500	0.5	logo image end time	2019-01-01T00:00:00Z	0	1	0	0	0	4	NaN	1399.00	222.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	head of government start time	2018-05-24T00:00:00Z	1	1	0	0	0	5	NaN	1621.00	143.00	0.00	0	1.00	126.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2016-01-01T00:00:00Z	0	1	0	0	0	4	NaN	2495.00	365.00	502.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	area point in time	2018-01-01T00:00:00Z	0	1	0	0	0	4	NaN	1764.00	229.00	143.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	Treccani's Dizionario di Storia ID publication date	2011-01-01T00:00:00Z	0	1	0	0	0	7	NaN	4321.00	0.00	365.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	place name sign point in time	2007-09-04T00:00:00Z	0	1	0	0	0	6	NaN	5536.00	611.00	850.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2011-01-01T00:00:00Z	0	1	0	0	0	4	NaN	4321.00	365.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	twinned administrative body start time	2006-01-01T00:00:00Z	0	2	0	0	0	5	NaN	6147.00	365.00	611.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	member of start time	2003-01-01T00:00:00Z	1	9	0	0	0	4	NaN	7243.00	0.00	731.00	0	1.00	14.89	1	2	0	0	1.00	0.22	0	0	10	1
+Wikidata	Vienna	Place	1	20	500	0.5	twinned administrative body start time	1999-01-01T00:00:00Z	0	2	0	0	0	5	NaN	8704.00	1461.00	365.00	0	0	63.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Vienna	Place	1	20	500	0.5	described by source publication date	2003-01-01T00:00:00Z	0	1	0	0	0	5	NaN	7243.00	730.00	0.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Vienna	Place	1	20	500	0.5	population point in time	2001-01-01T00:00:00Z	0	1	0	0	0	4	NaN	7973.00	366.00	730.00	0	0	126.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	inception	1200-01-01T00:00:00Z	0	1	0	0	0	1	0.00	300745.00	0	210380.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1776-01-01T00:00:00Z	0	3	0	0	0	4	210380.00	90365.00	210380.00	17166.00	0	0	12.67	0	2	0	0	0	0.67	0	0	3	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1823-01-01T00:00:00Z	0	3	0	0	0	4	227546.00	73199.00	17166.00	0.00	0	0	12.67	0	2	0	0	0	0.67	0	0	3	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1823-01-01T00:00:00Z	0	2	0	0	0	4	227546.00	73199.00	0.00	5844.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1839-01-01T00:00:00Z	0	2	0	0	0	4	233390.00	67355.00	5844.00	1096.00	0	0	18.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1842-01-01T00:00:00Z	0	2	0	0	0	4	234486.00	66259.00	1096.00	30680.00	0	0	18.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1926-01-01T00:00:00Z	0	2	0	0	0	4	265166.00	35579.00	30680.00	159.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1926-06-09T00:00:00Z	0	2	0	0	0	4	265325.00	35420.00	159.00	17205.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1973-07-17T00:00:00Z	0	2	0	0	0	4	282530.00	18215.00	17205.00	0.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1973-07-17T00:00:00Z	0	2	0	0	0	4	282530.00	18215.00	0.00	1748.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1978-04-30T00:00:00Z	0	2	0	0	0	4	284278.00	16467.00	1748.00	0.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1978-04-30T00:00:00Z	0	2	0	0	0	4	284278.00	16467.00	0.00	4994.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	twinned administrative body start time	1992-01-01T00:00:00Z	0	2	0	0	0	5	289272.00	11473.00	4994.00	114.00	0	0	16.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1992-04-24T00:00:00Z	0	2	0	0	0	4	289386.00	11359.00	114.00	4.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	1992-04-28T00:00:00Z	0	2	0	0	0	4	289390.00	11355.00	4.00	1613.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	1996-09-27T00:00:00Z	0	2	0	0	0	4	291003.00	9742.00	1613.00	1907.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	2001-12-17T00:00:00Z	0	2	0	0	0	4	292910.00	7835.00	1907.00	184.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	2002-06-19T00:00:00Z	0	2	0	0	0	4	293094.00	7651.00	184.00	24.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of start time	2002-07-13T00:00:00Z	0	2	0	0	0	4	293118.00	7627.00	24.00	172.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	twinned administrative body start time	2003-01-01T00:00:00Z	0	2	0	0	0	5	293290.00	7455.00	172.00	0.00	0	0	16.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	twinned administrative body start time	2003-01-01T00:00:00Z	0	2	0	0	0	5	293290.00	7455.00	0.00	706.00	0	0	16.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	capital of end time	2004-12-07T00:00:00Z	0	2	0	0	0	4	293996.00	6749.00	706.00	25.00	0	0	17.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	twinned administrative body start time	2005-01-01T00:00:00Z	0	2	0	0	0	5	294021.00	6724.00	25.00	2523.00	0	0	16.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	subreddit start time	2011-11-29T00:00:00Z	0	1	0	0	0	3	296544.00	4201.00	2523.00	1704.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	YouTube channel ID start time	2016-07-29T00:00:00Z	0	1	0	0	0	5	298248.00	2497.00	1704.00	521.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	twinned administrative body start time	2018-01-01T00:00:00Z	0	2	0	0	0	5	298769.00	1976.00	521.00	730.00	0	0	16.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	1	20	500	0.5	population point in time	2020-01-01T00:00:00Z	0	1	0	0	0	4	299499.00	1246.00	730.00	782.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	YouTube channel ID point in time	2022-02-21T00:00:00Z	0	1	0	0	0	6	300281.00	464.00	782.00	44.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	social media followers point in time	2022-04-06T00:00:00Z	0	1	0	0	0	6	300325.00	420.00	44.00	208.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	300533.00	212.00	208.00	109.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	social media followers point in time	2023-02-17T00:00:00Z	0	1	0	0	0	6	300642.00	103.00	109.00	103.00	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	1	20	500	0.5	social media followers point in time	2023-05-31T00:00:00Z	0	1	0	0	0	6	300745.00	0.00	103.00	0	0	0	32.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	inception	1200-01-01T00:00:00Z	0	1	0	0	0	1	0.00	300745.00	0	111033.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of Kabul start time siege	1504-01-01T00:00:00Z	3	2	0	0	0	6	111033.00	189712.00	111033.00	0.00	1	2.00	65.00	2	2	0	0	0.67	1.00	0	0	5	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of Kabul end time siege	1504-01-01T00:00:00Z	3	2	0	0	0	6	111033.00	189712.00	0.00	99347.00	1	2.00	65.00	2	2	0	0	0.67	1.00	0	0	5	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1776-01-01T00:00:00Z	0	3	0	0	0	4	210380.00	90365.00	99347.00	17166.00	0	0	23.67	0	2	0	0	0	0.67	0	0	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1823-01-01T00:00:00Z	0	3	0	0	0	4	227546.00	73199.00	17166.00	0.00	0	0	23.67	0	2	0	0	0	0.67	0	0	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1823-01-01T00:00:00Z	0	2	0	0	0	4	227546.00	73199.00	0.00	5844.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1839-01-01T00:00:00Z	0	2	0	0	0	4	233390.00	67355.00	5844.00	1096.00	0	0	34.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1842-01-01T00:00:00Z	0	2	0	0	0	4	234486.00	66259.00	1096.00	13759.00	0	0	34.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the British Residency in Kabul point in time siege	1879-09-03T00:00:00Z	0	2	1	0	0	11	248245.00	52500.00	13759.00	0.00	1	0	65.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the British Residency in Kabul start time siege	1879-09-03T00:00:00Z	0	2	1	0	0	10	248245.00	52500.00	0.00	0.00	1	0	65.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the British Residency in Kabul end time siege	1879-09-03T00:00:00Z	0	2	1	0	0	10	248245.00	52500.00	0.00	103.00	1	0	65.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the Sherpur Cantonment start time siege	1879-12-15T00:00:00Z	2	2	1	0	0	8	248348.00	52397.00	103.00	8.00	1	3.00	65.00	1	2	1	0	0.50	1.00	1.00	0.00	5	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the Sherpur Cantonment point in time siege	1879-12-23T00:00:00Z	2	2	1	0	0	9	248356.00	52389.00	8.00	0.00	1	3.00	65.00	1	2	1	0	0.50	1.00	1.00	0.00	5	1
+Wikidata	Kabul	Place	2	20	500	0.5	Siege of the Sherpur Cantonment end time siege	1879-12-23T00:00:00Z	2	2	1	0	0	8	248356.00	52389.00	0.00	16810.00	1	3.00	65.00	1	2	1	0	0.50	1.00	1.00	0.00	5	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1926-01-01T00:00:00Z	0	2	0	0	0	4	265166.00	35579.00	16810.00	159.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1926-06-09T00:00:00Z	0	2	0	0	0	4	265325.00	35420.00	159.00	17205.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1973-07-17T00:00:00Z	0	2	0	0	0	4	282530.00	18215.00	17205.00	0.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1973-07-17T00:00:00Z	0	2	0	0	0	4	282530.00	18215.00	0.00	1748.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1978-04-30T00:00:00Z	0	2	0	0	0	4	284278.00	16467.00	1748.00	0.00	0	0	34.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1978-04-30T00:00:00Z	0	2	0	0	0	4	284278.00	16467.00	0.00	702.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	1980 student protests in Kabul start time student protest	1980-04-01T00:00:00Z	0	2	1	0	0	9	284980.00	15765.00	702.00	61.00	1	0	34.50	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	1980 student protests in Kabul end time student protest	1980-06-01T00:00:00Z	0	2	1	0	0	9	285041.00	15704.00	61.00	4231.00	1	0	34.50	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	twinned administrative body start time	1992-01-01T00:00:00Z	0	2	0	0	0	5	289272.00	11473.00	4231.00	114.00	0	0	33.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1992-04-24T00:00:00Z	0	2	0	0	0	4	289386.00	11359.00	114.00	4.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	1992-04-28T00:00:00Z	0	2	0	0	0	4	289390.00	11355.00	4.00	1613.00	0	0	34.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	1996-09-27T00:00:00Z	0	2	0	0	0	4	291003.00	9742.00	1613.00	1907.00	0	0	35.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	2001-12-17T00:00:00Z	0	2	0	0	0	4	292910.00	7835.00	1907.00	184.00	0	0	35.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	2002-06-19T00:00:00Z	0	2	0	0	0	4	293094.00	7651.00	184.00	24.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	capital of start time	2002-07-13T00:00:00Z	0	2	0	0	0	4	293118.00	7627.00	24.00	172.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	twinned administrative body start time	2003-01-01T00:00:00Z	0	2	0	0	0	5	293290.00	7455.00	172.00	0.00	0	0	33.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	twinned administrative body start time	2005-01-01T00:00:00Z	0	2	0	0	0	5	294021.00	6724.00	25.00	2523.00	0	0	33.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	subreddit start time	2011-11-29T00:00:00Z	0	1	0	0	0	3	296544.00	4201.00	2523.00	1704.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	capital of end time	2004-12-07T00:00:00Z	0	2	0	0	0	4	293996.00	6749.00	706.00	25.00	0	0	33.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	twinned administrative body start time	2003-01-01T00:00:00Z	0	2	0	0	0	5	293290.00	7455.00	0.00	706.00	0	0	33.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	July 2017 Afghanistan attack point in time attempted murder	2017-07-24T00:00:00Z	0	3	1	0	0	9	298608.00	2137.00	245.00	161.00	1	0	25.33	0	2	1	0	0	0.67	1.00	0.00	4	1
+Wikidata	Kabul	Place	2	20	500	0.5	YouTube channel ID start time	2016-07-29T00:00:00Z	0	1	0	0	0	5	298248.00	2497.00	1704.00	115.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	YouTube channel ID point in time	2022-02-21T00:00:00Z	0	1	0	0	0	6	300281.00	464.00	176.00	44.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	Kabul University bombing point in time bomb attack	2019-07-19T00:00:00Z	0	3	0	0	0	8	299333.00	1412.00	485.00	166.00	1	0	46.67	0	3	0	0	0	1.00	0	0	3	1
+Wikidata	Kabul	Place	2	20	500	0.5	March 2018 Kabul suicide bombing point in time occurrence	2018-03-21T00:00:00Z	0	2	0	0	0	9	298848.00	1897.00	79.00	485.00	1	0	35.50	0	2	0	0	0	1.00	0	0	1	1
+Wikidata	Kabul	Place	2	20	500	0.5	Fall of Kabul (2021) point in time battle siege	2021-08-15T00:00:00Z	3	5	5	0	0	9	300091.00	654.00	12.00	0.00	1	5.67	17.80	3	5	5	0	1.00	1.00	1.00	0.00	13	1
+Wikidata	Kabul	Place	2	20	500	0.5	August 2021 Kabul drone strike point in time drone attack terrorist attack	2021-08-29T00:00:00Z	0	2	0	0	0	12	300105.00	640.00	14.00	176.00	1	0	37.50	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	death of Ayman al-Zawahiri point in time killing drone attack	2022-07-31T00:00:00Z	4	2	1	0	0	10	300441.00	304.00	116.00	1.00	1	5.00	37.50	4	2	1	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	Kabul	Place	2	20	500	0.5	death of Ayman al-Zawahiri announcement date killing drone attack	2022-08-01T00:00:00Z	4	2	1	0	0	9	300442.00	303.00	1.00	35.00	1	5.00	37.50	4	2	1	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	Kabul	Place	2	20	500	0.5	social media followers point in time	2023-02-17T00:00:00Z	0	1	0	0	0	6	300642.00	103.00	109.00	103.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	population point in time	2020-01-01T00:00:00Z	0	1	0	0	0	4	299499.00	1246.00	166.00	580.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	social media followers point in time	2023-05-31T00:00:00Z	0	1	0	0	0	6	300745.00	0.00	103.00	0	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	300533.00	212.00	56.00	109.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	August 2021 Kabul attack point in time terrorist attack suicide car bombing	2021-08-03T00:00:00Z	2	3	2	0	0	12	300079.00	666.00	580.00	12.00	1	4.00	46.67	2	3	2	0	1.00	1.00	1.00	0.00	7	1
+Wikidata	Kabul	Place	2	20	500	0.5	bombing of the Russian embassy in Kabul point in time WikiProject Russia WikiProject Afghanistan attempted suicide bombing WikiProject Terrorism mass murder	2022-09-05T00:00:00Z	2	7	4	0	0	21	300477.00	268.00	35.00	56.00	1	2.00	21.57	2	7	4	0	1.00	1.00	1.00	0.00	12	1
+Wikidata	Kabul	Place	2	20	500	0.5	November 2016 Kabul suicide bombing point in time occurrence	2016-11-21T00:00:00Z	0	2	0	0	0	9	298363.00	2382.00	115.00	245.00	1	0	35.50	0	2	0	0	0	1.00	0	0	1	1
+Wikidata	Kabul	Place	2	20	500	0.5	social media followers point in time	2022-04-06T00:00:00Z	0	1	0	0	0	6	300325.00	420.00	44.00	116.00	0	0	65.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Kabul	Place	2	20	500	0.5	twinned administrative body start time	2018-01-01T00:00:00Z	0	2	0	0	0	5	298769.00	1976.00	161.00	79.00	0	0	33.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Kabul	Place	2	20	500	0.5	Fall of Kabul (2021) end time battle siege	2021-08-15T00:00:00Z	3	5	5	0	0	8	300091.00	654.00	0.00	14.00	1	5.67	17.80	3	5	5	0	1.00	1.00	1.00	0.00	13	1
+Wikidata	Kabul	Place	2	20	500	0.5	Fall of Kabul (2021) start time battle siege	2021-08-15T00:00:00Z	3	5	5	0	0	8	300091.00	654.00	0.00	0.00	1	5.67	17.80	3	5	5	0	1.00	1.00	1.00	0.00	13	1
+Wikidata	Myspace	Place	1	20	500	0.5	inception	2003-01-01T00:00:00Z	0	1	0	0	0	1	0.00	7338.00	0	212.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator Intermix Media start time	2003-08-01T00:00:00Z	1	1	0	0	0	5	212.00	7126.00	212.00	122.00	0	9.00	22.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator start time	2003-12-01T00:00:00Z	2	1	0	0	0	3	334.00	7004.00	122.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator Intermix Media end time	2003-12-01T00:00:00Z	1	1	0	0	0	5	334.00	7004.00	0.00	428.00	0	9.00	22.00	1	1	0	0	1.00	1.00	0	0	2	0
+Wikidata	Myspace	Place	1	20	500	0.5	operator end time	2005-02-01T00:00:00Z	2	1	0	0	0	3	762.00	6576.00	428.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator start time	2005-02-01T00:00:00Z	2	1	0	0	0	3	762.00	6576.00	0.00	1479.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	Twitter username start time	2009-02-19T00:00:00Z	0	1	0	0	0	4	2241.00	5097.00	1479.00	327.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	YouTube channel ID start time	2010-01-12T00:00:00Z	0	1	0	0	0	5	2568.00	4770.00	327.00	354.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	operator start time	2011-01-01T00:00:00Z	2	1	0	0	0	3	2922.00	4416.00	354.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator end time	2011-01-01T00:00:00Z	2	1	0	0	0	3	2922.00	4416.00	0.00	365.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	visitors per year point in time	2012-01-01T00:00:00Z	0	1	0	0	0	6	3287.00	4051.00	365.00	1461.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	operator end time	2016-01-01T00:00:00Z	2	1	0	0	0	3	4748.00	2590.00	1461.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	operator start time	2016-01-01T00:00:00Z	2	1	0	0	0	3	4748.00	2590.00	0.00	689.00	0	5.00	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	1	20	500	0.5	social media followers point in time	2020-04-26T00:00:00Z	0	1	0	0	0	6	6325.00	1013.00	888.00	0.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	Alexa rank point in time	2017-11-20T00:00:00Z	0	1	0	0	0	5	5437.00	1901.00	689.00	888.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	Twitter username point in time	2020-04-26T00:00:00Z	0	1	0	0	0	5	6325.00	1013.00	0.00	224.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	YouTube channel ID point in time	2020-12-06T00:00:00Z	0	1	0	0	0	6	6549.00	789.00	224.00	29.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	social media followers point in time	2021-01-04T00:00:00Z	0	1	0	0	0	6	6578.00	760.00	29.00	419.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	social media followers point in time	2022-10-05T00:00:00Z	0	1	0	0	0	6	7217.00	121.00	220.00	26.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	7243.00	95.00	26.00	95.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	social media followers point in time	2022-02-27T00:00:00Z	0	1	0	0	0	6	6997.00	341.00	419.00	220.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	1	20	500	0.5	social media followers point in time	2023-02-03T00:00:00Z	0	1	0	0	0	6	7338.00	0.00	95.00	0	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	inception	2003-01-01T00:00:00Z	0	1	0	0	0	1	0.00	7338.00	0	212.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator Intermix Media start time	2003-08-01T00:00:00Z	1	1	0	0	0	5	212.00	7126.00	212.00	122.00	0	9.00	22.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator start time	2003-12-01T00:00:00Z	2	1	0	0	0	3	334.00	7004.00	122.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator Intermix Media end time	2003-12-01T00:00:00Z	1	1	0	0	0	5	334.00	7004.00	0.00	428.00	0	9.00	22.00	1	1	0	0	1.00	1.00	0	0	2	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator end time	2005-02-01T00:00:00Z	2	1	0	0	0	3	762.00	6576.00	428.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator start time	2005-02-01T00:00:00Z	2	1	0	0	0	3	762.00	6576.00	0.00	1479.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	Twitter username start time	2009-02-19T00:00:00Z	0	1	0	0	0	4	2241.00	5097.00	1479.00	327.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	YouTube channel ID start time	2010-01-12T00:00:00Z	0	1	0	0	0	5	2568.00	4770.00	327.00	354.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	operator start time	2011-01-01T00:00:00Z	2	1	0	0	0	3	2922.00	4416.00	354.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator end time	2011-01-01T00:00:00Z	2	1	0	0	0	3	2922.00	4416.00	0.00	365.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	visitors per year point in time	2012-01-01T00:00:00Z	0	1	0	0	0	6	3287.00	4051.00	365.00	1461.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	operator end time	2016-01-01T00:00:00Z	2	1	0	0	0	3	4748.00	2590.00	1461.00	0.00	0	5.50	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	operator start time	2016-01-01T00:00:00Z	2	1	0	0	0	3	4748.00	2590.00	0.00	689.00	0	5.00	22.00	2	1	0	0	1.00	1.00	0	0	3	1
+Wikidata	Myspace	Place	2	20	500	0.5	Alexa rank point in time	2017-11-20T00:00:00Z	0	1	0	0	0	5	5437.00	1901.00	689.00	888.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	social media followers point in time	2020-04-26T00:00:00Z	0	1	0	0	0	6	6325.00	1013.00	888.00	0.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	Twitter username point in time	2020-04-26T00:00:00Z	0	1	0	0	0	5	6325.00	1013.00	0.00	224.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	YouTube channel ID point in time	2020-12-06T00:00:00Z	0	1	0	0	0	6	6549.00	789.00	224.00	29.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	social media followers point in time	2021-01-04T00:00:00Z	0	1	0	0	0	6	6578.00	760.00	29.00	419.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	social media followers point in time	2022-02-27T00:00:00Z	0	1	0	0	0	6	6997.00	341.00	419.00	220.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	7243.00	95.00	26.00	95.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	social media followers point in time	2023-02-03T00:00:00Z	0	1	0	0	0	6	7338.00	0.00	95.00	0	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Myspace	Place	2	20	500	0.5	social media followers point in time	2022-10-05T00:00:00Z	0	1	0	0	0	6	7217.00	121.00	220.00	26.00	0	0	22.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	date of official opening	1923-04-28T00:00:00Z	0	1	0	0	0	4	0.00	36346.00	0	248.00	0	0	12.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	owned by start time	1924-01-01T00:00:00Z	1	2	0	0	0	4	248.00	36098.00	248.00	15341.00	0	2.00	8.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	significant event point in time	1966-01-01T00:00:00Z	0	1	1	0	0	5	15589.00	20757.00	15341.00	9496.00	0	0	12.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	significant event point in time	1992-01-01T00:00:00Z	0	1	1	0	0	5	25085.00	11261.00	9496.00	1096.00	0	0	12.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	significant event point in time	1995-01-01T00:00:00Z	0	1	1	0	0	5	26181.00	10165.00	1096.00	365.00	0	0	12.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	significant event point in time	1996-01-01T00:00:00Z	0	1	1	0	0	5	26546.00	9800.00	365.00	1096.00	0	0	12.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	owned by end time	1999-01-01T00:00:00Z	1	2	0	0	0	4	27642.00	8704.00	1096.00	0.00	0	2.00	8.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	date of official closure	2000-10-07T00:00:00Z	0	1	0	0	0	4	28287.00	8059.00	645.00	451.00	0	0	12.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	owned by start time	1999-01-01T00:00:00Z	1	2	0	0	0	4	27642.00	8704.00	0.00	645.00	0	2.00	8.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	owned by end time	2002-01-01T00:00:00Z	1	2	0	0	0	4	28738.00	7608.00	451.00	272.00	0	2.00	8.00	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	dissolved, abolished or demolished date	2002-09-30T00:00:00Z	0	1	0	0	0	5	29010.00	7336.00	272.00	7336.00	0	0	12.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Wembley Stadium	Place	1	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	36346.00	0.00	7336.00	0	0	0	12.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Manas National Park	Place	1	20	500	0.5	heritage designation start time	1985-01-01T00:00:00Z	0	1	1	0	0	4	0.00	9496.00	0	1826.00	0	0	4.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Manas National Park	Place	1	20	500	0.5	inception	1990-01-01T00:00:00Z	0	1	0	0	0	1	1826.00	7670.00	1826.00	730.00	0	0	4.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Manas National Park	Place	1	20	500	0.5	significant event list of World Heritage in Danger start time	1992-01-01T00:00:00Z	0	2	0	0	0	10	2556.00	6940.00	730.00	6940.00	0	0	3.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Manas National Park	Place	1	20	500	0.5	significant event list of World Heritage in Danger end time	2011-01-01T00:00:00Z	0	2	0	0	0	10	9496.00	0.00	6940.00	0	0	0	3.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Manas National Park	Place	2	20	500	0.5	heritage designation start time	1985-01-01T00:00:00Z	0	1	1	0	0	4	0.00	9496.00	0	1826.00	0	0	4.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Manas National Park	Place	2	20	500	0.5	inception	1990-01-01T00:00:00Z	0	1	0	0	0	1	1826.00	7670.00	1826.00	730.00	0	0	4.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Manas National Park	Place	2	20	500	0.5	significant event list of World Heritage in Danger start time	1992-01-01T00:00:00Z	0	2	0	0	0	10	2556.00	6940.00	730.00	6940.00	0	0	3.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Manas National Park	Place	2	20	500	0.5	significant event list of World Heritage in Danger end time	2011-01-01T00:00:00Z	0	2	0	0	0	10	9496.00	0.00	6940.00	0	0	0	3.00	0	2	0	0	0	1.00	0	0	2	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	date of official opening	1923-04-28T00:00:00Z	0	1	0	0	0	4	0.00	36346.00	0	248.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	owned by start time	1924-01-01T00:00:00Z	1	2	0	0	0	4	248.00	36098.00	248.00	15341.00	0	2.00	10.50	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	significant event point in time	1966-01-01T00:00:00Z	0	1	1	0	0	5	15589.00	20757.00	15341.00	9496.00	0	0	17.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	significant event point in time	1992-01-01T00:00:00Z	0	1	1	0	0	5	25085.00	11261.00	9496.00	297.00	0	0	17.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	1992 Rugby League World Cup Final point in time	1992-10-24T00:00:00Z	6	7	1	0	0	9	25382.00	10964.00	297.00	799.00	1	3.00	8.14	5	7	1	0	0.83	1.00	1.00	0.00	14	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	significant event point in time	1995-01-01T00:00:00Z	0	1	1	0	0	5	26181.00	10165.00	799.00	0.00	0	0	17.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	1995 Rugby League World Cup point in time	1995-01-01T00:00:00Z	3	1	6	0	0	8	26181.00	10165.00	0.00	300.00	1	3.00	17.00	3	1	5	0	1.00	1.00	0.83	0.00	10	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	1995 Rugby League World Cup end time	1995-10-28T00:00:00Z	3	1	6	0	0	7	26481.00	9865.00	300.00	65.00	1	3.00	17.00	3	1	5	0	1.00	1.00	0.83	0.00	10	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	significant event point in time	1996-01-01T00:00:00Z	0	1	1	0	0	5	26546.00	9800.00	65.00	1096.00	0	0	17.00	0	1	1	0	0	1.00	1.00	0.00	2	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	owned by start time	1999-01-01T00:00:00Z	1	2	0	0	0	4	27642.00	8704.00	1096.00	0.00	0	2.00	10.50	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	date of official closure	2000-10-07T00:00:00Z	0	1	0	0	0	4	28287.00	8059.00	645.00	451.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	owned by end time	1999-01-01T00:00:00Z	1	2	0	0	0	4	27642.00	8704.00	0.00	645.00	0	2.00	10.50	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	owned by end time	2002-01-01T00:00:00Z	1	2	0	0	0	4	28738.00	7608.00	451.00	272.00	0	2.00	10.50	1	2	0	0	1.00	1.00	0	0	3	1
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	dissolved, abolished or demolished date	2002-09-30T00:00:00Z	0	1	0	0	0	5	29010.00	7336.00	272.00	7336.00	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	Wembley Stadium	Place	2	20	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	1	0	0	0	11	36346.00	0.00	7336.00	0	0	0	17.00	0	1	0	0	0	1.00	0	0	1	0
+Wikidata	World War II	Event	2	20	500	0.5	Treaty of Versailles point in time Wikipedia:Vital articles/Level/4 Treaty of Versailles/Part XV Treaty of Versailles/Part IX Treaty of Versailles/Part X Wikipedia:List of articles all languages should have Hall of Mirrors WikiProject Human Rights Treaty of Versailles/Part IV Treaty of Versailles/Part XI Treaty of Versailles/Part VI Treaty of Versailles/Part V Treaty of Versailles/Part II Treaty of Versailles/Part III Treaty of Versailles/Part XII Treaty of Versailles/Part XIV	1919-06-28T00:00:00Z	5	8	20	0	0	65	0.00	9563.00	0	196.00	1	2.00	5.50	5	4	7	0	1.00	0.50	0.35	0.00	33	1
+Wikidata	World War II	Event	2	20	500	0.5	Treaty of Versailles effective date Wikipedia:Vital articles/Level/4 Treaty of Versailles/Part XV Treaty of Versailles/Part IX Treaty of Versailles/Part X Wikipedia:List of articles all languages should have Hall of Mirrors WikiProject Human Rights Treaty of Versailles/Part IV Treaty of Versailles/Part XI Treaty of Versailles/Part VI Treaty of Versailles/Part V Treaty of Versailles/Part II Treaty of Versailles/Part III Treaty of Versailles/Part XII Treaty of Versailles/Part XIV	1920-01-10T00:00:00Z	5	8	20	0	0	64	196.00	9367.00	196.00	6931.00	1	2.00	5.50	5	4	7	0	1.00	0.50	0.35	0.00	33	1
+Wikidata	World War II	Event	2	20	500	0.5	Molotov–Ribbentrop Pact inception Wikipedia:Vital articles/Level/4 Armenian Soviet Encyclopedia	1939-01-01T00:00:00Z	10	1	9	0	0	8	7127.00	2436.00	6931.00	0.00	1	18.40	5.00	6	1	6	0	0.60	1.00	0.67	0.00	20	1
+Wikidata	World War II	Event	2	20	500	0.5	Secret Additional Protocol to the Molotov–Ribbentrop Pact inception	1939-01-01T00:00:00Z	1	0	7	0	0	8	7127.00	2436.00	0.00	0.00	1	17.00	0	1	0	6	0	1.00	0	0.86	0.00	8	1
+Wikidata	World War II	Event	2	20	500	0.5	British pet massacre point in time	1939-01-01T00:00:00Z	0	1	2	0	0	6	7127.00	2436.00	0.00	234.00	1	0	13.00	0	1	2	0	0	1.00	1.00	0.00	3	1
+Wikidata	World War II	Event	2	20	500	0.5	Molotov–Ribbentrop Pact point in time Wikipedia:Vital articles/Level/4 Armenian Soviet Encyclopedia	1939-08-23T00:00:00Z	10	1	9	0	0	10	7361.00	2202.00	234.00	0.00	1	18.40	5.00	6	1	6	0	0.60	1.00	0.67	0.00	20	1
+Wikidata	World War II	Event	2	20	500	0.5	Molotov–Ribbentrop Pact start time Wikipedia:Vital articles/Level/4 Armenian Soviet Encyclopedia	1939-08-23T00:00:00Z	10	1	9	0	0	9	7361.00	2202.00	0.00	0.00	1	18.40	5.00	6	1	6	0	0.60	1.00	0.67	0.00	20	1
+Wikidata	World War II	Event	2	20	500	0.5	Secret Additional Protocol to the Molotov–Ribbentrop Pact publication date	1939-08-23T00:00:00Z	1	0	7	0	0	9	7361.00	2202.00	0.00	8.00	1	17.00	0	1	0	6	0	1.00	0	0.86	0.00	8	1
+Wikidata	World War II	Event	2	20	500	0.5	Molotov–Ribbentrop Pact effective date Wikipedia:Vital articles/Level/4 Armenian Soviet Encyclopedia	1939-08-31T00:00:00Z	10	1	9	0	0	9	7369.00	2194.00	8.00	1.00	1	18.40	5.00	6	1	6	0	0.60	1.00	0.67	0.00	20	1
+Wikidata	World War II	Event	2	20	500	0.5	World War II start time New World Encyclopedia Providentialism Wikipedia:Vital articles/Level/4 Metropolitan Museum of Art Tagging Vocabulary causes of World War II Wikipedia:List of articles all languages should have	1939-09-01T00:00:00Z	6	17	38	0	0	29	7370.00	2193.00	1.00	122.00	1	8.67	3.41	4	6	11	0	0.67	0.35	0.29	0.00	61	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Britain point in time Wikipedia:Vital articles/Level/4	1940-01-01T00:00:00Z	1	9	2	0	0	8	7492.00	2071.00	122.00	191.00	1	30.00	7.22	1	5	2	0	1.00	0.56	1.00	0.00	12	0
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Britain start time Wikipedia:Vital articles/Level/4	1940-07-10T00:00:00Z	1	9	2	0	0	7	7683.00	1880.00	191.00	113.00	1	30.00	7.22	1	5	2	0	1.00	0.56	1.00	0.00	12	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Britain end time Wikipedia:Vital articles/Level/4	1940-10-31T00:00:00Z	1	9	2	0	0	7	7796.00	1767.00	113.00	234.00	1	30.00	7.22	1	5	2	0	1.00	0.56	1.00	0.00	12	1
+Wikidata	World War II	Event	2	20	500	0.5	Operation Barbarossa start time	1941-06-22T00:00:00Z	9	10	5	0	0	4	8030.00	1533.00	234.00	0.00	1	10.00	3.20	5	3	3	0	0.56	0.30	0.60	0.00	24	1
+Wikidata	World War II	Event	2	20	500	0.5	Molotov–Ribbentrop Pact end time Wikipedia:Vital articles/Level/4 Armenian Soviet Encyclopedia	1941-06-22T00:00:00Z	10	1	9	0	0	9	8030.00	1533.00	0.00	166.00	1	18.40	5.00	6	1	6	0	0.60	1.00	0.67	0.00	20	1
+Wikidata	World War II	Event	2	20	500	0.5	Operation Barbarossa point in time	1941-12-05T00:00:00Z	9	10	5	0	0	5	8196.00	1367.00	166.00	0.00	1	10.00	3.20	5	3	3	0	0.56	0.30	0.60	0.00	24	1
+Wikidata	World War II	Event	2	20	500	0.5	Operation Barbarossa end time	1941-12-05T00:00:00Z	9	10	5	0	0	4	8196.00	1367.00	0.00	2.00	1	10.00	3.20	5	3	3	0	0.56	0.30	0.60	0.00	24	1
+Wikidata	World War II	Event	2	20	500	0.5	Attack on Pearl Harbor point in time Wikipedia:Vital articles/Level/4 consent	1941-12-07T00:00:00Z	10	2	4	0	0	10	8198.00	1365.00	2.00	149.00	1	1.60	8.50	4	2	3	0	0.40	1.00	0.75	0.00	16	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Madagascar start time	1942-05-05T00:00:00Z	2	3	2	0	0	5	8347.00	1216.00	149.00	185.00	1	4.00	3.33	2	3	2	0	1.00	1.00	1.00	0.00	7	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Madagascar end time	1942-11-06T00:00:00Z	2	3	2	0	0	5	8532.00	1031.00	185.00	471.00	1	4.00	3.33	2	3	2	0	1.00	1.00	1.00	0.00	7	1
+Wikidata	World War II	Event	2	20	500	0.5	Big Week start time The Operations Room	1944-02-20T00:00:00Z	1	0	2	0	0	7	9003.00	560.00	471.00	5.00	1	30.00	0	1	0	2	0	1.00	0	1.00	0.00	3	1
+Wikidata	World War II	Event	2	20	500	0.5	Big Week point in time The Operations Room	1944-02-25T00:00:00Z	1	0	2	0	0	8	9008.00	555.00	5.00	0.00	1	30.00	0	1	0	2	0	1.00	0	1.00	0.00	3	1
+Wikidata	World War II	Event	2	20	500	0.5	Big Week end time The Operations Room	1944-02-25T00:00:00Z	1	0	2	0	0	7	9008.00	555.00	0.00	102.00	1	30.00	0	1	0	2	0	1.00	0	1.00	0.00	3	1
+Wikidata	World War II	Event	2	20	500	0.5	Normandy landings point in time	1944-06-06T00:00:00Z	15	18	5	0	0	5	9110.00	453.00	102.00	0.00	1	4.80	5.50	1	5	4	0	0.07	0.28	0.80	0.00	38	1
+Wikidata	World War II	Event	2	20	500	0.5	Normandy landings start time	1944-06-06T00:00:00Z	15	18	5	0	0	4	9110.00	453.00	0.00	84.00	1	4.80	5.50	1	5	4	0	0.07	0.28	0.80	0.00	38	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Aachen point in time	1944-10-21T00:00:00Z	2	5	2	0	0	6	9247.00	316.00	19.00	0.00	1	30.00	8.80	2	5	2	0	1.00	1.00	1.00	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of the Scheldt start time	1944-10-02T00:00:00Z	2	2	5	0	0	6	9228.00	335.00	0.00	19.00	1	3.00	3.00	1	2	3	0	0.50	1.00	0.60	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Normandy landings end time	1944-08-29T00:00:00Z	15	18	5	0	0	4	9194.00	369.00	84.00	34.00	1	4.80	5.50	1	5	4	0	0.07	0.28	0.80	0.00	38	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of the Scheldt point in time	1944-11-08T00:00:00Z	2	2	5	0	0	7	9265.00	298.00	18.00	0.00	1	3.00	3.00	1	2	3	0	0.50	1.00	0.60	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of the Bulge start time Armenian Soviet Encyclopedia	1944-12-16T00:00:00Z	1	4	4	0	0	9	9303.00	260.00	38.00	1.00	1	2.00	6.25	1	4	4	0	1.00	1.00	1.00	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Aachen start time	1944-10-02T00:00:00Z	2	5	2	0	0	5	9228.00	335.00	34.00	0.00	1	30.00	8.80	2	5	2	0	1.00	1.00	1.00	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	The Bloody Sunday point in time	1944-12-17T00:00:00Z	3	1	2	0	0	6	9304.00	259.00	1.00	39.00	1	1.00	1.00	2	1	2	0	0.67	1.00	1.00	0.00	6	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of the Bulge end time Armenian Soviet Encyclopedia	1945-01-25T00:00:00Z	1	4	4	0	0	9	9343.00	220.00	39.00	19.00	1	2.00	6.25	1	4	4	0	1.00	1.00	1.00	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Bombing of Dresden in World War II start time	1945-02-13T00:00:00Z	1	12	1	1	0	9	9362.00	201.00	19.00	2.00	1	3.00	3.75	1	5	1	0	1.00	0.42	1.00	0.00	15	1
+Wikidata	World War II	Event	2	20	500	0.5	Bombing of Dresden in World War II point in time	1945-02-15T00:00:00Z	1	12	1	1	0	10	9364.00	199.00	2.00	0.00	1	3.00	3.75	1	5	1	0	1.00	0.42	1.00	0.00	15	1
+Wikidata	World War II	Event	2	20	500	0.5	atomic bombings of Hiroshima and Nagasaki point in time airstrike Wikipedia:Vital articles/Level/4 airstrike	1945-08-06T00:00:00Z	12	8	10	0	0	13	9536.00	27.00	135.00	3.00	1	3.17	6.75	5	5	6	0	0.42	0.63	0.60	0.00	30	1
+Wikidata	World War II	Event	2	20	500	0.5	World War II end time New World Encyclopedia Providentialism Wikipedia:Vital articles/Level/4 Metropolitan Museum of Art Tagging Vocabulary causes of World War II Wikipedia:List of articles all languages should have	1945-09-02T00:00:00Z	6	17	38	0	0	29	9563.00	0.00	24.00	0	1	8.67	3.41	4	6	11	0	0.67	0.35	0.29	0.00	61	1
+Wikidata	World War II	Event	2	20	500	0.5	Operation Flashpoint (1945) start time	1945-03-24T00:00:00Z	0	1	2	0	0	5	9401.00	162.00	37.00	135.00	1	0	1.00	0	1	2	0	0	1.00	1.00	0.00	3	1
+Wikidata	World War II	Event	2	20	500	0.5	atomic bombings of Hiroshima and Nagasaki point in time airstrike Wikipedia:Vital articles/Level/4 airstrike	1945-08-09T00:00:00Z	12	8	10	0	0	13	9539.00	24.00	3.00	24.00	1	3.17	6.75	5	5	6	0	0.42	0.63	0.60	0.00	30	1
+Wikidata	World War II	Event	2	20	500	0.5	Bombing of Dresden in World War II end time	1945-02-15T00:00:00Z	1	12	1	1	0	9	9364.00	199.00	0.00	37.00	1	3.00	3.75	1	5	1	0	1.00	0.42	1.00	0.00	15	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of the Scheldt end time	1944-11-08T00:00:00Z	2	2	5	0	0	6	9265.00	298.00	0.00	38.00	1	3.00	3.00	1	2	3	0	0.50	1.00	0.60	0.00	9	1
+Wikidata	World War II	Event	2	20	500	0.5	Battle of Aachen end time	1944-10-21T00:00:00Z	2	5	2	0	0	5	9247.00	316.00	0.00	18.00	1	30.00	8.80	2	5	2	0	1.00	1.00	1.00	0.00	9	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of the Ardennes start time	1914-08-21T00:00:00Z	1	1	2	0	0	6	0.00	11115.00	0	2.00	1	3.00	5.00	1	1	2	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of the Ardennes point in time	1914-08-23T00:00:00Z	1	1	2	0	0	7	2.00	11113.00	2.00	0.00	1	3.00	5.00	1	1	2	0	1.00	1.00	1.00	0.00	3	0
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of the Ardennes end time	1914-08-23T00:00:00Z	1	1	2	0	0	6	2.00	11113.00	0.00	10723.00	1	3.00	5.00	1	1	2	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Lanzerath Ridge point in time	1944-01-01T00:00:00Z	0	2	1	0	0	7	10725.00	390.00	10723.00	350.00	1	0	12.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of the Bulge start time	1944-12-16T00:00:00Z	1	5	10	0	0	6	11075.00	40.00	350.00	0.00	1	2.00	6.60	1	5	4	0	1.00	1.00	0.40	0.00	15	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Lanzerath Ridge start time	1944-12-16T00:00:00Z	0	2	1	0	0	6	11075.00	40.00	0.00	1.00	1	0	12.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Operation Stösser point in time	1944-12-17T00:00:00Z	1	3	1	0	0	5	11076.00	39.00	1.00	0.00	1	6.00	9.00	1	3	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Operation Stösser start time	1944-12-17T00:00:00Z	1	3	1	0	0	4	11076.00	39.00	0.00	0.00	1	6.00	9.00	1	3	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Lanzerath Ridge end time	1944-12-17T00:00:00Z	0	2	1	0	0	6	11076.00	39.00	0.00	1.00	1	0	12.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Clervaux point in time	1944-12-18T00:00:00Z	0	2	1	0	0	6	11077.00	38.00	1.00	2.00	1	0	1.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Siege of Bastogne start time	1944-12-20T00:00:00Z	7	5	1	0	0	5	11079.00	36.00	2.00	1.00	1	4.29	10.20	2	5	1	0	0.29	1.00	1.00	0.00	13	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of St. Vith point in time	1944-12-21T00:00:00Z	0	3	1	0	0	7	11080.00	35.00	1.00	0.00	1	0	8.33	0	3	1	0	0	1.00	1.00	0.00	4	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Operation Stösser end time	1944-12-21T00:00:00Z	1	3	1	0	0	4	11080.00	35.00	0.00	6.00	1	6.00	9.00	1	3	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Siege of Bastogne end time	1944-12-27T00:00:00Z	7	5	1	0	0	5	11086.00	29.00	0.00	7.00	1	4.29	10.20	2	5	1	0	0.29	1.00	1.00	0.00	13	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Siege of Bastogne point in time	1944-12-27T00:00:00Z	7	5	1	0	0	6	11086.00	29.00	6.00	0.00	1	4.29	10.20	2	5	1	0	0.29	1.00	1.00	0.00	13	0
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Bure point in time	1945-01-05T00:00:00Z	0	2	1	0	0	6	11095.00	20.00	2.00	0.00	1	0	3.00	0	2	1	0	0	1.00	1.00	0.00	3	0
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Bure start time	1945-01-03T00:00:00Z	0	2	1	0	0	5	11093.00	22.00	7.00	2.00	1	0	3.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of Bure end time	1945-01-05T00:00:00Z	0	2	1	0	0	5	11095.00	20.00	0.00	20.00	1	0	3.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Battle of the Bulge	Event	2	50	500	0.5	Battle of the Bulge end time	1945-01-25T00:00:00Z	1	5	10	0	0	6	11115.00	0.00	20.00	0	1	2.00	6.60	1	5	4	0	1.00	1.00	0.40	0.00	15	1
+Wikidata	Battle of the Bulge	Event	1	50	500	0.5	Battle of the Bulge start time	1944-12-16T00:00:00Z	1	5	10	0	0	6	0.00	40.00	0	40.00	1	2.00	2.00	1	5	4	0	1.00	1.00	0.40	0.00	16	1
+Wikidata	Battle of the Bulge	Event	1	50	500	0.5	Battle of the Bulge end time	1945-01-25T00:00:00Z	1	5	10	0	0	6	40.00	0.00	40.00	0	1	2.00	2.00	1	5	4	0	1.00	1.00	0.40	0.00	16	1
+Wikidata	assassination of John F. Kennedy	Event	1	50	500	0.5	assassination of John F. Kennedy point in time	1963-11-22T00:00:00Z	20	7	6	1	0	8	0.00	0.00	0	0	1	1.70	1.29	9	5	4	0	0.45	0.71	0.67	0.00	33	1
+Wikidata	assassination of John F. Kennedy	Event	2	50	500	0.5	assassination of John F. Kennedy point in time	1963-11-22T00:00:00Z	26	7	6	1	0	8	0.00	1657.00	0	1.00	1	2.35	1.57	12	5	4	0	0.46	0.71	0.67	0.00	40	1
+Wikidata	assassination of John F. Kennedy	Event	2	50	500	0.5	Proclamation 3561 point in time	1963-11-23T00:00:00Z	1	0	2	0	0	5	1.00	1656.00	1.00	6.00	1	2.00	0	1	0	2	0	1.00	0	1.00	0.00	3	1
+Wikidata	assassination of John F. Kennedy	Event	2	50	500	0.5	Executive Order 11130 point in time	1963-11-29T00:00:00Z	4	0	2	0	0	6	7.00	1650.00	6.00	1650.00	1	2.25	0	4	0	2	0	1.00	0	1.00	0.00	6	1
+Wikidata	assassination of John F. Kennedy	Event	2	50	500	0.5	assassination of Robert F. Kennedy point in time	1968-06-05T00:00:00Z	10	4	1	0	0	8	1657.00	0.00	1650.00	0	1	1.90	2.00	6	4	1	0	0.60	1.00	1.00	0.00	15	0
+Wikidata	2020 United States presidential election	Event	1	50	500	0.5	2020 United States presidential election point in time 2020 Reform Party presidential primaries 2020 Constitution Party presidential primaries meeting	2020-11-03T00:00:00Z	120	2	44	1	0	19	0.00	0.00	0	0	1	1.95	2.00	8	2	7	0	0.07	1.00	0.16	0.00	166	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	United States presidential election inception	1788-01-01T00:00:00Z	1	2	65	0	0	5	0.00	86506.00	0	83587.00	1	8.00	76.00	1	2	3	0	1.00	1.00	0.05	0.00	68	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2016 United States presidential election point in time	2016-11-08T00:00:00Z	28	2	14	0	0	8	83587.00	2919.00	83587.00	262.00	1	8.46	76.00	8	2	8	0	0.29	1.00	0.57	0.00	44	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	John Delaney presidential campaign, 2020 start time	2017-07-28T00:00:00Z	2	2	3	0	0	7	83849.00	2657.00	262.00	0.00	1	10.00	39.50	2	2	2	0	1.00	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	John Delaney presidential campaign, 2020 inception	2017-07-28T00:00:00Z	2	2	3	0	0	6	83849.00	2657.00	0.00	101.00	1	10.00	39.50	2	2	2	0	1.00	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Andrew Yang presidential campaign, 2020 start time	2017-11-06T00:00:00Z	1	2	3	0	0	7	83950.00	2556.00	101.00	0.00	1	13.00	39.50	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Andrew Yang presidential campaign, 2020 inception	2017-11-06T00:00:00Z	1	2	3	0	0	6	83950.00	2556.00	0.00	209.00	1	13.00	39.50	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	John McAfee presidential campaign, 2020 start time	2018-06-03T00:00:00Z	2	2	3	0	0	7	84159.00	2347.00	209.00	161.00	1	5.00	39.00	2	2	2	0	1.00	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Richard Ojeda presidential campaign, 2020 start time	2018-11-11T00:00:00Z	1	1	3	0	0	7	84320.00	2186.00	161.00	61.00	1	7.00	76.00	1	1	2	0	1.00	1.00	0.67	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Tulsi Gabbard presidential campaign, 2020 start time	2019-01-11T00:00:00Z	2	1	1	0	0	7	84381.00	2125.00	61.00	0.00	1	8.00	76.00	2	1	1	0	1.00	1.00	1.00	0.00	4	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Tulsi Gabbard presidential campaign, 2020 inception	2019-01-11T00:00:00Z	2	1	1	0	0	6	84381.00	2125.00	0.00	1.00	1	8.00	76.00	2	1	1	0	1.00	1.00	1.00	0.00	4	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Julian Castro presidential campaign, 2020 start time	2019-01-12T00:00:00Z	1	1	1	0	0	7	84382.00	2124.00	1.00	0.00	1	6.00	76.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Julian Castro presidential campaign, 2020 inception	2019-01-12T00:00:00Z	1	1	1	0	0	6	84382.00	2124.00	0.00	9.00	1	6.00	76.00	1	1	1	0	1.00	1.00	1.00	0.00	3	0
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Kamala Harris presidential campaign, 2020 start time	2019-01-21T00:00:00Z	1	1	2	0	0	7	84391.00	2115.00	9.00	0.00	1	13.00	76.00	1	1	2	0	1.00	1.00	1.00	0.00	4	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Kamala Harris presidential campaign, 2020 inception	2019-01-21T00:00:00Z	1	1	2	0	0	6	84391.00	2115.00	0.00	2.00	1	13.00	76.00	1	1	2	0	1.00	1.00	1.00	0.00	4	0
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Pete Buttigieg presidential campaign, 2020 start time	2019-01-23T00:00:00Z	2	2	2	0	0	7	84393.00	2113.00	2.00	2.00	1	15.00	40.00	2	2	2	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Richard Ojeda presidential campaign, 2020 end time	2019-01-25T00:00:00Z	1	1	3	0	0	7	84395.00	2111.00	2.00	7.00	1	7.00	76.00	1	1	2	0	1.00	1.00	0.67	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Cory Booker presidential campaign, 2020 start time	2019-02-01T00:00:00Z	2	2	1	0	0	7	84402.00	2104.00	7.00	0.00	1	13.00	39.50	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Cory Booker presidential campaign, 2020 inception	2019-02-01T00:00:00Z	2	2	1	0	0	6	84402.00	2104.00	0.00	8.00	1	13.00	39.50	2	2	1	0	1.00	1.00	1.00	0.00	5	0
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Elizabeth Warren presidential campaign, 2020 start time	2019-02-09T00:00:00Z	8	2	2	0	0	7	84410.00	2096.00	8.00	1.00	1	3.25	38.50	4	2	2	0	0.50	1.00	1.00	0.00	12	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Bernie Sanders presidential campaign, 2020 inception	2019-02-19T00:00:00Z	10	1	6	0	0	6	84420.00	2086.00	9.00	22.00	1	3.20	76.00	4	1	4	0	0.40	1.00	0.67	0.00	17	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Amy Klobuchar presidential campaign, 2020 inception	2019-02-10T00:00:00Z	2	2	1	0	0	6	84411.00	2095.00	1.00	9.00	1	6.00	38.50	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Beto O'Rourke presidential campaign, 2020 inception	2019-03-13T00:00:00Z	1	1	1	0	0	6	84442.00	2064.00	22.00	22.00	1	9.00	76.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Tim Ryan presidential campaign, 2020 start time	2019-04-04T00:00:00Z	1	1	1	0	0	7	84464.00	2042.00	22.00	4.00	1	8.00	76.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Eric Swalwell presidential campaign, 2020 start time	2019-04-08T00:00:00Z	1	2	3	0	0	7	84468.00	2038.00	4.00	6.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Joe Biden presidential campaign, 2020 start time	2019-04-25T00:00:00Z	6	1	9	0	0	7	84485.00	2021.00	3.00	7.00	1	9.00	76.00	4	1	7	0	0.67	1.00	0.78	0.00	16	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Michael Bennet presidential campaign, 2020 start time	2019-05-02T00:00:00Z	1	2	3	0	0	7	84492.00	2014.00	7.00	26.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Pete Buttigieg presidential campaign, 2020 inception	2019-04-14T00:00:00Z	2	2	2	0	0	6	84474.00	2032.00	6.00	8.00	1	15.00	40.00	2	2	2	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Seth Moulton presidential campaign, 2020 start time	2019-04-22T00:00:00Z	2	1	3	0	0	7	84482.00	2024.00	8.00	3.00	1	8.00	76.00	2	1	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Howie Hawkins presidential campaign, 2020 start time	2019-05-28T00:00:00Z	3	1	3	0	0	7	84518.00	1988.00	26.00	21.00	1	7.00	76.00	2	1	2	0	0.67	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Donald Trump 2020 presidential campaign start time list of post-election Donald Trump rallies	2019-06-18T00:00:00Z	9	4	10	0	0	13	84539.00	1967.00	21.00	5.00	1	8.00	20.25	7	4	6	0	0.78	1.00	0.60	0.00	23	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Tom Steyer presidential campaign, 2020 start time	2019-07-09T00:00:00Z	1	2	3	0	0	7	84560.00	1946.00	1.00	45.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Seth Moulton presidential campaign, 2020 end time	2019-08-23T00:00:00Z	2	1	3	0	0	7	84605.00	1901.00	45.00	70.00	1	8.00	76.00	2	1	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Beto O'Rourke presidential campaign, 2020 dissolved, abolished or demolished date	2019-11-01T00:00:00Z	1	1	1	0	0	10	84675.00	1831.00	70.00	23.00	1	9.00	76.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Joe Sestak presidential campaign, 2020 end time	2019-12-01T00:00:00Z	2	1	3	0	0	7	84705.00	1801.00	7.00	31.00	1	8.00	76.00	2	1	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Libertarian Party presidential primaries point in time	2020-01-01T00:00:00Z	4	2	4	0	0	8	84736.00	1770.00	0.00	0.00	1	2.75	76.00	2	2	2	0	0.50	1.00	0.50	0.00	10	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Joe Sestak presidential campaign, 2020 start time	2019-06-23T00:00:00Z	2	1	3	0	0	7	84544.00	1962.00	5.00	15.00	1	8.00	76.00	2	1	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Eric Swalwell presidential campaign, 2020 end time	2019-07-08T00:00:00Z	1	2	3	0	0	7	84559.00	1947.00	15.00	1.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Pete Buttigieg presidential campaign, 2020 point in time	2020-01-01T00:00:00Z	2	2	2	0	0	8	84736.00	1770.00	0.00	12.00	1	15.00	40.00	2	2	2	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	John Delaney presidential campaign, 2020 end time	2020-01-31T00:00:00Z	2	2	3	0	0	7	84766.00	1740.00	18.00	3.00	1	10.00	39.50	2	2	2	0	1.00	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Andrew Yang presidential campaign, 2020 end time	2020-02-11T00:00:00Z	1	2	3	0	0	7	84777.00	1729.00	8.00	0.00	1	13.00	39.50	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Green Party presidential primaries start time	2020-02-29T00:00:00Z	3	2	4	0	0	7	84795.00	1711.00	18.00	0.00	1	5.33	76.00	1	2	4	0	0.33	1.00	1.00	0.00	9	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Pete Buttigieg presidential campaign, 2020 end time	2020-03-01T00:00:00Z	2	2	2	0	0	7	84796.00	1710.00	1.00	3.00	1	15.00	40.00	2	2	2	0	1.00	1.00	1.00	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Michael Bloomberg presidential campaign, 2020 end time	2020-03-04T00:00:00Z	2	2	1	0	0	7	84799.00	1707.00	3.00	35.00	1	8.00	39.00	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	John McAfee presidential campaign, 2020 end time	2020-05-23T00:00:00Z	2	2	3	0	0	7	84879.00	1627.00	45.00	42.00	1	5.00	39.00	2	2	2	0	1.00	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Green Party presidential primaries end time	2020-07-10T00:00:00Z	3	2	4	0	0	7	84927.00	1579.00	6.00	6.00	1	5.33	76.00	1	2	4	0	0.33	1.00	1.00	0.00	9	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Democratic Party presidential primaries point in time	2020-08-11T00:00:00Z	37	2	22	0	0	8	84959.00	1547.00	26.00	84.00	1	8.11	76.00	6	2	8	0	0.16	1.00	0.36	0.00	61	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Kanye West presidential campaign, 2020 end time	2020-11-04T00:00:00Z	6	1	2	0	0	7	85044.00	1462.00	1.00	3.00	1	9.00	76.00	5	1	2	0	0.83	1.00	1.00	0.00	9	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Howie Hawkins presidential campaign, 2020 end time	2020-11-07T00:00:00Z	3	1	3	0	0	7	85047.00	1459.00	3.00	60.00	1	7.00	76.00	2	1	2	0	0.67	1.00	0.67	0.00	7	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	presidential inauguration of Joe Biden point in time	2021-01-20T00:00:00Z	20	2	12	0	0	8	85121.00	1385.00	14.00	802.00	1	7.25	39.50	11	2	9	0	0.55	1.00	0.75	0.00	34	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2024 United States presidential election start time meeting	2023-04-02T00:00:00Z	42	2	49	0	0	8	85923.00	583.00	802.00	583.00	1	12.64	76.00	4	2	8	0	0.10	1.00	0.16	0.00	93	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2024 United States presidential election point in time meeting	2024-11-05T00:00:00Z	42	2	49	0	0	9	86506.00	0.00	583.00	0	1	12.64	76.00	4	2	8	0	0.10	1.00	0.16	0.00	93	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Democratic Party presidential primaries end time	2020-07-16T00:00:00Z	37	2	22	0	0	7	84933.00	1573.00	6.00	26.00	1	8.11	76.00	6	2	8	0	0.16	1.00	0.36	0.00	61	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2021 storming of the United States Capitol point in time Aftermath of the 2021 storming of the United States Capitol	2021-01-06T00:00:00Z	41	6	14	0	0	20	85107.00	1399.00	60.00	14.00	1	1.78	14.17	9	5	11	0	0.22	0.83	0.79	0.00	61	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Bernie Sanders presidential campaign, 2020 end time	2020-04-08T00:00:00Z	10	1	6	0	0	7	84834.00	1672.00	35.00	45.00	1	3.20	76.00	4	1	4	0	0.40	1.00	0.67	0.00	17	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 United States presidential election point in time 2020 Reform Party presidential primaries 2020 Constitution Party presidential primaries meeting	2020-11-03T00:00:00Z	127	2	70	1	0	19	85043.00	1463.00	84.00	1.00	1	6.65	76.00	10	2	10	0	0.08	1.00	0.14	0.00	200	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Tom Steyer presidential campaign, 2020 end time	2020-02-29T00:00:00Z	1	2	3	0	0	7	84795.00	1711.00	0.00	1.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Kanye West presidential campaign, 2020 start time	2020-07-04T00:00:00Z	6	1	2	0	0	7	84921.00	1585.00	42.00	6.00	1	9.00	76.00	5	1	2	0	0.83	1.00	1.00	0.00	9	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Democratic Party presidential primaries start time	2020-02-03T00:00:00Z	37	2	22	0	0	7	84769.00	1737.00	3.00	8.00	1	8.11	76.00	6	2	8	0	0.16	1.00	0.36	0.00	61	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Michael Bennet presidential campaign, 2020 end time	2020-02-11T00:00:00Z	1	2	3	0	0	7	84777.00	1729.00	0.00	18.00	1	6.00	39.00	1	2	2	0	1.00	1.00	0.67	0.00	6	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Green Party presidential primaries point in time	2020-01-01T00:00:00Z	3	2	4	0	0	8	84736.00	1770.00	0.00	0.00	1	5.33	76.00	1	2	4	0	0.33	1.00	1.00	0.00	9	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Michael Bloomberg presidential campaign, 2020 start time	2019-11-24T00:00:00Z	2	2	1	0	0	7	84698.00	1808.00	23.00	7.00	1	8.00	39.00	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	Cory Booker presidential campaign, 2020 dissolved, abolished or demolished date	2020-01-13T00:00:00Z	2	2	1	0	0	10	84748.00	1758.00	12.00	18.00	1	13.00	39.50	2	2	1	0	1.00	1.00	1.00	0.00	5	1
+Wikidata	2020 United States presidential election	Event	2	50	500	0.5	2020 Republican Party presidential primaries point in time	2020-01-01T00:00:00Z	7	2	11	0	0	8	84736.00	1770.00	31.00	0.00	1	6.71	76.00	3	2	7	0	0.43	1.00	0.64	0.00	20	1
+Wikidata	Apollo 11	Event	1	50	500	0.5	Apollo 11 UTC date of spacecraft launch extra-vehicular activity splashdown Wikipedia:Vital articles/Level/4 human spaceflight orbital activity	1969-07-16T00:00:00Z	11	11	10	0	0	16	0.00	8.00	0	8.00	1	3.09	3.45	5	7	8	0	0.45	0.64	0.80	0.00	30	1
+Wikidata	Apollo 11	Event	1	50	500	0.5	Apollo 11 UTC date of spacecraft landing extra-vehicular activity splashdown Wikipedia:Vital articles/Level/4 human spaceflight orbital activity	1969-07-24T00:00:00Z	11	11	10	0	0	16	8.00	0.00	8.00	0	1	3.09	3.45	5	7	8	0	0.45	0.64	0.80	0.00	30	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Moon landing UTC date of spacecraft landing occurrence Moon Wikipedia:Vital articles/Level/4	1959-09-13T00:00:00Z	0	0	11	0	0	11	0.00	21861.00	0	3535.00	1	0	0	0	0	2	0	0	0	0.18	0.00	11	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 10 UTC date of spacecraft launch orbital activity human spaceflight splashdown	1969-05-18T00:00:00Z	12	5	7	0	0	12	3535.00	18326.00	3535.00	8.00	1	5.33	8.00	5	4	4	0	0.42	0.80	0.57	0.00	23	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 10 UTC date of spacecraft landing orbital activity human spaceflight splashdown	1969-05-26T00:00:00Z	12	5	7	0	0	12	3543.00	18318.00	8.00	51.00	1	5.33	8.00	5	4	4	0	0.42	0.80	0.57	0.00	23	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 11 UTC date of spacecraft launch extra-vehicular activity orbital activity splashdown Wikipedia:Vital articles/Level/4 human spaceflight	1969-07-16T00:00:00Z	14	11	12	0	0	16	3594.00	18267.00	51.00	4.00	1	5.00	6.36	6	7	8	0	0.43	0.64	0.67	0.00	35	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Moon landing UTC date of spacecraft landing occurrence Moon Wikipedia:Vital articles/Level/4	1969-07-20T00:00:00Z	0	0	11	0	0	11	3598.00	18263.00	4.00	4.00	1	0	0	0	0	2	0	0	0	0.18	0.00	11	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 11 UTC date of spacecraft landing extra-vehicular activity orbital activity splashdown Wikipedia:Vital articles/Level/4 human spaceflight	1969-07-24T00:00:00Z	14	11	12	0	0	16	3602.00	18259.00	4.00	113.00	1	5.00	6.36	6	7	8	0	0.43	0.64	0.67	0.00	35	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 12 UTC date of spacecraft landing splashdown orbital activity extra-vehicular activity human spaceflight	1969-11-24T00:00:00Z	10	6	28	0	0	14	3725.00	18136.00	10.00	18136.00	1	3.80	8.33	5	4	7	0	0.50	0.67	0.25	0.00	44	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo 12 UTC date of spacecraft launch splashdown orbital activity extra-vehicular activity human spaceflight	1969-11-14T00:00:00Z	10	6	28	0	0	14	3715.00	18146.00	113.00	10.00	1	3.80	8.33	5	4	7	0	0.50	0.67	0.25	0.00	44	1
+Wikidata	Apollo 11	Event	2	50	500	0.5	Apollo Day point in time celebration party	2019-07-21T00:00:00Z	6	4	1	0	0	7	21861.00	0.00	18136.00	0	1	1.00	1.50	1	4	1	0	0.17	1.00	1.00	0.00	11	1
+Wikidata	Industrial Revolution	Event	1	50	500	0.5	Industrial Revolution start time Wikipedia:Vital articles/Level/4 Wikipedia:List of articles all languages should have	1750-01-01T00:00:00Z	0	3	3	0	0	13	0.00	29584.00	0	29584.00	1	0	2.00	0	3	2	0	0	1.00	0.67	0.00	6	1
+Wikidata	Industrial Revolution	Event	1	50	500	0.5	Industrial Revolution end time Wikipedia:Vital articles/Level/4 Wikipedia:List of articles all languages should have	1831-01-01T00:00:00Z	0	3	3	0	0	13	29584.00	0.00	29584.00	0	1	0	2.00	0	3	2	0	0	1.00	0.67	0.00	6	1
+Wikidata	Industrial Revolution	Event	2	50	500	0.5	Industrial Revolution start time Wikipedia:List of articles all languages should have Wikipedia:Vital articles/Level/4 Industrious Revolution	1750-01-01T00:00:00Z	0	3	3	0	0	15	0.00	29584.00	0	22348.00	1	0	2.00	0	3	2	0	0	1.00	0.67	0.00	6	1
+Wikidata	Industrial Revolution	Event	2	50	500	0.5	Luddite movement start time	1811-03-11T00:00:00Z	2	0	4	0	0	4	22348.00	7236.00	22348.00	7236.00	1	1.00	0	2	0	4	0	1.00	0	1.00	0.00	4	1
+Wikidata	Industrial Revolution	Event	2	50	500	0.5	Industrial Revolution end time Wikipedia:List of articles all languages should have Wikipedia:Vital articles/Level/4 Industrious Revolution	1831-01-01T00:00:00Z	0	3	3	0	0	15	29584.00	0.00	7236.00	0	1	0	2.00	0	3	2	0	0	1.00	0.67	0.00	6	0
+Wikidata	Buddhism	Religion	2	50	500	0.5	inception latest date	-0482-01-01T00:00:00Z	0	0	0	0	0	3	NaN	NaN	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Buddhism	Religion	2	50	500	0.5	inception earliest date	-0562-01-01T00:00:00Z	0	0	0	0	0	3	NaN	NaN	NaN	NaN	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Buddhism	Religion	2	50	500	0.5	subreddit start time	2008-03-25T00:00:00Z	0	0	0	0	0	3	NaN	5333.00	NaN	282.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	2	50	500	0.5	Treccani's Dizionario di Filosofia ID publication date	2009-01-01T00:00:00Z	0	0	0	0	0	7	NaN	5051.00	282.00	2191.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	2	50	500	0.5	member count point in time	2015-01-01T00:00:00Z	0	0	0	0	0	5	NaN	2860.00	2191.00	2318.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	2	50	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	0	0	0	0	0	12	NaN	542.00	2318.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	2	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	NaN	0.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	1	50	500	0.5	inception latest date	-0482-01-01T00:00:00Z	0	0	0	0	0	3	NaN	NaN	0	NaN	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Buddhism	Religion	1	50	500	0.5	inception earliest date	-0562-01-01T00:00:00Z	0	0	0	0	0	3	NaN	NaN	NaN	NaN	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Buddhism	Religion	1	50	500	0.5	subreddit start time	2008-03-25T00:00:00Z	0	0	0	0	0	3	NaN	5333.00	NaN	282.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	1	50	500	0.5	Treccani's Dizionario di Filosofia ID publication date	2009-01-01T00:00:00Z	0	0	0	0	0	7	NaN	5051.00	282.00	2191.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	1	50	500	0.5	member count point in time	2015-01-01T00:00:00Z	0	0	0	0	0	5	NaN	2860.00	2191.00	2318.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	1	50	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	0	0	0	0	0	12	NaN	542.00	2318.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Buddhism	Religion	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	NaN	0.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	1	50	500	0.5	inception	0033-01-01T00:00:00Z	0	0	0	0	0	1	0.00	727100.54	0	721377.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Christianity	Religion	1	50	500	0.5	subreddit start time	2008-01-25T00:00:00Z	0	0	0	0	0	3	721377.00	5723.54	721377.00	707.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	1	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	722084.00	5016.54	707.00	1826.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	1	50	500	0.5	member count point in time	2015-01-01T00:00:00Z	0	0	0	0	0	5	723910.00	3190.54	1826.00	2860.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	726770.00	330.54	2860.00	330.54	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	1	50	500	0.5	has part(s) 	2023-09-26T13:03:39Z	0	0	0	0	0	2	727100.54	0.00	330.54	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	2	50	500	0.5	inception	0033-01-01T00:00:00Z	0	0	0	0	0	1	0.00	727100.54	0	721377.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Christianity	Religion	2	50	500	0.5	subreddit start time	2008-01-25T00:00:00Z	0	0	0	0	0	3	721377.00	5723.54	721377.00	707.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	2	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	722084.00	5016.54	707.00	1826.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	2	50	500	0.5	member count point in time	2015-01-01T00:00:00Z	0	0	0	0	0	5	723910.00	3190.54	1826.00	2860.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	2	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	726770.00	330.54	2860.00	330.54	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Christianity	Religion	2	50	500	0.5	has part(s) 	2023-09-26T13:03:39Z	0	0	0	0	0	2	727100.54	0.00	330.54	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	subreddit start time	2008-06-02T00:00:00Z	0	0	0	0	0	3	0.00	NaN	0	578.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	578.00	NaN	578.00	3652.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	member count point in time	2020-01-01T00:00:00Z	0	0	0	0	0	5	4230.00	NaN	3652.00	492.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	0	0	0	0	0	12	4722.00	NaN	492.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	5264.00	NaN	542.00	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	1	50	500	0.5	different from Hinduism 	Indian loanwords	0	0	0	0	0	3	NaN	NaN	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	subreddit start time	2008-06-02T00:00:00Z	0	0	0	0	0	3	0.00	NaN	0	578.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	578.00	NaN	578.00	3652.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	member count point in time	2020-01-01T00:00:00Z	0	0	0	0	0	5	4230.00	NaN	3652.00	492.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	described by source Metropolitan Museum of Art Tagging Vocabulary point in time	2021-05-07T00:00:00Z	0	0	0	0	0	12	4722.00	NaN	492.00	542.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	5264.00	NaN	542.00	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Hinduism	Religion	2	50	500	0.5	different from Hinduism 	Indian loanwords	0	0	0	0	0	3	NaN	NaN	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	1	50	500	0.5	inception	0610-01-01T00:00:00Z	0	0	0	0	0	1	0.00	516026.00	0	510673.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Islam	Religion	1	50	500	0.5	subreddit start time	2008-03-05T00:00:00Z	0	0	0	0	0	3	510673.00	5353.00	510673.00	667.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	1	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	511340.00	4686.00	667.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	516026.00	0.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	2	50	500	0.5	inception	0610-01-01T00:00:00Z	0	0	0	0	0	1	0.00	516026.00	0	510673.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Islam	Religion	2	50	500	0.5	subreddit start time	2008-03-05T00:00:00Z	0	0	0	0	0	3	510673.00	5353.00	510673.00	667.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	2	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	511340.00	4686.00	667.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Islam	Religion	2	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	516026.00	0.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Sikhism	Religion	1	50	500	0.5	inception	1469-01-01T00:00:00Z	0	0	0	0	0	1	0.00	202282.00	0	202282.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Sikhism	Religion	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	202282.00	0.00	202282.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Sikhism	Religion	2	50	500	0.5	inception	1469-01-01T00:00:00Z	0	0	0	0	0	1	0.00	202282.00	0	202282.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Sikhism	Religion	2	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	202282.00	0.00	202282.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Impressionism	Movement	2	50	500	0.5	Pont-Aven School start time	1850-01-01T00:00:00Z	39	1	4	0	0	4	0.00	36524.00	0	0.00	1	2.03	2.00	2	1	2	0	0.05	1.00	0.50	0.00	41	1
+Wikidata	Impressionism	Movement	2	50	500	0.5	Pont-Aven School inception	1850-01-01T00:00:00Z	39	1	4	0	0	3	0.00	36524.00	0.00	3652.00	1	2.03	2.00	2	1	2	0	0.05	1.00	0.50	0.00	41	1
+Wikidata	Impressionism	Movement	2	50	500	0.5	Impressionism inception Wikipedia:Vital articles/Level/4 Impressionism	1860-01-01T00:00:00Z	20	0	12	0	0	5	3652.00	32872.00	3652.00	7305.00	1	1.40	0	5	0	4	0	0.25	0	0.33	0.00	29	1
+Wikidata	Impressionism	Movement	2	50	500	0.5	American Impressionism inception	1880-01-01T00:00:00Z	8	1	2	0	0	3	10957.00	25567.00	7305.00	0.00	1	1.00	1.00	3	1	2	0	0.38	1.00	1.00	0.00	10	1
+Wikidata	Impressionism	Movement	2	50	500	0.5	Heidelberg School inception	1880-01-01T00:00:00Z	8	1	2	0	0	3	10957.00	25567.00	0.00	25567.00	1	1.00	1.00	1	1	1	0	0.13	1.00	0.50	0.00	11	1
+Wikidata	Impressionism	Movement	2	50	500	0.5	abstract impressionism inception	1950-01-01T00:00:00Z	9	0	4	0	0	3	36524.00	0.00	25567.00	0	1	1.00	0	3	0	2	0	0.33	0	0.50	0.00	13	1
+Wikidata	Impressionism	Movement	1	50	500	0.5	inception	1860-01-01T00:00:00Z	0	0	0	0	0	1	0.00	NaN	0	59473.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Impressionism	Movement	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	59473.00	NaN	59473.00	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Impressionism	Movement	1	50	500	0.5	different from 	Impressionism	0	0	0	0	0	2	NaN	NaN	NaN	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Renaissance	Movement	1	50	500	0.5	start time	1400-01-01T00:00:00Z	0	0	0	0	0	2	0.00	227484.00	0	91311.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Renaissance	Movement	1	50	500	0.5	end time	1650-01-01T00:00:00Z	0	0	0	0	0	2	91311.00	136173.00	91311.00	131122.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	Renaissance	Movement	1	50	500	0.5	Treccani's Dizionario di Filosofia ID publication date	2009-01-01T00:00:00Z	0	0	0	0	0	7	222433.00	5051.00	131122.00	730.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Renaissance	Movement	1	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2011-01-01T00:00:00Z	0	0	0	0	0	7	223163.00	4321.00	730.00	4321.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Renaissance	Movement	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	227484.00	0.00	4321.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	Renaissance	Movement	2	50	500	0.5	Proto-Renaissance start time	1100-01-01T00:00:00Z	2	37	4	0	0	3	0.00	219146.00	0	36524.00	1	2.00	2.08	1	2	4	0	0.50	0.05	1.00	0.00	42	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Proto-Renaissance end time	1200-01-01T00:00:00Z	2	37	4	0	0	3	36524.00	182622.00	36524.00	0.00	1	2.00	2.08	1	2	4	0	0.50	0.05	1.00	0.00	43	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Italian primitives start time	1200-01-01T00:00:00Z	0	2	1	0	0	4	36524.00	182622.00	0.00	73049.00	1	0	3.00	0	2	1	0	0	1.00	1.00	0.00	3	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Renaissance start time Wikipedia:Vital articles/Level/4 Wikipedia:List of articles all languages should have	1400-01-01T00:00:00Z	1	2	26	0	0	12	109573.00	109573.00	73049.00	31046.00	1	2.00	3.50	1	2	6	0	1.00	1.00	0.23	0.00	29	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	English Renaissance start time	1485-01-01T00:00:00Z	1	1	3	0	0	4	140619.00	78527.00	31046.00	42002.00	1	2.00	2.00	1	1	2	0	1.00	1.00	0.67	0.00	5	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Seicento start time	1600-01-01T00:00:00Z	1	1	4	0	0	3	182621.00	36525.00	42002.00	18263.00	1	2.00	2.00	1	1	3	0	1.00	1.00	0.75	0.00	6	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Renaissance end time Wikipedia:Vital articles/Level/4 Wikipedia:List of articles all languages should have	1650-01-01T00:00:00Z	1	2	26	0	0	12	200884.00	18262.00	18263.00	18262.00	1	2.00	3.50	1	2	6	0	1.00	1.00	0.23	0.00	29	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	English Renaissance end time	1700-01-01T00:00:00Z	1	1	3	0	0	4	219146.00	0.00	0.00	0	1	2.00	2.00	1	1	2	0	1.00	1.00	0.67	0.00	5	1
+Wikidata	Renaissance	Movement	2	50	500	0.5	Seicento end time	1700-01-01T00:00:00Z	1	1	4	0	0	3	219146.00	0.00	18262.00	0.00	1	2.00	2.00	1	1	3	0	1.00	1.00	0.75	0.00	6	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Salon Cubism inception	1900-01-01T00:00:00Z	4	0	4	0	0	3	0.00	20453.00	0	2191.00	1	1.00	0	1	0	2	0	0.25	0	0.50	0.00	7	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Proto-Cubism inception	1906-01-01T00:00:00Z	0	0	3	0	0	2	2191.00	18262.00	2191.00	365.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Cubism inception Wikipedia:Vital articles/Level/4	1907-01-01T00:00:00Z	12	1	21	0	0	4	2556.00	17897.00	365.00	365.00	1	1.17	3.00	1	1	6	0	0.08	1.00	0.29	0.00	34	1
+Wikidata	Cubism	Movement	2	50	500	0.5	analytical cubism inception	1908-01-01T00:00:00Z	0	0	3	0	0	3	2921.00	17532.00	365.00	366.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	futurism inception Wikipedia:Vital articles/Level/4	1909-01-01T00:00:00Z	4	3	9	0	0	4	3287.00	17166.00	366.00	365.00	1	1.00	1.00	4	1	4	0	1.00	0.33	0.44	0.00	16	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Dada inception Wikipedia:Vital articles/Level/4	1910-01-01T00:00:00Z	30	0	13	0	0	4	3652.00	16801.00	365.00	0.00	1	1.10	0	5	0	7	0	0.17	0	0.54	0.00	43	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Proto-Cubism end time	1910-01-01T00:00:00Z	0	0	3	0	0	3	3652.00	16801.00	0.00	730.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Orphism inception	1912-01-01T00:00:00Z	9	0	4	0	0	2	4382.00	16071.00	730.00	0.00	1	1.00	0	4	0	4	0	0.44	0	1.00	0.00	13	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Czech Cubism inception	1912-01-01T00:00:00Z	0	2	1	0	0	3	4382.00	16071.00	0.00	0.00	1	0	1.00	0	1	1	0	0	0.50	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	analytical cubism end time	1912-01-01T00:00:00Z	0	0	3	0	0	4	4382.00	16071.00	0.00	0.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	synthetic cubism inception	1912-01-01T00:00:00Z	0	0	3	0	0	3	4382.00	16071.00	0.00	366.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	neo-primitivism inception	1913-01-01T00:00:00Z	3	1	2	0	0	2	4748.00	15705.00	0.00	365.00	1	2.00	2.00	2	1	1	0	0.67	1.00	0.50	0.00	6	1
+Wikidata	Cubism	Movement	2	50	500	0.5	suprematism inception Wikipedia:Vital articles/Level/4	1913-01-01T00:00:00Z	15	1	2	0	0	4	4748.00	15705.00	366.00	0.00	1	1.67	2.00	3	1	2	0	0.20	1.00	1.00	0.00	18	1
+Wikidata	Cubism	Movement	2	50	500	0.5	purism end time	1925-01-01T00:00:00Z	5	18	1	0	0	3	9131.00	11322.00	2557.00	11322.00	1	2.80	2.06	2	2	1	0	0.40	0.11	1.00	0.00	24	1
+Wikidata	Cubism	Movement	2	50	500	0.5	synthetic cubism dissolved, abolished or demolished date	1914-01-01T00:00:00Z	0	0	3	0	0	7	5113.00	15340.00	365.00	1461.00	1	0	0	0	0	3	0	0	0	1.00	0.00	3	1
+Wikidata	Cubism	Movement	2	50	500	0.5	purism inception	1918-01-01T00:00:00Z	5	18	1	0	0	2	6574.00	13879.00	1461.00	2557.00	1	2.80	2.06	2	2	1	0	0.40	0.11	1.00	0.00	24	1
+Wikidata	Cubism	Movement	2	50	500	0.5	Ton Fan Group inception	1956-01-01T00:00:00Z	4	8	6	0	0	4	20453.00	0.00	11322.00	0	1	1.50	1.00	3	2	4	0	0.75	0.25	0.67	0.00	18	1
+Wikidata	futurism	Movement	1	50	500	0.5	inception	1909-01-01T00:00:00Z	0	0	0	0	0	1	0.00	41576.00	0	36890.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	futurism	Movement	1	50	500	0.5	Treccani's Dizionario di Storia ID publication date	2010-01-01T00:00:00Z	0	0	0	0	0	7	36890.00	4686.00	36890.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	futurism	Movement	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	41576.00	0.00	4686.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	futurism	Movement	2	50	500	0.5	futurism inception Wikipedia:Vital articles/Level/4 futurist architecture	1909-01-01T00:00:00Z	5	3	9	0	0	6	0.00	18262.00	0	1461.00	1	1.40	3.00	5	1	4	0	1.00	0.33	0.44	0.00	16	1
+Wikidata	futurism	Movement	2	50	500	0.5	neo-primitivism inception	1913-01-01T00:00:00Z	3	1	2	0	0	2	1461.00	16801.00	1461.00	2556.00	1	1.00	1.00	2	1	1	0	0.67	1.00	0.50	0.00	6	1
+Wikidata	futurism	Movement	2	50	500	0.5	aeropittura inception	1920-01-01T00:00:00Z	1	1	1	0	0	2	4017.00	14245.00	2556.00	7305.00	1	2.00	7.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	futurism	Movement	2	50	500	0.5	aeropittura dissolved, abolished or demolished date	1940-01-01T00:00:00Z	1	1	1	0	0	6	11322.00	6940.00	7305.00	2922.00	1	2.00	7.00	1	1	1	0	1.00	1.00	1.00	0.00	3	1
+Wikidata	futurism	Movement	2	50	500	0.5	Movimento Arte Concreta inception	1948-01-01T00:00:00Z	95	6	12	0	0	4	14244.00	4018.00	2922.00	274.00	1	7.54	5.83	4	5	5	0	0.04	0.83	0.42	0.00	113	1
+Wikidata	futurism	Movement	2	50	500	0.5	Movimento Arte Concreta start time	1948-10-01T00:00:00Z	95	6	12	0	0	5	14518.00	3744.00	274.00	82.00	1	7.54	5.83	4	5	5	0	0.04	0.83	0.42	0.00	113	1
+Wikidata	futurism	Movement	2	50	500	0.5	Movimento Arte Concreta inception	1948-12-22T00:00:00Z	95	6	12	0	0	4	14600.00	3662.00	82.00	3662.00	1	7.54	5.83	4	5	5	0	0.04	0.83	0.42	0.00	113	1
+Wikidata	futurism	Movement	2	50	500	0.5	Movimento Arte Concreta end time	1959-01-01T00:00:00Z	95	6	12	0	0	5	18262.00	0.00	3662.00	0	1	7.54	5.83	4	5	5	0	0.04	0.83	0.42	0.00	113	1
+Wikidata	purism	Movement	1	50	500	0.5	inception	1918-01-01T00:00:00Z	0	0	0	0	0	1	0.00	2557.00	0	2557.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	purism	Movement	1	50	500	0.5	end time	1925-01-01T00:00:00Z	0	0	0	0	0	2	2557.00	0.00	2557.00	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	purism	Movement	2	50	500	0.5	purism inception	1918-01-01T00:00:00Z	6	18	1	0	0	2	0.00	2557.00	0	2557.00	1	3.33	2.00	2	2	1	0	0.33	0.11	1.00	0.00	18	1
+Wikidata	purism	Movement	2	50	500	0.5	purism end time	1925-01-01T00:00:00Z	6	18	1	0	0	3	2557.00	0.00	2557.00	0	1	3.33	2.00	2	2	1	0	0.33	0.11	1.00	0.00	18	1
+Wikidata	modernism	Movement	1	50	500	0.5	start time	1900-01-01T00:00:00Z	0	0	0	0	0	2	0.00	44863.00	0	44863.00	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wikidata	modernism	Movement	1	50	500	0.5	on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time	2022-10-31T00:00:00Z	0	0	0	0	0	11	44863.00	0.00	44863.00	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wikidata	modernism	Movement	2	50	500	0.5	modernism start time Wikipedia:Vital articles/Level/4	1900-01-01T00:00:00Z	3	0	18	0	0	5	0.00	14609.00	0	3652.00	1	1.00	0	2	0	3	0	0.67	0	0.17	0.00	13	1
+Wikidata	modernism	Movement	2	50	500	0.5	expressionism inception	1910-01-01T00:00:00Z	0	1	5	0	0	2	3652.00	10957.00	3652.00	7305.00	1	0	1.00	0	1	3	0	0	1.00	0.60	0.00	4	1
+Wikidata	modernism	Movement	2	50	500	0.5	Streamline Moderne time of discovery or invention	1930-01-01T00:00:00Z	0	37	2	0	0	7	10957.00	3652.00	7305.00	3652.00	1	0	1.00	0	2	1	0	0	0.05	0.50	0.00	37	1
+Wikidata	modernism	Movement	2	50	500	0.5	Angry Penguins inception	1940-01-01T00:00:00Z	4	1	1	0	0	3	14609.00	0.00	3652.00	0	1	1.00	1.00	1	1	1	0	0.25	1.00	1.00	0.00	6	1

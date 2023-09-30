@@ -1,0 +1,173 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "modernism";
+    nrtv:has_theme http://www.wikidata.org/entity/Q2198855;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q968159;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q32880;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6;
+    rdf:_7 event_7;
+    rdf:_8 event_8;
+    rdf:_9 event_9;
+    rdf:_10 event_10;
+    rdf:_11 event_11.
+
+event_1 a nrtv:Event;
+    nrtv:what "Hanshinkan Modernism";
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1.
+
+event_2 a nrtv:Event;
+    nrtv:what "Cubism";
+    nrtv:where nrtv:location_2;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1.
+
+event_3 a nrtv:Event;
+    nrtv:what "Photo-Secession";
+    nrtv:who nrtv:character_0;
+    nrtv:where nrtv:location_3;
+    nrtv:related_to nrtv:related_event_2.
+
+event_4 a nrtv:Event;
+    nrtv:what "Angry Penguins";
+    nrtv:where nrtv:location_4;
+    nrtv:related_to nrtv:related_event_3.
+
+event_5 a nrtv:Event;
+    nrtv:what "Catalan modernism";
+    nrtv:where nrtv:location_5;
+    nrtv:where nrtv:location_6;
+    nrtv:where nrtv:location_7;
+    nrtv:where nrtv:location_8;
+    nrtv:where nrtv:location_9;
+    nrtv:where nrtv:location_10.
+
+event_6 a nrtv:Event;
+    nrtv:what "expressionism";
+    nrtv:where nrtv:location_11;
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5.
+
+event_7 a nrtv:Event;
+    nrtv:what "modernism";
+    nrtv:related_to nrtv:related_event_6.
+
+event_8 a nrtv:Event;
+    nrtv:what "Acmeist poetry";
+    nrtv:related_to nrtv:related_event_7.
+
+event_9 a nrtv:Event;
+    nrtv:what "modernist literature";
+    nrtv:related_to nrtv:related_event_8.
+
+event_10 a nrtv:Event;
+    nrtv:what "modern art";
+    nrtv:related_to nrtv:related_event_9.
+
+event_11 a nrtv:Event;
+    nrtv:what "Brussels style";
+    nrtv:where nrtv:location_12.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q313055;
+    nrtv:role http://www.wikidata.org/prop/direct/P112.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q24886649;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q17;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q142;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q30;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q408;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/direct/P131.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/direct/P131.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_8 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_9 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q5705;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_10 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q5705;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_11 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q183;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_12 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q33946;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q3408836;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q40415;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_9 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q878985;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+

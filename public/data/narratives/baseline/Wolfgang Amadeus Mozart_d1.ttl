@@ -1,0 +1,92 @@
+narrative_1 a nrtv:Narrative;
+    nrtv:about "Wolfgang Amadeus Mozart";
+    nrtv:has_theme http://www.wikidata.org/entity/Q5;
+    nrtv:event_sequence event_sequence_1.
+
+event_sequence_1 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6.
+
+event_1 a nrtv:Event;
+    nrtv:what "Contents";
+    nrtv:where nrtv:location_0;
+    nrtv:related_to nrtv:related_event_0.
+
+event_2 a nrtv:Event;
+    nrtv:what "Classical period";
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4.
+
+event_3 a nrtv:Event;
+    nrtv:what "Wiener Mozartjahr 2006";
+    nrtv:when "2006-01-01T00:00:00Z";
+    nrtv:where nrtv:location_1;
+    nrtv:where nrtv:location_2.
+
+event_4 a nrtv:Event;
+    nrtv:what "The Magic Flute (New Zealand Opera 2016)";
+    nrtv:where nrtv:location_3;
+    nrtv:where nrtv:location_4.
+
+event_5 a nrtv:Event;
+    nrtv:what "International Mozart Competition Salzburg";
+    nrtv:where nrtv:location_5.
+
+event_6 a nrtv:Event;
+    nrtv:what "Land der Berge, Land am Strome";
+    nrtv:where nrtv:location_6.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q77;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1741;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q40;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q565497;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q4778787;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q40;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q40;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q121344590;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q207591;
+    nrtv:relation http://www.wikidata.org/prop/direct/P156.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q207591;
+    nrtv:relation http://www.wikidata.org/prop/direct/P156.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q8361;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q8361;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+

@@ -1,0 +1,112 @@
+narrative_1 a nrtv:Narrative;
+    nrtv:about "Pablo Picasso";
+    nrtv:has_theme http://dbpedia.org/class/yago/Absentee109757653;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Administrator109770949;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Artist109812338;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Atheist109820044;
+    nrtv:has_theme  http://dbpedia.org/class/yago/CausalAgent100007347;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Craftsman109974648;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Creator109614315;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Director110014939;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Disbeliever110015897;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Exile110071332;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Expert109617867;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Head110162991;
+    nrtv:has_theme  http://dbpedia.org/class/yago/InteriorDesigner110210648;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Leader109623038;
+    nrtv:has_theme  http://dbpedia.org/class/yago/LivingThing100004258;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Muralist110338498;
+    nrtv:has_theme  http://dbpedia.org/class/yago/NonreligiousPerson109625789;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Object100002684;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Organism100004475;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Painter110391653;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Person100007846;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PhysicalEntity100001930;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Potter110460806;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Printmaker110475687;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Sculptor110566072;
+    nrtv:has_theme  http://dbpedia.org/class/yago/SkilledWorker110605985;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Specialist110631941;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Traveler109629752;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Whole100003553;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat19th-centurySpanishPainters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat20th-centurySculptors;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat20th-centurySpanishPainters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatBalletDesigners;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatCeramists;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatContemporarySculptors;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatCubistArtists;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatDirectorsOfTheMuseoDelPrado;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatModernPainters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatPeopleFromMálaga;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatPeopleFromParis;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatPotters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishAtheists;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishExpatriatesInFrance;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishMuralists;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishPainters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishPeopleOfItalianDescent;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishPeopleOfTheSpanishCivilWar;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishPotters;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishPrintmakers;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSpanishSculptors;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Worker109632518;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoLegalActor;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoLegalActorGeo;
+    nrtv:has_theme  http://dbpedia.org/ontology/Animal;
+    nrtv:has_theme  http://dbpedia.org/ontology/Artist;
+    nrtv:has_theme  http://dbpedia.org/ontology/Eukaryote;
+    nrtv:has_theme  http://dbpedia.org/ontology/Person;
+    nrtv:has_theme  http://dbpedia.org/ontology/Species;
+    nrtv:has_theme  http://dbpedia.org/ontology/Writer;
+    nrtv:has_theme  http://schema.org/Person;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Artist;
+    nrtv:has_theme  http://umbel.org/umbel/rc/PersonWithOccupation;
+    nrtv:has_theme  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q19088;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q215627;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q483501;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q5;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q729;
+    nrtv:has_theme  http://xmlns.com/foaf/0.1/Person;
+    nrtv:event_sequence event_sequence_1.
+
+event_sequence_1 a rdf:Seq;
+    rdf:_1 event_17;
+    rdf:_2 event_18.
+
+event_17 a nrtv:Event;
+    nrtv:what "birth date";
+    nrtv:when "1881-10-25";
+    nrtv:who nrtv:character_150;
+    nrtv:where nrtv:location_25;
+    nrtv:where nrtv:location_26.
+
+event_18 a nrtv:Event;
+    nrtv:what "death date";
+    nrtv:when "1973-04-08";
+    nrtv:who nrtv:character_151;
+    nrtv:where nrtv:location_27.
+
+character_150 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Pablo_Picasso;
+    nrtv:role perpetrator.
+
+character_151 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Pablo_Picasso;
+    nrtv:role perpetrator.
+
+location_25 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Restoration_(Spain);
+    nrtv:setting http://dbpedia.org/ontology/birthPlace.
+
+location_26 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Málaga;
+    nrtv:setting http://dbpedia.org/ontology/birthPlace.
+
+location_27 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Mougins;
+    nrtv:setting http://dbpedia.org/ontology/deathPlace.
+

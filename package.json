@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "papaparse": "^5.4.1",
+    "picklejs": "^0.101.0",
+    "python-shell": "^5.0.0",
+    "sklearn": "^0.3.0"
+  }
+}

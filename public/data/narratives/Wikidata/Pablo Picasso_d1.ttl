@@ -1,0 +1,449 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Pablo Picasso";
+    nrtv:has_theme http://www.wikidata.org/entity/Q5;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6;
+    rdf:_7 event_7;
+    rdf:_8 event_8;
+    rdf:_9 event_9;
+    rdf:_10 event_10;
+    rdf:_11 event_11;
+    rdf:_12 event_12;
+    rdf:_13 event_13;
+    rdf:_14 event_14;
+    rdf:_15 event_15;
+    rdf:_16 event_16;
+    rdf:_17 event_17;
+    rdf:_18 event_18;
+    rdf:_19 event_19;
+    rdf:_20 event_20;
+    rdf:_21 event_21;
+    rdf:_22 event_22;
+    rdf:_23 event_23;
+    rdf:_24 event_24;
+    rdf:_25 event_25;
+    rdf:_26 event_26;
+    rdf:_27 event_27;
+    rdf:_28 event_28.
+
+event_1 a nrtv:Event;
+    nrtv:what "date of birth";
+    nrtv:when "1881-10-25T00:00:00Z";
+    nrtv:who nrtv:character_0;
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1;
+    nrtv:where nrtv:location_2.
+
+event_2 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1897-01-01T00:00:00Z";
+    nrtv:who nrtv:character_1;
+    nrtv:where nrtv:location_3.
+
+event_3 a nrtv:Event;
+    nrtv:what "unmarried partner start time";
+    nrtv:when "1904-01-01T00:00:00Z";
+    nrtv:who nrtv:character_2;
+    nrtv:who nrtv:character_3.
+
+event_4 a nrtv:Event;
+    nrtv:what "unmarried partner end time";
+    nrtv:when "1912-01-01T00:00:00Z";
+    nrtv:who nrtv:character_4;
+    nrtv:who nrtv:character_5.
+
+event_5 a nrtv:Event;
+    nrtv:what "unmarried partner end time";
+    nrtv:when "1915-01-01T00:00:00Z";
+    nrtv:who nrtv:character_6;
+    nrtv:who nrtv:character_7.
+
+event_6 a nrtv:Event;
+    nrtv:what "spouse start time";
+    nrtv:when "1918-07-12T00:00:00Z";
+    nrtv:who nrtv:character_8;
+    nrtv:who nrtv:character_9;
+    nrtv:where nrtv:location_4;
+    nrtv:why "end cause: death of subject's spouse".
+
+event_7 a nrtv:Event;
+    nrtv:what "unmarried partner start time";
+    nrtv:when "1927-01-01T00:00:00Z";
+    nrtv:who nrtv:character_10;
+    nrtv:who nrtv:character_11.
+
+event_8 a nrtv:Event;
+    nrtv:what "unmarried partner end time";
+    nrtv:when "1935-01-01T00:00:00Z";
+    nrtv:who nrtv:character_12;
+    nrtv:who nrtv:character_13.
+
+event_9 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1935-01-01T00:00:00Z";
+    nrtv:who nrtv:character_14.
+
+event_10 a nrtv:Event;
+    nrtv:what "unmarried partner start time";
+    nrtv:when "1936-01-01T00:00:00Z";
+    nrtv:who nrtv:character_15;
+    nrtv:who nrtv:character_16.
+
+event_11 a nrtv:Event;
+    nrtv:what "unmarried partner end time";
+    nrtv:when "1944-01-01T00:00:00Z";
+    nrtv:who nrtv:character_17;
+    nrtv:who nrtv:character_18.
+
+event_12 a nrtv:Event;
+    nrtv:what "unmarried partner start time";
+    nrtv:when "1948-01-01T00:00:00Z";
+    nrtv:who nrtv:character_19;
+    nrtv:who nrtv:character_20.
+
+event_13 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1949-01-01T00:00:00Z";
+    nrtv:who nrtv:character_21.
+
+event_14 a nrtv:Event;
+    nrtv:what "unmarried partner end time";
+    nrtv:when "1953-01-01T00:00:00Z";
+    nrtv:who nrtv:character_22;
+    nrtv:who nrtv:character_23.
+
+event_15 a nrtv:Event;
+    nrtv:what "spouse end time";
+    nrtv:when "1955-02-11T00:00:00Z";
+    nrtv:who nrtv:character_24;
+    nrtv:who nrtv:character_25;
+    nrtv:where nrtv:location_5;
+    nrtv:why "end cause: death of subject's spouse".
+
+event_16 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1958-01-01T00:00:00Z";
+    nrtv:who nrtv:character_26;
+    nrtv:where nrtv:location_6.
+
+event_17 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "1961-01-01T00:00:00Z";
+    nrtv:who nrtv:character_27;
+    nrtv:where nrtv:location_7.
+
+event_18 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1961-01-01T00:00:00Z";
+    nrtv:who nrtv:character_28;
+    nrtv:where nrtv:location_8.
+
+event_19 a nrtv:Event;
+    nrtv:what "spouse start time";
+    nrtv:when "1961-03-02T00:00:00Z";
+    nrtv:who nrtv:character_29;
+    nrtv:who nrtv:character_30;
+    nrtv:where nrtv:location_9;
+    nrtv:related_to nrtv:related_event_0.
+
+event_20 a nrtv:Event;
+    nrtv:what "award received Lenin Peace Prize point in time";
+    nrtv:when "1962-01-01T00:00:00Z";
+    nrtv:who nrtv:character_31.
+
+event_21 a nrtv:Event;
+    nrtv:what "image point in time";
+    nrtv:when "1962-01-01T00:00:00Z";
+    nrtv:who nrtv:character_32.
+
+event_22 a nrtv:Event;
+    nrtv:what "spouse end time";
+    nrtv:when "1973-01-01T00:00:00Z";
+    nrtv:who nrtv:character_33;
+    nrtv:who nrtv:character_34;
+    nrtv:where nrtv:location_10;
+    nrtv:related_to nrtv:related_event_1.
+
+event_23 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "1973-01-01T00:00:00Z";
+    nrtv:who nrtv:character_35;
+    nrtv:where nrtv:location_11.
+
+event_24 a nrtv:Event;
+    nrtv:what "date of death";
+    nrtv:when "1973-04-08T00:00:00Z";
+    nrtv:who nrtv:character_36;
+    nrtv:where nrtv:location_12;
+    nrtv:where nrtv:location_13;
+    nrtv:where nrtv:location_14;
+    nrtv:related_to nrtv:related_event_2.
+
+event_25 a nrtv:Event;
+    nrtv:what "described by source Great Soviet Encyclopedia (1969–1978) publication date";
+    nrtv:when "1975-01-01T00:00:00Z";
+    nrtv:who nrtv:character_37.
+
+event_26 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1979-01-01T00:00:00Z";
+    nrtv:who nrtv:character_38.
+
+event_27 a nrtv:Event;
+    nrtv:what "on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time";
+    nrtv:when "2022-10-31T00:00:00Z";
+    nrtv:who nrtv:character_39.
+
+event_28 a nrtv:Event;
+    nrtv:what "described by source ";
+    nrtv:when "Guggenheim Collection Online";
+    nrtv:who nrtv:character_40;
+    nrtv:where nrtv:location_15.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_2 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q453775;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_5 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q453775;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_6 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_7 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q528534;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_8 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_9 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q433150;
+    nrtv:role http://www.wikidata.org/prop/P26.
+
+character_10 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_11 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q463653;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_12 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_13 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q463653;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_14 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_15 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_16 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q236161;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_17 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_18 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q236161;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_19 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_20 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q540665;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_21 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_22 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_23 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q540665;
+    nrtv:role http://www.wikidata.org/prop/P451.
+
+character_24 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_25 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q433150;
+    nrtv:role http://www.wikidata.org/prop/P26.
+
+character_26 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_27 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_28 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_29 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_30 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q273024;
+    nrtv:role http://www.wikidata.org/prop/P26.
+
+character_31 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_32 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_33 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_34 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q273024;
+    nrtv:role http://www.wikidata.org/prop/P26.
+
+character_35 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_36 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_37 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_38 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_39 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+character_40 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q5593;
+    nrtv:role perpetrator.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q8851;
+    nrtv:setting http://www.wikidata.org/prop/direct/P19.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/P19.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q5783;
+    nrtv:setting http://www.wikidata.org/prop/P19.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1322403;
+    nrtv:setting http://www.wikidata.org/prop/P69.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1493222;
+    nrtv:setting http://www.wikidata.org/prop/P26.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1493222;
+    nrtv:setting http://www.wikidata.org/prop/P26.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q2970932;
+    nrtv:setting http://www.wikidata.org/prop/P551.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q2970932;
+    nrtv:setting http://www.wikidata.org/prop/P551.
+
+location_8 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q28528515;
+    nrtv:setting http://www.wikidata.org/prop/P551.
+
+location_9 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q234205;
+    nrtv:setting http://www.wikidata.org/prop/P26.
+
+location_10 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q234205;
+    nrtv:setting http://www.wikidata.org/prop/P26.
+
+location_11 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q28528515;
+    nrtv:setting http://www.wikidata.org/prop/P551.
+
+location_12 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q28528515;
+    nrtv:setting http://www.wikidata.org/prop/direct/P20.
+
+location_13 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q142;
+    nrtv:setting http://www.wikidata.org/prop/P20.
+
+location_14 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q3139;
+    nrtv:setting http://www.wikidata.org/prop/P20.
+
+location_15 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q179199;
+    nrtv:setting http://www.wikidata.org/prop/direct/P1343.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4;
+    nrtv:relation http://www.wikidata.org/prop/P26.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4;
+    nrtv:relation http://www.wikidata.org/prop/P26.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q181754;
+    nrtv:relation http://www.wikidata.org/prop/direct/P509.
+

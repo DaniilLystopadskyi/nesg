@@ -1,0 +1,107 @@
+{
+  "Wikidata": {
+    "classes": {
+      "person": [
+        "wd:Q5",
+        "wd:Q16334295",
+        "wd:Q18608993"
+      ],
+      "location": [
+        "wd:Q17334923",
+        "wd:Q52511956"
+      ],
+      "event": [
+        "wd:Q1190554"
+      ],
+      "reason": [
+        "wd:Q2574811"
+      ],
+      "manner": []
+    },
+    "entityClasses": {},
+    "entityCentrality": {},
+    "propertyData": {},
+    "excludedTypes": [
+      "wd:Q19847637"
+    ],
+    "prefixes": {
+      "http://www.bigdata.com/rdf#": "bd",
+      "http://creativecommons.org/ns#": "cc",
+      "http://purl.org/dc/terms/": "dct",
+      "http://www.opengis.net/ont/geosparql#": "geo",
+      "http://www.w3.org/ns/lemon/ontolex#": "ontolex",
+      "http://www.w3.org/2002/07/owl#": "owl",
+      "http://www.wikidata.org/prop/": "p",
+      "http://www.wikidata.org/prop/qualifier/": "pq",
+      "http://www.wikidata.org/prop/qualifier/value-normalized/": "pqn",
+      "http://www.wikidata.org/prop/qualifier/value/": "pqv",
+      "http://www.wikidata.org/prop/reference/": "pr",
+      "http://www.wikidata.org/prop/reference/value-normalized/": "prn",
+      "http://www.w3.org/ns/prov#": "prov",
+      "http://www.wikidata.org/prop/reference/value/": "prv",
+      "http://www.wikidata.org/prop/statement/": "ps",
+      "http://www.wikidata.org/prop/statement/value-normalized/": "psn",
+      "http://www.wikidata.org/prop/statement/value/": "psv",
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
+      "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
+      "http://schema.org/": "schema",
+      "http://www.w3.org/2004/02/skos/core#": "skos",
+      "http://www.wikidata.org/entity/": "wd",
+      "http://www.wikidata.org/wiki/Special:EntityData/": "wdata",
+      "http://www.wikidata.org/prop/novalue/": "wdno",
+      "http://www.wikidata.org/reference/": "wdref",
+      "http://www.wikidata.org/entity/statement/": "wds",
+      "http://www.wikidata.org/prop/direct/": "wdt",
+      "http://www.wikidata.org/prop/direct-normalized/": "wdtn",
+      "http://www.wikidata.org/value/": "wdv",
+      "http://wikiba.se/ontology#": "wikibase",
+      "http://www.w3.org/2001/XMLSchema#": "xsd"
+    },
+    "endpoint": "https://query.wikidata.org/sparql",
+    "type": "wdt:P31",
+    "subclass": "wdt:P279",
+    "description": "schema:description"
+  },
+  "DBpedia": {
+    "classes": {
+      "person": [
+        "dbo:Person"
+      ],
+      "location": [
+        "dbo:Place",
+        "dbo:Location"
+      ],
+      "event": [
+        "schema:Event"
+      ],
+      "reason": [],
+      "manner": []
+    },
+    "entityClasses": {},
+    "entityCentrality": {},
+    "propertyData": {},
+    "excludedTypes": [],
+    "prefixes": {
+      "http://dbpedia.org/resource/Category": "dbc",
+      "http://dbpedia.org/ontology/": "dbo",
+      "http://dbpedia.org/property/": "dbp",
+      "http://dbpedia.org/resource/": "dbr",
+      "http://dbpedia.org/resource/Template:": "dbt",
+      "http://www.w3.org/2002/07/owl#": "owl",
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
+      "http://www.w3.org/ns/rdfa#": "rdfa",
+      "http://www.openlinksw.com/virtrdf-data-formats#": "rdfdf",
+      "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
+      "http://schema.org/": "schema",
+      "http://commons.wikimedia.org/wiki/": "wiki-commons",
+      "http://www.wikidata.org/entity/": "wikidata",
+      "http://www.w3.org/XML/1998/namespace": "xml",
+      "http://dbpedia.org/class/yago/": "yago",
+      "http://yago-knowledge.org/resource/": "yago-res"
+    },
+    "endpoint": "https://dbpedia.org/sparql",
+    "type": "rdf:type",
+    "subclass": "rdf:subClassOf",
+    "description": "rdfs:comment"
+  }
+}

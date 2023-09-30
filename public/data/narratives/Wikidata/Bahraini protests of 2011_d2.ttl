@@ -1,0 +1,336 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Bahraini protests of 2011";
+    nrtv:has_theme http://www.wikidata.org/entity/Q8059283;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q3109572;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q273120;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q124734;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q47217;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4.
+
+event_1 a nrtv:Event;
+    nrtv:what "Arab Spring point in time Wikipedia:Vital articles/Level/4";
+    nrtv:when "2010-12-17T00:00:00Z";
+    nrtv:where nrtv:location_0;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5;
+    nrtv:related_to nrtv:related_event_6;
+    nrtv:related_to nrtv:related_event_7;
+    nrtv:related_to nrtv:related_event_8;
+    nrtv:related_to nrtv:related_event_9;
+    nrtv:related_to nrtv:related_event_10;
+    nrtv:related_to nrtv:related_event_11;
+    nrtv:related_to nrtv:related_event_12;
+    nrtv:related_to nrtv:related_event_13;
+    nrtv:related_to nrtv:related_event_14;
+    nrtv:related_to nrtv:related_event_15;
+    nrtv:related_to nrtv:related_event_16;
+    nrtv:related_to nrtv:related_event_17.
+
+event_2 a nrtv:Event;
+    nrtv:what "Arab Spring start time Wikipedia:Vital articles/Level/4";
+    nrtv:when "2010-12-18T00:00:00Z";
+    nrtv:where nrtv:location_1;
+    nrtv:related_to nrtv:related_event_18;
+    nrtv:related_to nrtv:related_event_19;
+    nrtv:related_to nrtv:related_event_20;
+    nrtv:related_to nrtv:related_event_21;
+    nrtv:related_to nrtv:related_event_22;
+    nrtv:related_to nrtv:related_event_23;
+    nrtv:related_to nrtv:related_event_24;
+    nrtv:related_to nrtv:related_event_25;
+    nrtv:related_to nrtv:related_event_26;
+    nrtv:related_to nrtv:related_event_27;
+    nrtv:related_to nrtv:related_event_28;
+    nrtv:related_to nrtv:related_event_29;
+    nrtv:related_to nrtv:related_event_30;
+    nrtv:related_to nrtv:related_event_31;
+    nrtv:related_to nrtv:related_event_32;
+    nrtv:related_to nrtv:related_event_33;
+    nrtv:related_to nrtv:related_event_34;
+    nrtv:related_to nrtv:related_event_35.
+
+event_3 a nrtv:Event;
+    nrtv:what "Bahraini protests of 2011 start time";
+    nrtv:when "2011-02-14T00:00:00Z";
+    nrtv:who nrtv:character_0;
+    nrtv:where nrtv:location_2;
+    nrtv:related_to nrtv:related_event_36;
+    nrtv:related_to nrtv:related_event_37.
+
+event_4 a nrtv:Event;
+    nrtv:what "Arab Spring end time Wikipedia:Vital articles/Level/4";
+    nrtv:when "2012-12-01T00:00:00Z";
+    nrtv:where nrtv:location_3;
+    nrtv:related_to nrtv:related_event_38;
+    nrtv:related_to nrtv:related_event_39;
+    nrtv:related_to nrtv:related_event_40;
+    nrtv:related_to nrtv:related_event_41;
+    nrtv:related_to nrtv:related_event_42;
+    nrtv:related_to nrtv:related_event_43;
+    nrtv:related_to nrtv:related_event_44;
+    nrtv:related_to nrtv:related_event_45;
+    nrtv:related_to nrtv:related_event_46;
+    nrtv:related_to nrtv:related_event_47;
+    nrtv:related_to nrtv:related_event_48;
+    nrtv:related_to nrtv:related_event_49;
+    nrtv:related_to nrtv:related_event_50;
+    nrtv:related_to nrtv:related_event_51;
+    nrtv:related_to nrtv:related_event_52;
+    nrtv:related_to nrtv:related_event_53;
+    nrtv:related_to nrtv:related_event_54;
+    nrtv:related_to nrtv:related_event_55.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q8059283;
+    nrtv:role http://www.wikidata.org/prop/P31.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q143487;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q143487;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q398;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q143487;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q29198;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q555833;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q940675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q943676;
+    nrtv:relation http://www.wikidata.org/prop/direct/P1889.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2661450;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_9 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_10 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q242864;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_11 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_12 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_13 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1149627;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_14 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_15 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_16 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4622886;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_17 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_18 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_19 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q29198;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_20 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_21 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q555833;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_22 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q940675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_23 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q943676;
+    nrtv:relation http://www.wikidata.org/prop/direct/P1889.
+
+related_event_24 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2661450;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_25 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_26 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_27 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_28 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q242864;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_29 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_30 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_31 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1149627;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_32 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_33 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_34 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4622886;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_35 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_36 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q33761;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_37 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q16146608;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+
+related_event_38 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_39 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q29198;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_40 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_41 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q555833;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_42 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q940675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_43 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q943676;
+    nrtv:relation http://www.wikidata.org/prop/direct/P1889.
+
+related_event_44 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2661450;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_45 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_46 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_47 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P527.
+
+related_event_48 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q242864;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_49 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q210005;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_50 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q472238;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_51 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1149627;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_52 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q81545;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_53 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q14746872;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_54 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q4622886;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_55 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q15070113;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+

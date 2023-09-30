@@ -1,0 +1,14 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Modernism";
+    nrtv:has_theme http://dbpedia.org/ontology/MusicGenre;
+    nrtv:has_theme  http://dbpedia.org/ontology/Organisation;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1.
+
+event_1 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2010-06-14".
+

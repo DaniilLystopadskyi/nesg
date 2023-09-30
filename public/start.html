@@ -1,0 +1,115 @@
+<div id="t1" class="tab-content active">
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Graph</div>
+        <div class="contents">
+            <select name="graphs" id="graph-select" onchange="onGraphSelectChange()">
+                <option value="none">None</option>
+            </select>
+            <button type="button" id="config_btn" onclick="switchTab('configuration')">Manage</button>
+        </div>
+    </div>
+</div>
+
+<div id="t2" class="tab-content">
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Topic</div>
+        <div class="contents">
+            <input type="text" id="topic" name="topic" required>
+        </div>
+    </div>
+
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Topic Type</div>
+        <div class="contents">
+            <select name="topic-type" id="topic-type">
+                <option value="Person">Person</option>
+                <option value="Place">Place</option>
+                <option value="Event">Event</option>
+                <option value="Religion">Religion</option>
+                <option value="Movement">Movement</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Depth</div>
+        <div class="contents">
+            <input type="number" id="depth" name="depth" min="1" max="10" value="1" required>
+        </div>
+    </div>
+
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Size</div>
+        <div class="contents">
+            <input type="number" id="size" name="size" min="1" value="5" required>
+        </div>
+    </div>
+
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Date range</div>
+        <div class="contents">
+            <label for="min_time">From:</label>
+            <input type="date" id="min_time" name="min_time">
+            <label for="max_time">To:</label>
+            <input type="date" id="max_time" name="max_time">
+        </div>
+    </div>
+</div>
+
+<div id="t3" class="tab-content">
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Max In-Degree</div>
+        <div class="contents">
+            <input type="number" id="max_degree" name="max_degree" min="0" max="10000" value="500" required>
+        </div>
+    </div>
+</div>
+
+<div id="t4" class="tab-content">
+    <div class="module">
+        <div class="label" onclick="toggleModule(this)">Automatic classification type</div>
+        <div class="contents">
+            <select name="ct-select" id="classification-type" onchange="onClassificationTypeChange()">
+                <option value="none">None</option>
+                <option value="new">New Entities</option>
+                <option value="all">All</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="module" id="classification-parameters" style="display: none;">
+        <div class="label">[Person|Location] classification conflict resolution</div>
+        <div class="contents">
+            <select name="ccr-pl" id="pl-resolution">
+                <option value="ignore">Manual</option>
+                <option value="person">Person</option>
+                <option value="location">Location</option>
+            </select>
+        </div>
+        <div class="label">[Person|Event] classification conflict resolution</div>
+        <div class="contents">
+            <select name="ccr-pe" id="pe-resolution">
+                <option value="ignore">Manual</option>
+                <option value="person">Person</option>
+                <option value="event">Event</option>
+            </select>
+        </div>
+        <div class="label">[Event|Location] classification conflict resolution</div>
+        <div class="contents">
+            <select name="ccr-el" id="el-resolution">
+                <option value="ignore">Manual</option>
+                <option value="event">Event</option>
+                <option value="location">Location</option>
+            </select>
+        </div>
+        <div class="label">[Person|Location|Event] classification conflict resolution</div>
+        <div class="contents">
+            <select name="ccr-ple" id="ple-resolution">
+                <option value="ignore">Manual</option>
+                <option value="person">Person</option>
+                <option value="location">Location</option>
+                <option value="event">Event</option>
+            </select>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+Narrative Element
+
+Narrative:Narrative Element
+- has_event
+- about
+- has_theme
+
+Event:Narrative Element
+- who
+- what
+- where
+- when
+- why
+- how
+- related to
+
+Attribute:Narrative Element
+- subject
+
+Character:Attribute
+- role
+
+Place:Attribute
+- setting
+
+Event Relation:Attribute
+- relation

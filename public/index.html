@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Narrative Extractor</title>
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Narrative Extractor from Semantic Graps (NESG)</h1>
+        <nav>
+            <ul id="main-tabs" class="tabs">
+                <li data-tab="configuration" class="active"><a href="#">Configuration</a></li>
+                <li data-tab="start"><a href="#">Start</a></li>
+                <li data-tab="entity_select" class="disabled"><a href="#">Entity Select</a></li>
+                <li data-tab="classification" class="disabled"><a href="#">Classification</a></li>
+                <li data-tab="results" class="disabled"><a href="#">Results</a></li>
+                <li data-tab="evaluation" class="disabled"><a href="#">Evaluation</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <ul id="start-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Graph</a></li>
+            <li><a href="#">Narrative</a></li>
+            <li><a href="#">Technical</a></li>
+            <li><a href="#">Classification</a></li>
+        </ul>
+        <ul id="configuration-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Graph</a></li>
+            <li><a href="#">Parameters</a></li>
+            <li><a href="#">Classes</a></li>
+            <li><a href="#">Prefixes</a></li>
+        </ul>
+        <ul id="entity_select-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Main Entity</a></li>
+        </ul>
+        <ul id="classification-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Multiple Classes</a></li>
+            <li><a href="#">Single Classes</a></li>
+        </ul>
+        <ul id="results-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Table</a></li>
+            <li><a href="#">Turtle</a></li>
+        </ul>
+        <ul id="evaluation-sub-tabs" class="tabs sub-tabs">
+            <li class="active"><a href="#">Relevancy</a></li>
+            <li><a href="#">Statistics</a></li>
+            <li><a href="#">Baseline</a></li>
+        </ul>
+        <div id="content-container" class="container">
+        </div>
+    </main>
+
+    <div id="nav-buttons" class="buttons">
+        <button type="button" id="back-btn" onclick="switchPage(-1)">Back</button>
+        <button type="button" id="next-btn" onclick="switchPage(1)">Next</button>
+    </div>
+
+    <div id="loading-container" class="disabled">
+        <div id="loading-circle"></div>
+        <p id="loading-text">Loading...</p>
+    </div>
+
+    <script src="/js/graph.js"></script>
+    <script src="/js/index.js"></script>
+    <script src="/js/start.js"></script>
+    <script src="/js/configuration.js"></script>
+    <script src="/js/entity_select.js"></script>
+    <script src="/js/classification.js"></script>
+    <script src="/js/results.js"></script>
+    <script src="/js/evaluation.js"></script>
+    <script src="/js/statistics.js"></script>
+    <script src="/js/baseline.js"></script>
+</body>
+</html>

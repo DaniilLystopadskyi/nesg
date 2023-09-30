@@ -1,0 +1,1629 @@
+narrative_3 a nrtv:Narrative;
+    nrtv:about "Barack Obama";
+    nrtv:hasTheme http://www.wikidata.org/entity/Q5;
+    nrtv:eventSequence event_sequence_3.
+
+event_sequence_3 a rdf:Seq;
+    rdf:_1 event_70;
+    rdf:_2 event_71;
+    rdf:_3 event_72;
+    rdf:_4 event_73;
+    rdf:_5 event_74;
+    rdf:_6 event_75;
+    rdf:_7 event_76;
+    rdf:_8 event_77;
+    rdf:_9 event_78;
+    rdf:_10 event_79;
+    rdf:_11 event_80;
+    rdf:_12 event_81;
+    rdf:_13 event_82;
+    rdf:_14 event_83;
+    rdf:_15 event_84;
+    rdf:_16 event_85;
+    rdf:_17 event_86;
+    rdf:_18 event_87;
+    rdf:_19 event_88;
+    rdf:_20 event_89;
+    rdf:_21 event_90;
+    rdf:_22 event_91;
+    rdf:_23 event_92;
+    rdf:_24 event_93;
+    rdf:_25 event_94;
+    rdf:_26 event_95;
+    rdf:_27 event_96;
+    rdf:_28 event_97;
+    rdf:_29 event_98;
+    rdf:_30 event_99;
+    rdf:_31 event_100;
+    rdf:_32 event_101;
+    rdf:_33 event_102;
+    rdf:_34 event_103;
+    rdf:_35 event_104;
+    rdf:_36 event_105;
+    rdf:_37 event_106;
+    rdf:_38 event_107;
+    rdf:_39 event_108;
+    rdf:_40 event_109;
+    rdf:_41 event_110;
+    rdf:_42 event_111;
+    rdf:_43 event_112;
+    rdf:_44 event_113;
+    rdf:_45 event_114;
+    rdf:_46 event_115;
+    rdf:_47 event_116;
+    rdf:_48 event_117;
+    rdf:_49 event_118;
+    rdf:_50 event_119;
+    rdf:_51 event_120;
+    rdf:_52 event_121;
+    rdf:_53 event_122;
+    rdf:_54 event_123;
+    rdf:_55 event_124;
+    rdf:_56 event_125;
+    rdf:_57 event_126;
+    rdf:_58 event_127;
+    rdf:_59 event_128;
+    rdf:_60 event_129;
+    rdf:_61 event_130;
+    rdf:_62 event_131;
+    rdf:_63 event_132;
+    rdf:_64 event_133;
+    rdf:_65 event_134;
+    rdf:_66 event_135;
+    rdf:_67 event_136;
+    rdf:_68 event_137;
+    rdf:_69 event_138;
+    rdf:_70 event_139;
+    rdf:_71 event_140;
+    rdf:_72 event_141;
+    rdf:_73 event_142;
+    rdf:_74 event_143;
+    rdf:_75 event_144;
+    rdf:_76 event_145;
+    rdf:_77 event_146;
+    rdf:_78 event_147;
+    rdf:_79 event_148;
+    rdf:_80 event_149;
+    rdf:_81 event_150;
+    rdf:_82 event_151;
+    rdf:_83 event_152;
+    rdf:_84 event_153;
+    rdf:_85 event_154;
+    rdf:_86 event_155;
+    rdf:_87 event_156;
+    rdf:_88 event_157;
+    rdf:_89 event_158;
+    rdf:_90 event_159;
+    rdf:_91 event_160;
+    rdf:_92 event_161;
+    rdf:_93 event_162;
+    rdf:_94 event_163;
+    rdf:_95 event_164;
+    rdf:_96 event_165;
+    rdf:_97 event_166;
+    rdf:_98 event_167;
+    rdf:_99 event_168;
+    rdf:_100 event_169;
+    rdf:_101 event_170;
+    rdf:_102 event_171;
+    rdf:_103 event_172;
+    rdf:_104 event_173.
+
+event_70 a nrtv:Event;
+    nrtv:what "date of birth";
+    nrtv:when "1961-08-04T00:00:00Z";
+    nrtv:who nrtv:character_110;
+    nrtv:where nrtv:location_33;
+    nrtv:where nrtv:location_34;
+    nrtv:where nrtv:location_35;
+    nrtv:where nrtv:location_36;
+    nrtv:where nrtv:location_37;
+    nrtv:where nrtv:location_38;
+    nrtv:why "reason for preferred rank: most precise value";
+    nrtv:hasRelation nrtv:related_event_12.
+
+event_71 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1966-01-01T00:00:00Z";
+    nrtv:who nrtv:character_111;
+    nrtv:who nrtv:character_112.
+
+event_72 a nrtv:Event;
+    nrtv:what "residence Tebet start time";
+    nrtv:when "1967-01-01T00:00:00Z";
+    nrtv:who nrtv:character_113.
+
+event_73 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1967-01-01T00:00:00Z";
+    nrtv:who nrtv:character_114;
+    nrtv:who nrtv:character_115.
+
+event_74 a nrtv:Event;
+    nrtv:what "residence Tebet end time";
+    nrtv:when "1970-01-01T00:00:00Z";
+    nrtv:who nrtv:character_116.
+
+event_75 a nrtv:Event;
+    nrtv:what "residence Menteng start time";
+    nrtv:when "1970-01-01T00:00:00Z";
+    nrtv:who nrtv:character_117.
+
+event_76 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1970-01-01T00:00:00Z";
+    nrtv:who nrtv:character_118;
+    nrtv:who nrtv:character_119.
+
+event_77 a nrtv:Event;
+    nrtv:what "residence Menteng end time";
+    nrtv:when "1971-01-01T00:00:00Z";
+    nrtv:who nrtv:character_120.
+
+event_78 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1971-01-01T00:00:00Z";
+    nrtv:who nrtv:character_121;
+    nrtv:who nrtv:character_122.
+
+event_79 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1971-01-01T00:00:00Z";
+    nrtv:who nrtv:character_123;
+    nrtv:who nrtv:character_124.
+
+event_80 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1971-01-01T00:00:00Z";
+    nrtv:who nrtv:character_125;
+    nrtv:where nrtv:location_39.
+
+event_81 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1979-01-01T00:00:00Z";
+    nrtv:who nrtv:character_126;
+    nrtv:where nrtv:location_40.
+
+event_82 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1979-01-01T00:00:00Z";
+    nrtv:who nrtv:character_127;
+    nrtv:who nrtv:character_128.
+
+event_83 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "1979-01-01T00:00:00Z";
+    nrtv:who nrtv:character_129;
+    nrtv:where nrtv:location_41.
+
+event_84 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1979-01-01T00:00:00Z";
+    nrtv:who nrtv:character_130;
+    nrtv:where nrtv:location_42.
+
+event_85 a nrtv:Event;
+    nrtv:what "nickname end time";
+    nrtv:when "1980-01-01T00:00:00Z";
+    nrtv:who nrtv:character_131.
+
+event_86 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1981-01-01T00:00:00Z";
+    nrtv:who nrtv:character_132;
+    nrtv:where nrtv:location_43.
+
+event_87 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1981-01-01T00:00:00Z";
+    nrtv:who nrtv:character_133;
+    nrtv:where nrtv:location_44;
+    nrtv:hasRelation nrtv:related_event_13.
+
+event_88 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1981-01-01T00:00:00Z";
+    nrtv:who nrtv:character_134;
+    nrtv:where nrtv:location_45.
+
+event_89 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "1981-01-01T00:00:00Z";
+    nrtv:who nrtv:character_135;
+    nrtv:where nrtv:location_46.
+
+event_90 a nrtv:Event;
+    nrtv:what "country of citizenship end time";
+    nrtv:when "1982-08-04T00:00:00Z";
+    nrtv:who nrtv:character_136;
+    nrtv:where nrtv:location_47.
+
+event_91 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1983-01-01T00:00:00Z";
+    nrtv:who nrtv:character_137;
+    nrtv:where nrtv:location_48;
+    nrtv:hasRelation nrtv:related_event_14.
+
+event_92 a nrtv:Event;
+    nrtv:what "employer start time";
+    nrtv:when "1983-01-01T00:00:00Z";
+    nrtv:who nrtv:character_138;
+    nrtv:who nrtv:character_139.
+
+event_93 a nrtv:Event;
+    nrtv:what "employer end time";
+    nrtv:when "1984-01-01T00:00:00Z";
+    nrtv:who nrtv:character_140;
+    nrtv:who nrtv:character_141.
+
+event_94 a nrtv:Event;
+    nrtv:what "employer start time";
+    nrtv:when "1985-01-01T00:00:00Z";
+    nrtv:who nrtv:character_142;
+    nrtv:who nrtv:character_143.
+
+event_95 a nrtv:Event;
+    nrtv:what "employer end time";
+    nrtv:when "1985-01-01T00:00:00Z";
+    nrtv:who nrtv:character_144;
+    nrtv:who nrtv:character_145.
+
+event_96 a nrtv:Event;
+    nrtv:what "occupation community organizer start time";
+    nrtv:when "1985-01-01T00:00:00Z";
+    nrtv:who nrtv:character_146;
+    nrtv:who nrtv:character_147.
+
+event_97 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "1985-01-01T00:00:00Z";
+    nrtv:who nrtv:character_148;
+    nrtv:where nrtv:location_49.
+
+event_98 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "1985-01-01T00:00:00Z";
+    nrtv:who nrtv:character_149;
+    nrtv:where nrtv:location_50.
+
+event_99 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1988-01-01T00:00:00Z";
+    nrtv:who nrtv:character_150;
+    nrtv:where nrtv:location_51;
+    nrtv:hasRelation nrtv:related_event_15.
+
+event_100 a nrtv:Event;
+    nrtv:what "occupation community organizer end time";
+    nrtv:when "1988-01-01T00:00:00Z";
+    nrtv:who nrtv:character_151;
+    nrtv:who nrtv:character_152.
+
+event_101 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1988-01-01T00:00:00Z";
+    nrtv:who nrtv:character_153;
+    nrtv:where nrtv:location_52;
+    nrtv:hasRelation nrtv:related_event_16.
+
+event_102 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1991-01-01T00:00:00Z";
+    nrtv:who nrtv:character_154;
+    nrtv:where nrtv:location_53;
+    nrtv:hasRelation nrtv:related_event_17.
+
+event_103 a nrtv:Event;
+    nrtv:what "occupation lawyer start time";
+    nrtv:when "1991-01-01T00:00:00Z";
+    nrtv:who nrtv:character_155.
+
+event_104 a nrtv:Event;
+    nrtv:what "employer start time";
+    nrtv:when "1991-01-01T00:00:00Z";
+    nrtv:who nrtv:character_156;
+    nrtv:who nrtv:character_157.
+
+event_105 a nrtv:Event;
+    nrtv:what "employer end time";
+    nrtv:when "1991-01-01T00:00:00Z";
+    nrtv:who nrtv:character_158;
+    nrtv:who nrtv:character_159.
+
+event_106 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "1991-01-01T00:00:00Z";
+    nrtv:who nrtv:character_160;
+    nrtv:where nrtv:location_54;
+    nrtv:hasRelation nrtv:related_event_18.
+
+event_107 a nrtv:Event;
+    nrtv:what "spouse start time";
+    nrtv:when "1992-10-03T00:00:00Z";
+    nrtv:who nrtv:character_161;
+    nrtv:who nrtv:character_162;
+    nrtv:where nrtv:location_55.
+
+event_108 a nrtv:Event;
+    nrtv:what "occupation political writer start time";
+    nrtv:when "1995-01-01T00:00:00Z";
+    nrtv:who nrtv:character_163.
+
+event_109 a nrtv:Event;
+    nrtv:what "educated at start time";
+    nrtv:when "1997-01-01T00:00:00Z";
+    nrtv:who nrtv:character_164;
+    nrtv:where nrtv:location_56;
+    nrtv:hasRelation nrtv:related_event_19.
+
+event_110 a nrtv:Event;
+    nrtv:what "position held member of the State Senate of Illinois start time";
+    nrtv:when "1997-01-08T00:00:00Z";
+    nrtv:who nrtv:character_165;
+    nrtv:who nrtv:character_166;
+    nrtv:who nrtv:character_167;
+    nrtv:where nrtv:location_57;
+    nrtv:hasRelation nrtv:related_event_20.
+
+event_111 a nrtv:Event;
+    nrtv:what "educated at end time";
+    nrtv:when "2002-01-01T00:00:00Z";
+    nrtv:who nrtv:character_168;
+    nrtv:where nrtv:location_58;
+    nrtv:hasRelation nrtv:related_event_21.
+
+event_112 a nrtv:Event;
+    nrtv:what "position held member of the State Senate of Illinois end time";
+    nrtv:when "2004-11-04T00:00:00Z";
+    nrtv:who nrtv:character_169;
+    nrtv:who nrtv:character_170;
+    nrtv:who nrtv:character_171;
+    nrtv:where nrtv:location_59;
+    nrtv:hasRelation nrtv:related_event_22.
+
+event_113 a nrtv:Event;
+    nrtv:what "nominated for Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time";
+    nrtv:when "2005-01-01T00:00:00Z";
+    nrtv:who nrtv:character_172.
+
+event_114 a nrtv:Event;
+    nrtv:what "award received Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time";
+    nrtv:when "2005-01-01T00:00:00Z";
+    nrtv:who nrtv:character_173.
+
+event_115 a nrtv:Event;
+    nrtv:what "participant in point in time";
+    nrtv:when "2005-01-01T00:00:00Z";
+    nrtv:who nrtv:character_174;
+    nrtv:hasRelation nrtv:related_event_23;
+    nrtv:hasRelation nrtv:related_event_24.
+
+event_116 a nrtv:Event;
+    nrtv:what "award received NAACP Image Award – Chairman's Award point in time";
+    nrtv:when "2005-01-01T00:00:00Z";
+    nrtv:who nrtv:character_175.
+
+event_117 a nrtv:Event;
+    nrtv:what "position held United States senator start time";
+    nrtv:when "2005-01-03T00:00:00Z";
+    nrtv:who nrtv:character_176;
+    nrtv:who nrtv:character_177;
+    nrtv:who nrtv:character_178;
+    nrtv:where nrtv:location_60;
+    nrtv:where nrtv:location_61;
+    nrtv:hasRelation nrtv:related_event_25.
+
+event_118 a nrtv:Event;
+    nrtv:what "award received Grammy Award for Best Audio Book, Narration & Storytelling Recording point in time";
+    nrtv:when "2006-02-08T00:00:00Z";
+    nrtv:who nrtv:character_179.
+
+event_119 a nrtv:Event;
+    nrtv:what "YouTube channel ID start time";
+    nrtv:when "2006-09-05T00:00:00Z";
+    nrtv:who nrtv:character_180.
+
+event_120 a nrtv:Event;
+    nrtv:what "award received NAACP Image Award for Outstanding Literary Work, Nonfiction point in time";
+    nrtv:when "2007-01-01T00:00:00Z";
+    nrtv:who nrtv:character_181.
+
+event_121 a nrtv:Event;
+    nrtv:what "nominated for NAACP Image Award for Outstanding Literary Work, Nonfiction point in time";
+    nrtv:when "2007-01-01T00:00:00Z";
+    nrtv:who nrtv:character_182.
+
+event_122 a nrtv:Event;
+    nrtv:what "position held United States senator end time";
+    nrtv:when "2007-01-03T00:00:00Z";
+    nrtv:who nrtv:character_183;
+    nrtv:who nrtv:character_184;
+    nrtv:who nrtv:character_185;
+    nrtv:where nrtv:location_62;
+    nrtv:where nrtv:location_63;
+    nrtv:hasRelation nrtv:related_event_26.
+
+event_123 a nrtv:Event;
+    nrtv:what "position held United States senator start time";
+    nrtv:when "2007-01-03T00:00:00Z";
+    nrtv:who nrtv:character_186;
+    nrtv:who nrtv:character_187;
+    nrtv:who nrtv:character_188;
+    nrtv:where nrtv:location_64;
+    nrtv:where nrtv:location_65;
+    nrtv:hasRelation nrtv:related_event_27.
+
+event_124 a nrtv:Event;
+    nrtv:what "Twitter username start time";
+    nrtv:when "2007-03-05T00:00:00Z";
+    nrtv:who nrtv:character_189.
+
+event_125 a nrtv:Event;
+    nrtv:what "award received Financial Times Person of the Year point in time";
+    nrtv:when "2008-01-01T00:00:00Z";
+    nrtv:who nrtv:character_190.
+
+event_126 a nrtv:Event;
+    nrtv:what "religion or worldview end time";
+    nrtv:when "2008-01-01T00:00:00Z";
+    nrtv:who nrtv:character_191;
+    nrtv:who nrtv:character_192.
+
+event_127 a nrtv:Event;
+    nrtv:what "award received Time Person of the Year point in time";
+    nrtv:when "2008-01-01T00:00:00Z";
+    nrtv:who nrtv:character_193.
+
+event_128 a nrtv:Event;
+    nrtv:what "award received Phoenix Award point in time";
+    nrtv:when "2008-01-01T00:00:00Z";
+    nrtv:who nrtv:character_194.
+
+event_129 a nrtv:Event;
+    nrtv:what "position held President-elect of the United States start time";
+    nrtv:when "2008-11-04T00:00:00Z";
+    nrtv:who nrtv:character_195;
+    nrtv:who nrtv:character_196;
+    nrtv:who nrtv:character_197;
+    nrtv:hasRelation nrtv:related_event_28.
+
+event_130 a nrtv:Event;
+    nrtv:what "position held United States senator end time";
+    nrtv:when "2008-11-16T00:00:00Z";
+    nrtv:who nrtv:character_198;
+    nrtv:who nrtv:character_199;
+    nrtv:who nrtv:character_200;
+    nrtv:where nrtv:location_66;
+    nrtv:where nrtv:location_67;
+    nrtv:hasRelation nrtv:related_event_29.
+
+event_131 a nrtv:Event;
+    nrtv:what "award received Nobel Peace Prize point in time";
+    nrtv:when "2009-01-01T00:00:00Z";
+    nrtv:who nrtv:character_201.
+
+event_132 a nrtv:Event;
+    nrtv:what "award received point in time";
+    nrtv:when "2009-01-01T00:00:00Z";
+    nrtv:who nrtv:character_202;
+    nrtv:who nrtv:character_203.
+
+event_133 a nrtv:Event;
+    nrtv:what "participant in point in time";
+    nrtv:when "2009-01-01T00:00:00Z";
+    nrtv:who nrtv:character_204;
+    nrtv:hasRelation nrtv:related_event_30.
+
+event_134 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "2009-01-20T00:00:00Z";
+    nrtv:who nrtv:character_205;
+    nrtv:where nrtv:location_68.
+
+event_135 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "2009-01-20T00:00:00Z";
+    nrtv:who nrtv:character_206;
+    nrtv:where nrtv:location_69.
+
+event_136 a nrtv:Event;
+    nrtv:what "position held President-elect of the United States end time";
+    nrtv:when "2009-01-20T00:00:00Z";
+    nrtv:who nrtv:character_207;
+    nrtv:who nrtv:character_208;
+    nrtv:who nrtv:character_209;
+    nrtv:hasRelation nrtv:related_event_31.
+
+event_137 a nrtv:Event;
+    nrtv:what "position held start time";
+    nrtv:when "2009-01-20T00:00:00Z";
+    nrtv:who nrtv:character_210;
+    nrtv:who nrtv:character_211;
+    nrtv:who nrtv:character_212;
+    nrtv:who nrtv:character_213;
+    nrtv:hasRelation nrtv:related_event_32;
+    nrtv:hasRelation nrtv:related_event_33;
+    nrtv:hasRelation nrtv:related_event_34.
+
+event_138 a nrtv:Event;
+    nrtv:what "award received Time Person of the Year point in time";
+    nrtv:when "2012-01-01T00:00:00Z";
+    nrtv:who nrtv:character_214.
+
+event_139 a nrtv:Event;
+    nrtv:what "Reddit username start time";
+    nrtv:when "2012-08-27T00:00:00Z";
+    nrtv:who nrtv:character_215.
+
+event_140 a nrtv:Event;
+    nrtv:what "image point in time";
+    nrtv:when "2012-12-06T00:00:00Z";
+    nrtv:who nrtv:character_216.
+
+event_141 a nrtv:Event;
+    nrtv:what "award received point in time";
+    nrtv:when "2013-03-21T00:00:00Z";
+    nrtv:who nrtv:character_217;
+    nrtv:who nrtv:character_218.
+
+event_142 a nrtv:Event;
+    nrtv:what "Twitter username start time";
+    nrtv:when "2013-06-01T00:00:00Z";
+    nrtv:who nrtv:character_219;
+    nrtv:who nrtv:character_220;
+    nrtv:hasRelation nrtv:related_event_35.
+
+event_143 a nrtv:Event;
+    nrtv:what "mass point in time";
+    nrtv:when "2014-01-01T00:00:00Z";
+    nrtv:who nrtv:character_221.
+
+event_144 a nrtv:Event;
+    nrtv:what "award received point in time";
+    nrtv:when "2014-04-28T00:00:00Z";
+    nrtv:who nrtv:character_222;
+    nrtv:who nrtv:character_223.
+
+event_145 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "2015-01-01T00:00:00Z";
+    nrtv:who nrtv:character_224.
+
+event_146 a nrtv:Event;
+    nrtv:what "award received German Media Award point in time";
+    nrtv:when "2016-01-01T00:00:00Z";
+    nrtv:who nrtv:character_225.
+
+event_147 a nrtv:Event;
+    nrtv:what "height point in time";
+    nrtv:when "2016-03-01T00:00:00Z";
+    nrtv:who nrtv:character_226.
+
+event_148 a nrtv:Event;
+    nrtv:what "mass point in time";
+    nrtv:when "2016-03-01T00:00:00Z";
+    nrtv:who nrtv:character_227.
+
+event_149 a nrtv:Event;
+    nrtv:what "Twitter username end time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_228;
+    nrtv:who nrtv:character_229;
+    nrtv:hasRelation nrtv:related_event_36.
+
+event_150 a nrtv:Event;
+    nrtv:what "residence end time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_230;
+    nrtv:where nrtv:location_70.
+
+event_151 a nrtv:Event;
+    nrtv:what "Twitter username start time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_231;
+    nrtv:who nrtv:character_232.
+
+event_152 a nrtv:Event;
+    nrtv:what "residence start time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_233;
+    nrtv:where nrtv:location_71.
+
+event_153 a nrtv:Event;
+    nrtv:what "Facebook ID end time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_234;
+    nrtv:who nrtv:character_235;
+    nrtv:hasRelation nrtv:related_event_37.
+
+event_154 a nrtv:Event;
+    nrtv:what "Facebook ID start time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_236;
+    nrtv:who nrtv:character_237.
+
+event_155 a nrtv:Event;
+    nrtv:what "position held end time";
+    nrtv:when "2017-01-20T00:00:00Z";
+    nrtv:who nrtv:character_238;
+    nrtv:who nrtv:character_239;
+    nrtv:who nrtv:character_240;
+    nrtv:who nrtv:character_241;
+    nrtv:hasRelation nrtv:related_event_38;
+    nrtv:hasRelation nrtv:related_event_39;
+    nrtv:hasRelation nrtv:related_event_40.
+
+event_156 a nrtv:Event;
+    nrtv:what "Twitter username point in time";
+    nrtv:when "2019-09-24T00:00:00Z";
+    nrtv:who nrtv:character_242;
+    nrtv:who nrtv:character_243.
+
+event_157 a nrtv:Event;
+    nrtv:what "Courrier international topic ID retrieved";
+    nrtv:when "2020-02-11T00:00:00Z";
+    nrtv:who nrtv:character_244.
+
+event_158 a nrtv:Event;
+    nrtv:what "Twitter username point in time";
+    nrtv:when "2020-04-26T00:00:00Z";
+    nrtv:who nrtv:character_245;
+    nrtv:who nrtv:character_246.
+
+event_159 a nrtv:Event;
+    nrtv:what "Goodreads author ID point in time";
+    nrtv:when "2020-09-26T00:00:00Z";
+    nrtv:who nrtv:character_247.
+
+event_160 a nrtv:Event;
+    nrtv:what "notable work A Promised Land publication date";
+    nrtv:when "2020-11-01T00:00:00Z";
+    nrtv:who nrtv:character_248.
+
+event_161 a nrtv:Event;
+    nrtv:what "YouTube channel ID point in time";
+    nrtv:when "2020-12-08T00:00:00Z";
+    nrtv:who nrtv:character_249.
+
+event_162 a nrtv:Event;
+    nrtv:what "award received NAACP Image Award for Outstanding Literary Work, Nonfiction point in time";
+    nrtv:when "2021-01-01T00:00:00Z";
+    nrtv:who nrtv:character_250.
+
+event_163 a nrtv:Event;
+    nrtv:what "social media followers point in time";
+    nrtv:when "2021-02-05T00:00:00Z";
+    nrtv:who nrtv:character_251.
+
+event_164 a nrtv:Event;
+    nrtv:what "Twitter username point in time";
+    nrtv:when "2021-03-22T00:00:00Z";
+    nrtv:who nrtv:character_252.
+
+event_165 a nrtv:Event;
+    nrtv:what "social media followers point in time";
+    nrtv:when "2021-07-03T00:00:00Z";
+    nrtv:who nrtv:character_253.
+
+event_166 a nrtv:Event;
+    nrtv:what "Library of Congress authority ID retrieved";
+    nrtv:when "2021-09-20T00:00:00Z";
+    nrtv:who nrtv:character_254.
+
+event_167 a nrtv:Event;
+    nrtv:what "social media followers point in time";
+    nrtv:when "2022-02-21T00:00:00Z";
+    nrtv:who nrtv:character_255.
+
+event_168 a nrtv:Event;
+    nrtv:what "medical condition point in time";
+    nrtv:when "2022-03-01T00:00:00Z";
+    nrtv:who nrtv:character_256;
+    nrtv:why "medical condition: COVID-19".
+
+event_169 a nrtv:Event;
+    nrtv:what "award received Primetime Emmy Award for Outstanding Narrator point in time";
+    nrtv:when "2022-09-03T00:00:00Z";
+    nrtv:who nrtv:character_257.
+
+event_170 a nrtv:Event;
+    nrtv:what "on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time";
+    nrtv:when "2022-10-31T00:00:00Z";
+    nrtv:who nrtv:character_258.
+
+event_171 a nrtv:Event;
+    nrtv:what "social media followers point in time";
+    nrtv:when "2023-02-04T00:00:00Z";
+    nrtv:who nrtv:character_259.
+
+event_172 a nrtv:Event;
+    nrtv:what "social media followers point in time";
+    nrtv:when "2023-03-22T00:00:00Z";
+    nrtv:who nrtv:character_260.
+
+event_173 a nrtv:Event;
+    nrtv:what "personal pronoun ";
+    nrtv:when "2023-06-04T22:41:50Z";
+    nrtv:who nrtv:character_261.
+
+character_110 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_111 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_112 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q15262435;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_113 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_114 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_115 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q15262435;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_116 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_117 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_118 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_119 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4122998;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_120 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_121 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_122 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4122998;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_123 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_124 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3273124;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_125 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_126 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_127 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_128 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3273124;
+    nrtv:hasRole http://www.wikidata.org/prop/P69.
+
+character_129 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_130 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_131 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_132 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_133 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_134 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_135 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_136 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_137 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_138 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_139 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537328;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_140 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_141 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537328;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_142 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_143 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537781;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_144 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_145 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537781;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_146 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_147 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537875;
+    nrtv:hasRole http://www.wikidata.org/prop/P106.
+
+character_148 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_149 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_150 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_151 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_152 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4537875;
+    nrtv:hasRole http://www.wikidata.org/prop/P106.
+
+character_153 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_154 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_155 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_156 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_157 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3483312;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_158 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_159 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3483312;
+    nrtv:hasRole http://www.wikidata.org/prop/P108.
+
+character_160 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_161 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_162 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q13133;
+    nrtv:hasRole http://www.wikidata.org/prop/P26.
+
+character_163 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_164 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_165 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_166 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3200804;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_167 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4726048;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_168 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_169 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_170 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3200804;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_171 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4726048;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_172 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_173 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_174 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_175 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_176 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_177 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1344425;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_178 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q29552;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_179 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_180 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_181 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_182 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_183 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_184 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1344425;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_185 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q29552;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_186 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_187 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q609172;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_188 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q29552;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_189 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_190 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_191 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_192 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1062789;
+    nrtv:hasRole http://www.wikidata.org/prop/P140.
+
+character_193 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_194 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_195 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_196 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q207;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_197 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q22686;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_198 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_199 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q609172;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_200 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q29552;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_201 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_202 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_203 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q105308519;
+    nrtv:hasRole http://www.wikidata.org/prop/P166.
+
+character_204 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_205 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_206 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_207 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_208 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q207;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_209 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q22686;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_210 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_211 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q207;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_212 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q22686;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_213 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_214 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_215 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_216 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_217 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_218 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q7241175;
+    nrtv:hasRole http://www.wikidata.org/prop/P166.
+
+character_219 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_220 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2002.
+
+character_221 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_222 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_223 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q980578;
+    nrtv:hasRole http://www.wikidata.org/prop/P166.
+
+character_224 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_225 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_226 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_227 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_228 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_229 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2002.
+
+character_230 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_231 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_232 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2002.
+
+character_233 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_234 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_235 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2013.
+
+character_236 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_237 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2013.
+
+character_238 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_239 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q207;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_240 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q22686;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_241 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P39.
+
+character_242 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_243 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2002.
+
+character_244 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_245 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_246 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q11696;
+    nrtv:hasRole http://www.wikidata.org/prop/P2002.
+
+character_247 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_248 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_249 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_250 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_251 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_252 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_253 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_254 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_255 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_256 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_257 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_258 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_259 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_260 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+character_261 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q76;
+    nrtv:hasRole perpetrator.
+
+location_33 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q6366688;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P19.
+
+location_34 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q30;
+    nrtv:hasSetting http://www.wikidata.org/prop/P19.
+
+location_35 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q782;
+    nrtv:hasSetting http://www.wikidata.org/prop/P19.
+
+location_36 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q18094;
+    nrtv:hasSetting http://www.wikidata.org/prop/P19.
+
+location_37 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q30;
+    nrtv:hasSetting http://www.wikidata.org/prop/P19.
+
+location_38 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q782;
+    nrtv:hasSetting http://www.wikidata.org/prop/P19.
+
+location_39 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q18094;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_40 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1346110;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_41 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q18094;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_42 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q65;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_43 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1346110;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_44 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q49088;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_45 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q60;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_46 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q65;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_47 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q114;
+    nrtv:hasSetting http://www.wikidata.org/prop/P27.
+
+location_48 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q49088;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_49 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1297;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_50 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q60;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_51 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q13371;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_52 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q49122;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_53 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q13371;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_54 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q49122;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_55 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q10703919;
+    nrtv:hasSetting http://www.wikidata.org/prop/P26.
+
+location_56 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1036763;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_57 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q60794132;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_58 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1036763;
+    nrtv:hasSetting http://www.wikidata.org/prop/P69.
+
+location_59 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q60794132;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_60 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q168778;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_61 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q101499034;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_62 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q168778;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_63 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q101499034;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_64 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q170018;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_65 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q101499034;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_66 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q170018;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_67 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q101499034;
+    nrtv:hasSetting http://www.wikidata.org/prop/P39.
+
+location_68 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q35525;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_69 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1297;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_70 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q35525;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+location_71 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q12060942;
+    nrtv:hasSetting http://www.wikidata.org/prop/P551.
+
+related_event_12 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q55812651;
+    nrtv:hasRelation http://www.wikidata.org/prop/P569.
+
+related_event_13 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1765120;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_14 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1765120;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_15 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1540185;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_16 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1540185;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_17 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1540185;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_18 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1540185;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_19 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q787674;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_20 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3559198;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_21 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q787674;
+    nrtv:hasRelation http://www.wikidata.org/prop/P69.
+
+related_event_22 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3559198;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_23 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q19049703;
+    nrtv:hasRelation http://www.wikidata.org/prop/P1344.
+
+related_event_24 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q99997125;
+    nrtv:hasRelation http://www.wikidata.org/prop/P1344.
+
+related_event_25 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3586671;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_26 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3586671;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_27 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3586671;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_28 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45578;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_29 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3586671;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_30 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q30682387;
+    nrtv:hasRelation http://www.wikidata.org/prop/P1344.
+
+related_event_31 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45578;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_32 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1379733;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_33 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4226;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_34 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45578;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_35 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q27824398;
+    nrtv:hasRelation http://www.wikidata.org/prop/P2002.
+
+related_event_36 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q27824398;
+    nrtv:hasRelation http://www.wikidata.org/prop/P2002.
+
+related_event_37 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q27824398;
+    nrtv:hasRelation http://www.wikidata.org/prop/P2013.
+
+related_event_38 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1379733;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_39 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q4226;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+
+related_event_40 a nrtv:RelatedEvent;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45578;
+    nrtv:hasRelation http://www.wikidata.org/prop/P39.
+

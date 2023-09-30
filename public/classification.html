@@ -1,0 +1,22 @@
+<div id="t1" class="tab-content active">
+  <div class="buttons">
+    <button type="button" onclick="resolveAll('person')">All Person</button>
+    <button type="button" onclick="resolveAll('location')">All Location</button>
+    <button type="button" onclick="resolveAll('event')">All Event</button>
+    <button type="button" onclick="resolveAll('reason')">All Reason</button>
+    <button type="button" onclick="resolveAll('manner')">All Manner</button>
+  </div>
+  <div class="module">
+    <div class="label" onclick="toggleModule(this)">Found multiple classes for the following enities</div>
+    <div class="contents" id="multi-class-container">
+    </div>
+  </div>
+</div>
+
+<div id="t2" class="tab-content">
+  <div class="module">
+    <div class="label" onclick="toggleModule(this)">Match classes to entities</div>
+    <div class="contents" id="entity-container">
+    </div>
+  </div>
+</div>

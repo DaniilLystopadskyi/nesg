@@ -1,0 +1,168 @@
+<div id="t1" class="tab-content active">
+  <div class="module">
+    <div class="label">Graph</div>
+    <div class="contents">
+      <select name="graphs" id="graph-config-select" onchange="onSelectionChange()">
+        <option value="new_graph">New Graph</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div id="t2" class="tab-content">
+  <div class="module">
+    <div class="label">Graph Name</div>
+    <div class="contents">
+      <input type="text" id="graph-name" name="graph-name">
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Endpoint</div>
+    <div class="contents">
+      <input type="text" id="endpoint" name="endpoint">
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">rdf:type replacement</div>
+    <div class="contents">
+      <input type="text" id="type" name="type">
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">rdf:subclassOf replacement</div>
+    <div class="contents">
+      <input type="text" id="subclass" name="subclass">
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">schema:description replacement</div>
+    <div class="contents">
+      <input type="text" id="description" name="subclass">
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Excluded Types</div>
+    <div class="contents">
+      <div class="field" id="excluded-types">
+      </div>
+      <input type="text" id="new-exclusion" name="add">
+      <button type="button" onclick="addExclusion()">Add Type</button>
+    </div>
+  </div>
+</div>
+
+<div id="t3" class="tab-content">
+  <div class="module">
+    <div class="label">Person Classes</div>
+    <div class="contents">
+      <h3>Selected Classes</h3>
+      <div class="field" id="selected-person-classes">
+      </div>
+      <h3>Available Classes</h3>
+      <div class="field" id="person-classes">
+        <button type="button" value="wd:Q5" onclick="moveButton(this, 'person')">wd:Q5</button>
+        <button type="button" value="wd:Q43229" onclick="moveButton(this, 'person')">wd:Q43229</button>
+        <button type="button" value="wd:Q177634" onclick="moveButton(this, 'person')">wd:Q177634</button>
+        <button type="button" value="dbo:person" onclick="moveButton(this, 'person')">dbo:person</button>
+        <button type="button" value="foaf:Person" onclick="moveButton(this, 'person')">foaf:Person</button>
+      </div>
+      <br>
+      <input type="text" id="new_person" name="add">
+      <button type="button" onclick="addCustomClass('person')">New Class</button>
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Location Classes</div>
+    <div class="contents">
+      <h3>Selected Classes</h3>
+      <div class="field" id="selected-location-classes">
+      </div>
+      <h3>Available Classes</h3>
+      <div class="field" id="location-classes">
+        <button type="button" value="wd:Q58416391" onclick="moveButton(this, 'location')">wd:Q58416391</button>
+        <button type="button" value="wd:Q18615777" onclick="moveButton(this, 'location')">wd:Q18615777</button>
+        <button type="button" value="wd:Q18635217" onclick="moveButton(this, 'location')">wd:Q18635217</button>
+        <button type="button" value="dbo:place" onclick="moveButton(this, 'location')">dbo:place</button>
+      </div>
+      <br>
+      <input type="text" id="new_location" name="add">
+      <button type="button" onclick="addCustomClass('location')">New Class</button>
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Event Classes</div>
+    <div class="contents">
+      <h3>Selected Classes</h3>
+      <div class="field" id="selected-event-classes">
+      </div>
+      <h3>Available Classes</h3>
+      <div class="field" id="event-classes">
+        <button type="button" value="wd:Q186081" onclick="moveButton(this, 'event')">wd:Q186081</button>
+        <button type="button" value="wd:Q1656682" onclick="moveButton(this, 'event')">wd:Q1656682</button>
+        <button type="button" value="dbo:event" onclick="moveButton(this, 'event')">dbo:event</button>
+      </div>
+      <br>
+      <input type="text" id="new_event" name="add">
+      <button type="button" onclick="addCustomClass('event')">New Class</button>
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Reason Classes</div>
+    <div class="contents">
+      <h3>Selected Classes</h3>
+      <div class="field" id="selected-reason-classes">
+      </div>
+      <h3>Available Classes</h3>
+      <div class="field" id="reason-classes">
+        <button type="button" value="wd:Q2574811" onclick="moveButton(this, 'reason')">wd:Q2574811</button>
+      </div>
+      <br>
+      <input type="text" id="new_reason" name="add">
+      <button type="button" onclick="addCustomClass('reason')">New Class</button>
+    </div>
+  </div>
+
+  <div class="module">
+    <div class="label">Manner Classes</div>
+    <div class="contents">
+      <h3>Selected Classes</h3>
+      <div class="field" id="selected-manner-classes">
+      </div>
+      <h3>Available Classes</h3>
+      <div class="field" id="manner-classes">
+      </div>
+      <br>
+      <input type="text" id="new_manner" name="add">
+      <button type="button" onclick="addCustomClass('manner')">New Class</button>
+    </div>
+  </div>
+</div>
+
+<div id="t4" class="tab-content">
+  <div class="module">
+    <div class="label">Namespaces</div>
+    <div class="contents">
+      <div id="prefixes-container">
+        <div class="namespace-container">
+          <input type="text" class="prefix-input" placeholder="Prefix">
+          <input type="text" class="uri-input" placeholder="URI">
+        </div>
+      </div>
+      <button type="button" id="add-namespace" onclick="addNamespace()">Add Namespace</button>
+    </div>
+  </div>
+</div>
+
+<div class="buttons">
+  <button type="button" id="delete-btn" onclick="deleteGraph()">Delete Graph</button>
+  <button type="button" id="wipe-btn" onclick="wipeData()">Wipe Cache</button>
+  <button type="button" id="apply-btn" onclick="applyChanges()">Add Graph</button>
+</div>

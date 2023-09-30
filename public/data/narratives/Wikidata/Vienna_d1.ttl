@@ -1,0 +1,1082 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Vienna";
+    nrtv:hasTheme http://www.wikidata.org/entity/Q51929311;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q1637706;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q871419;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q667509;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q262882;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q261543;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q257391;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q200250;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q171441;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q133442;
+    nrtv:hasTheme  http://www.wikidata.org/entity/Q5119;
+    nrtv:eventSequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6;
+    rdf:_7 event_7;
+    rdf:_8 event_8;
+    rdf:_9 event_9;
+    rdf:_10 event_10;
+    rdf:_11 event_11;
+    rdf:_12 event_12;
+    rdf:_13 event_13;
+    rdf:_14 event_14;
+    rdf:_15 event_15;
+    rdf:_16 event_16;
+    rdf:_17 event_17;
+    rdf:_18 event_18;
+    rdf:_19 event_19;
+    rdf:_20 event_20;
+    rdf:_21 event_21;
+    rdf:_22 event_22;
+    rdf:_23 event_23;
+    rdf:_24 event_24;
+    rdf:_25 event_25;
+    rdf:_26 event_26;
+    rdf:_27 event_27;
+    rdf:_28 event_28;
+    rdf:_29 event_29;
+    rdf:_30 event_30;
+    rdf:_31 event_31;
+    rdf:_32 event_32;
+    rdf:_33 event_33;
+    rdf:_34 event_34;
+    rdf:_35 event_35;
+    rdf:_36 event_36;
+    rdf:_37 event_37;
+    rdf:_38 event_38;
+    rdf:_39 event_39;
+    rdf:_40 event_40;
+    rdf:_41 event_41;
+    rdf:_42 event_42;
+    rdf:_43 event_43;
+    rdf:_44 event_44;
+    rdf:_45 event_45;
+    rdf:_46 event_46;
+    rdf:_47 event_47;
+    rdf:_48 event_48;
+    rdf:_49 event_49;
+    rdf:_50 event_50;
+    rdf:_51 event_51;
+    rdf:_52 event_52;
+    rdf:_53 event_53;
+    rdf:_54 event_54;
+    rdf:_55 event_55;
+    rdf:_56 event_56;
+    rdf:_57 event_57;
+    rdf:_58 event_58;
+    rdf:_59 event_59;
+    rdf:_60 event_60;
+    rdf:_61 event_61;
+    rdf:_62 event_62;
+    rdf:_63 event_63;
+    rdf:_64 event_64;
+    rdf:_65 event_65;
+    rdf:_66 event_66;
+    rdf:_67 event_67;
+    rdf:_68 event_68;
+    rdf:_69 event_69;
+    rdf:_70 event_70;
+    rdf:_71 event_71;
+    rdf:_72 event_72;
+    rdf:_73 event_73;
+    rdf:_74 event_74;
+    rdf:_75 event_75;
+    rdf:_76 event_76;
+    rdf:_77 event_77;
+    rdf:_78 event_78;
+    rdf:_79 event_79;
+    rdf:_80 event_80;
+    rdf:_81 event_81;
+    rdf:_82 event_82;
+    rdf:_83 event_83;
+    rdf:_84 event_84;
+    rdf:_85 event_85;
+    rdf:_86 event_86;
+    rdf:_87 event_87;
+    rdf:_88 event_88;
+    rdf:_89 event_89;
+    rdf:_90 event_90;
+    rdf:_91 event_91;
+    rdf:_92 event_92;
+    rdf:_93 event_93;
+    rdf:_94 event_94;
+    rdf:_95 event_95;
+    rdf:_96 event_96;
+    rdf:_97 event_97;
+    rdf:_98 event_98;
+    rdf:_99 event_99;
+    rdf:_100 event_100;
+    rdf:_101 event_101;
+    rdf:_102 event_102;
+    rdf:_103 event_103;
+    rdf:_104 event_104;
+    rdf:_105 event_105;
+    rdf:_106 event_106;
+    rdf:_107 event_107;
+    rdf:_108 event_108;
+    rdf:_109 event_109;
+    rdf:_110 event_110;
+    rdf:_111 event_111;
+    rdf:_112 event_112;
+    rdf:_113 event_113;
+    rdf:_114 event_114;
+    rdf:_115 event_115;
+    rdf:_116 event_116;
+    rdf:_117 event_117;
+    rdf:_118 event_118;
+    rdf:_119 event_119;
+    rdf:_120 event_120;
+    rdf:_121 event_121;
+    rdf:_122 event_122;
+    rdf:_123 event_123;
+    rdf:_124 event_124;
+    rdf:_125 event_125;
+    rdf:_126 event_126.
+
+event_1 a nrtv:Event;
+    nrtv:what "inception";
+    nrtv:when "-0100-01-01T00:00:00Z".
+
+event_2 a nrtv:Event;
+    nrtv:what "time of earliest written record";
+    nrtv:when "-0100-01-01T00:00:00Z".
+
+event_3 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "0976-01-01T00:00:00Z";
+    nrtv:where nrtv:location_681.
+
+event_4 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "0976-01-01T00:00:00Z";
+    nrtv:where nrtv:location_682.
+
+event_5 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1156-01-01T00:00:00Z";
+    nrtv:where nrtv:location_683.
+
+event_6 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1156-01-01T00:00:00Z";
+    nrtv:where nrtv:location_684.
+
+event_7 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1453-01-01T00:00:00Z";
+    nrtv:where nrtv:location_685.
+
+event_8 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1453-01-01T00:00:00Z";
+    nrtv:where nrtv:location_686.
+
+event_9 a nrtv:Event;
+    nrtv:what " start time";
+    nrtv:when "1461-01-01T00:00:00Z".
+
+event_10 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1526-01-01T00:00:00Z";
+    nrtv:where nrtv:location_687.
+
+event_11 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1526-01-01T00:00:00Z";
+    nrtv:where nrtv:location_688.
+
+event_12 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1754-01-01T00:00:00Z".
+
+event_13 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1800-01-01T00:00:00Z".
+
+event_14 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1804-08-10T00:00:00Z";
+    nrtv:where nrtv:location_689.
+
+event_15 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1804-08-11T00:00:00Z";
+    nrtv:where nrtv:location_690.
+
+event_16 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1804-08-11T00:00:00Z";
+    nrtv:where nrtv:location_691.
+
+event_17 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1850-01-01T00:00:00Z".
+
+event_18 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1867-03-29T00:00:00Z";
+    nrtv:where nrtv:location_692.
+
+event_19 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1867-03-29T00:00:00Z";
+    nrtv:where nrtv:location_693.
+
+event_20 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1867-03-30T00:00:00Z";
+    nrtv:where nrtv:location_694.
+
+event_21 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1867-03-30T00:00:00Z";
+    nrtv:where nrtv:location_695.
+
+event_22 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1897-04-08T00:00:00Z";
+    nrtv:who nrtv:character_81.
+
+event_23 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1900-01-01T00:00:00Z".
+
+event_24 a nrtv:Event;
+    nrtv:what " point in time";
+    nrtv:when "1902-01-01T00:00:00Z";
+    nrtv:who nrtv:character_82.
+
+event_25 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1910-01-01T00:00:00Z".
+
+event_26 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1910-03-10T00:00:00Z";
+    nrtv:who nrtv:character_83.
+
+event_27 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1910-05-04T00:00:00Z";
+    nrtv:who nrtv:character_84.
+
+event_28 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1912-12-19T00:00:00Z";
+    nrtv:who nrtv:character_85.
+
+event_29 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1912-12-23T00:00:00Z";
+    nrtv:who nrtv:character_86.
+
+event_30 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1918-11-11T00:00:00Z";
+    nrtv:where nrtv:location_696.
+
+event_31 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1918-11-11T00:00:00Z";
+    nrtv:where nrtv:location_697.
+
+event_32 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1918-11-12T00:00:00Z";
+    nrtv:where nrtv:location_698.
+
+event_33 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1918-11-12T00:00:00Z";
+    nrtv:where nrtv:location_699.
+
+event_34 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1919-01-01T00:00:00Z";
+    nrtv:where nrtv:location_700.
+
+event_35 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1919-05-21T00:00:00Z";
+    nrtv:who nrtv:character_87.
+
+event_36 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1919-05-22T00:00:00Z";
+    nrtv:who nrtv:character_88.
+
+event_37 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1919-09-10T00:00:00Z";
+    nrtv:where nrtv:location_701.
+
+event_38 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1919-09-10T00:00:00Z";
+    nrtv:where nrtv:location_702.
+
+event_39 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1919-09-11T00:00:00Z";
+    nrtv:where nrtv:location_703.
+
+event_40 a nrtv:Event;
+    nrtv:what "instance of Provinces of Austria start time";
+    nrtv:when "1920-11-18T00:00:00Z".
+
+event_41 a nrtv:Event;
+    nrtv:what "capital of end time";
+    nrtv:when "1921-01-01T00:00:00Z";
+    nrtv:where nrtv:location_704.
+
+event_42 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1923-01-01T00:00:00Z".
+
+event_43 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1923-11-13T00:00:00Z";
+    nrtv:who nrtv:character_89.
+
+event_44 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1923-11-13T00:00:00Z";
+    nrtv:who nrtv:character_90.
+
+event_45 a nrtv:Event;
+    nrtv:what " end time";
+    nrtv:when "1925-01-01T00:00:00Z".
+
+event_46 a nrtv:Event;
+    nrtv:what " start time";
+    nrtv:when "1934-01-01T00:00:00Z".
+
+event_47 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1934-01-01T00:00:00Z";
+    nrtv:where nrtv:location_705.
+
+event_48 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1934-01-01T00:00:00Z";
+    nrtv:where nrtv:location_706.
+
+event_49 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1934-02-12T00:00:00Z";
+    nrtv:who nrtv:character_91.
+
+event_50 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1934-04-07T00:00:00Z";
+    nrtv:who nrtv:character_92.
+
+event_51 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1934-05-01T00:00:00Z";
+    nrtv:where nrtv:location_707.
+
+event_52 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1934-05-01T00:00:00Z";
+    nrtv:where nrtv:location_708.
+
+event_53 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1937-01-01T00:00:00Z".
+
+event_54 a nrtv:Event;
+    nrtv:what " end time";
+    nrtv:when "1938-01-01T00:00:00Z".
+
+event_55 a nrtv:Event;
+    nrtv:what " start time";
+    nrtv:when "1938-01-01T00:00:00Z".
+
+event_56 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1938-03-01T00:00:00Z";
+    nrtv:where nrtv:location_709.
+
+event_57 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1938-03-01T00:00:00Z";
+    nrtv:where nrtv:location_710.
+
+event_58 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1938-03-11T00:00:00Z";
+    nrtv:who nrtv:character_93.
+
+event_59 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1938-03-13T00:00:00Z";
+    nrtv:where nrtv:location_711.
+
+event_60 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1938-03-13T00:00:00Z";
+    nrtv:who nrtv:character_94.
+
+event_61 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1938-03-13T00:00:00Z";
+    nrtv:where nrtv:location_712.
+
+event_62 a nrtv:Event;
+    nrtv:what "official name start time";
+    nrtv:when "1938-10-15T00:00:00Z".
+
+event_63 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1939-01-01T00:00:00Z".
+
+event_64 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1940-12-14T00:00:00Z";
+    nrtv:who nrtv:character_95.
+
+event_65 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1940-12-14T00:00:00Z";
+    nrtv:who nrtv:character_96.
+
+event_66 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1943-12-30T00:00:00Z";
+    nrtv:who nrtv:character_97.
+
+event_67 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1943-12-30T00:00:00Z";
+    nrtv:who nrtv:character_98.
+
+event_68 a nrtv:Event;
+    nrtv:what " end time";
+    nrtv:when "1945-01-01T00:00:00Z".
+
+event_69 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1945-01-01T00:00:00Z";
+    nrtv:where nrtv:location_713.
+
+event_70 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1945-04-01T00:00:00Z";
+    nrtv:where nrtv:location_714.
+
+event_71 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1945-04-02T00:00:00Z";
+    nrtv:where nrtv:location_715.
+
+event_72 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1945-04-02T00:00:00Z";
+    nrtv:where nrtv:location_716.
+
+event_73 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1945-04-17T00:00:00Z";
+    nrtv:who nrtv:character_99.
+
+event_74 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1945-04-17T00:00:00Z";
+    nrtv:who nrtv:character_100.
+
+event_75 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1949-01-01T00:00:00Z".
+
+event_76 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1951-01-01T00:00:00Z".
+
+event_77 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1951-06-18T00:00:00Z";
+    nrtv:who nrtv:character_101.
+
+event_78 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1951-06-22T00:00:00Z";
+    nrtv:who nrtv:character_102.
+
+event_79 a nrtv:Event;
+    nrtv:what "official name end time";
+    nrtv:when "1954-01-01T00:00:00Z".
+
+event_80 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity end time";
+    nrtv:when "1955-07-26T00:00:00Z";
+    nrtv:where nrtv:location_717.
+
+event_81 a nrtv:Event;
+    nrtv:what "country end time";
+    nrtv:when "1955-07-26T00:00:00Z";
+    nrtv:where nrtv:location_718.
+
+event_82 a nrtv:Event;
+    nrtv:what "located in the administrative territorial entity start time";
+    nrtv:when "1955-07-27T00:00:00Z";
+    nrtv:where nrtv:location_719.
+
+event_83 a nrtv:Event;
+    nrtv:what "country start time";
+    nrtv:when "1955-07-27T00:00:00Z";
+    nrtv:where nrtv:location_720.
+
+event_84 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1961-01-01T00:00:00Z".
+
+event_85 a nrtv:Event;
+    nrtv:what "Treccani's Enciclopedia Italiana ID publication date";
+    nrtv:when "1961-01-01T00:00:00Z".
+
+event_86 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1965-06-01T00:00:00Z";
+    nrtv:who nrtv:character_103.
+
+event_87 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1965-06-10T00:00:00Z";
+    nrtv:who nrtv:character_104.
+
+event_88 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1970-12-17T00:00:00Z";
+    nrtv:who nrtv:character_105.
+
+event_89 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1970-12-21T00:00:00Z";
+    nrtv:who nrtv:character_106.
+
+event_90 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1971-01-01T00:00:00Z".
+
+event_91 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1973-07-05T00:00:00Z";
+    nrtv:who nrtv:character_107.
+
+event_92 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1973-07-05T00:00:00Z";
+    nrtv:who nrtv:character_108.
+
+event_93 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1981-01-01T00:00:00Z".
+
+event_94 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1984-09-10T00:00:00Z";
+    nrtv:who nrtv:character_109.
+
+event_95 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1984-09-10T00:00:00Z";
+    nrtv:who nrtv:character_110.
+
+event_96 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1985-01-01T00:00:00Z".
+
+event_97 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1990-01-01T00:00:00Z".
+
+event_98 a nrtv:Event;
+    nrtv:what "twinned administrative body start time";
+    nrtv:when "1990-11-20T00:00:00Z";
+    nrtv:where nrtv:location_721.
+
+event_99 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1991-01-01T00:00:00Z".
+
+event_100 a nrtv:Event;
+    nrtv:what "twinned administrative body start time";
+    nrtv:when "1992-05-26T00:00:00Z";
+    nrtv:where nrtv:location_722.
+
+event_101 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "1994-11-07T00:00:00Z";
+    nrtv:who nrtv:character_111.
+
+event_102 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "1994-11-07T00:00:00Z";
+    nrtv:who nrtv:character_112.
+
+event_103 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "1995-01-01T00:00:00Z".
+
+event_104 a nrtv:Event;
+    nrtv:what "twinned administrative body start time";
+    nrtv:when "1999-01-01T00:00:00Z";
+    nrtv:where nrtv:location_723.
+
+event_105 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2000-01-01T00:00:00Z".
+
+event_106 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2001-01-01T00:00:00Z".
+
+event_107 a nrtv:Event;
+    nrtv:what "described by source publication date";
+    nrtv:when "2003-01-01T00:00:00Z".
+
+event_108 a nrtv:Event;
+    nrtv:what "member of start time";
+    nrtv:when "2003-01-01T00:00:00Z";
+    nrtv:who nrtv:character_113;
+    nrtv:where nrtv:location_724;
+    nrtv:where nrtv:location_725;
+    nrtv:where nrtv:location_726;
+    nrtv:where nrtv:location_727;
+    nrtv:where nrtv:location_728;
+    nrtv:where nrtv:location_729;
+    nrtv:where nrtv:location_730;
+    nrtv:where nrtv:location_731.
+
+event_109 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2005-01-01T00:00:00Z".
+
+event_110 a nrtv:Event;
+    nrtv:what "twinned administrative body start time";
+    nrtv:when "2006-01-01T00:00:00Z";
+    nrtv:where nrtv:location_732.
+
+event_111 a nrtv:Event;
+    nrtv:what " point in time";
+    nrtv:when "2007-09-04T00:00:00Z".
+
+event_112 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2010-01-01T00:00:00Z".
+
+event_113 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2011-01-01T00:00:00Z".
+
+event_114 a nrtv:Event;
+    nrtv:what "Treccani's Dizionario di Storia ID publication date";
+    nrtv:when "2011-01-01T00:00:00Z".
+
+event_115 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2012-01-01T00:00:00Z".
+
+event_116 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2015-01-01T00:00:00Z".
+
+event_117 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2016-01-01T00:00:00Z".
+
+event_118 a nrtv:Event;
+    nrtv:what "official website retrieved";
+    nrtv:when "2017-05-17T00:00:00Z".
+
+event_119 a nrtv:Event;
+    nrtv:what " point in time";
+    nrtv:when "2018-01-01T00:00:00Z".
+
+event_120 a nrtv:Event;
+    nrtv:what "head of government start time";
+    nrtv:when "2018-05-24T00:00:00Z";
+    nrtv:who nrtv:character_114.
+
+event_121 a nrtv:Event;
+    nrtv:what "head of government end time";
+    nrtv:when "2018-05-24T00:00:00Z";
+    nrtv:who nrtv:character_115.
+
+event_122 a nrtv:Event;
+    nrtv:what " end time";
+    nrtv:when "2019-01-01T00:00:00Z".
+
+event_123 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2020-01-01T00:00:00Z".
+
+event_124 a nrtv:Event;
+    nrtv:what "award received European City of the Trees point in time";
+    nrtv:when "2021-01-01T00:00:00Z".
+
+event_125 a nrtv:Event;
+    nrtv:what "population point in time";
+    nrtv:when "2022-10-01T00:00:00Z".
+
+event_126 a nrtv:Event;
+    nrtv:what "on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time";
+    nrtv:when "2022-10-31T00:00:00Z".
+
+character_81 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78531;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_82 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q113142;
+    nrtv:hasRole http://www.wikidata.org/prop/P94.
+
+character_83 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78531;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_84 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1705370;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_85 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1705370;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_86 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q2150882;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_87 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q2150882;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_88 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94424;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_89 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94424;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_90 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q84254;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_91 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q84254;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_92 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q86676;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_93 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q86676;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_94 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q112462;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_95 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q95865;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_96 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q112462;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_97 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q95865;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_98 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q85512;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_99 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q84204;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_100 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q85512;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_101 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q84204;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_102 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q13014;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_103 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q13014;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_104 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94472;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_105 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94472;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_106 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94496;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_107 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78999;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_108 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q94496;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_109 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78999;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_110 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78983;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_111 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45377;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_112 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q78983;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_113 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1768108;
+    nrtv:hasRole http://www.wikidata.org/prop/P463.
+
+character_114 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1560091;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+character_115 a nrtv:Character;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q45377;
+    nrtv:hasRole http://www.wikidata.org/prop/P6.
+
+location_681 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q283627;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_682 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q47261;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_683 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q283627;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_684 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3624335;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_685 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3624335;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_686 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q699964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_687 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q699964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_688 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q153136;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_689 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q153136;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_690 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q131964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_691 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q131964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_692 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q131964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_693 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q131964;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_694 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q28513;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_695 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q28513;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_696 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q28513;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_697 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q28513;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_698 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q268970;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_699 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q268970;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_700 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q518101;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_701 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q268970;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_702 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q268970;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_703 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q518101;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_704 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q42497;
+    nrtv:hasSetting http://www.wikidata.org/prop/P1376.
+
+location_705 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q176495;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_706 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q518101;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_707 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q176495;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_708 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q518101;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_709 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q176495;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_710 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q7318;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_711 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q176495;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_712 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q7318;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_713 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q7318;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_714 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q7318;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_715 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q596239;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_716 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q596239;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_717 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q596239;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_718 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q596239;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_719 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q40;
+    nrtv:hasSetting http://www.wikidata.org/prop/P131.
+
+location_720 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q40;
+    nrtv:hasSetting http://www.wikidata.org/prop/P17.
+
+location_721 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1781;
+    nrtv:hasSetting http://www.wikidata.org/prop/P190.
+
+location_722 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1899;
+    nrtv:hasSetting http://www.wikidata.org/prop/P190.
+
+location_723 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1780;
+    nrtv:hasSetting http://www.wikidata.org/prop/P190.
+
+location_724 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q185741;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_725 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1240985;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_726 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q2047028;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_727 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q2243049;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_728 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q2516485;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_729 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q3245127;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_730 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q696476;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_731 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q696529;
+    nrtv:hasSetting http://www.wikidata.org/prop/direct/P1830.
+
+location_732 a nrtv:Location;
+    nrtv:subjectOf http://www.wikidata.org/entity/Q1874;
+    nrtv:hasSetting http://www.wikidata.org/prop/P190.
+

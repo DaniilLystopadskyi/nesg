@@ -1,0 +1,28 @@
+narrative_3 a nrtv:Narrative;
+    nrtv:about "Impressionism";
+    nrtv:has_theme http://dbpedia.org/class/yago/Abstraction100002137;
+    nrtv:has_theme  http://dbpedia.org/class/yago/ArtisticMovement108466643;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Chronology106503224;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Communication100033020;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Evidence106643408;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Group100031264;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Indication106797169;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Movement108464601;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Record106647206;
+    nrtv:has_theme  http://dbpedia.org/class/yago/SocialGroup107950920;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Timeline106504965;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatArtMovements;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatArticlesWhichContainGraphicalTimelines;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WrittenRecord106502378;
+    nrtv:has_theme  http://dbpedia.org/ontology/MusicGenre;
+    nrtv:has_theme  http://dbpedia.org/ontology/Organisation;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:event_sequence event_sequence_3.
+
+event_sequence_3 a rdf:Seq;
+    rdf:_1 event_4.
+
+event_4 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2018-11-08".
+
