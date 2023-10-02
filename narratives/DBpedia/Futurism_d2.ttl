@@ -1,0 +1,14 @@
+narrative_2 a nrtv:Narrative;
+    nrtv:about "Futurism";
+    nrtv:has_theme http://dbpedia.org/ontology/MusicGenre;
+    nrtv:has_theme  http://dbpedia.org/ontology/Organisation;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:event_sequence event_sequence_2.
+
+event_sequence_2 a rdf:Seq;
+    rdf:_1 event_3.
+
+event_3 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2016-03-05".
+

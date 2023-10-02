@@ -1,0 +1,69 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Industrial Revolution";
+    nrtv:has_theme http://www.wikidata.org/entity/Q11514315;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4.
+
+event_1 a nrtv:Event;
+    nrtv:what "Origins, development, and international repercussions of industrial and financial capitalism.";
+    nrtv:where nrtv:location_0;
+    nrtv:related_to nrtv:related_event_0.
+
+event_2 a nrtv:Event;
+    nrtv:what "Luddite movement";
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2.
+
+event_3 a nrtv:Event;
+    nrtv:what "1821 Alcoy incident";
+    nrtv:when "1821-03-02T00:00:00Z";
+    nrtv:where nrtv:location_1;
+    nrtv:where nrtv:location_2;
+    nrtv:related_to nrtv:related_event_3.
+
+event_4 a nrtv:Event;
+    nrtv:what "open access";
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q77;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q29;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q494777;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q121344611;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q208701;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2269;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1159675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2251455;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2251455;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+

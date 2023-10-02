@@ -1,0 +1,268 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "purism";
+    nrtv:has_theme http://www.wikidata.org/entity/Q968159;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q32880;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2.
+
+event_1 a nrtv:Event;
+    nrtv:what "purism inception";
+    nrtv:when "1918-01-01T00:00:00Z";
+    nrtv:who nrtv:character_0;
+    nrtv:who nrtv:character_1;
+    nrtv:who nrtv:character_2;
+    nrtv:who nrtv:character_3;
+    nrtv:who nrtv:character_4;
+    nrtv:who nrtv:character_5;
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1;
+    nrtv:where nrtv:location_2;
+    nrtv:where nrtv:location_3;
+    nrtv:where nrtv:location_4;
+    nrtv:where nrtv:location_5;
+    nrtv:where nrtv:location_6;
+    nrtv:where nrtv:location_7;
+    nrtv:where nrtv:location_8;
+    nrtv:where nrtv:location_9;
+    nrtv:where nrtv:location_10;
+    nrtv:where nrtv:location_11;
+    nrtv:where nrtv:location_12;
+    nrtv:where nrtv:location_13;
+    nrtv:where nrtv:location_14;
+    nrtv:where nrtv:location_15;
+    nrtv:where nrtv:location_16;
+    nrtv:where nrtv:location_17;
+    nrtv:related_to nrtv:related_event_0.
+
+event_2 a nrtv:Event;
+    nrtv:what "purism end time";
+    nrtv:when "1925-01-01T00:00:00Z";
+    nrtv:who nrtv:character_6;
+    nrtv:who nrtv:character_7;
+    nrtv:who nrtv:character_8;
+    nrtv:who nrtv:character_9;
+    nrtv:who nrtv:character_10;
+    nrtv:who nrtv:character_11;
+    nrtv:where nrtv:location_18;
+    nrtv:where nrtv:location_19;
+    nrtv:where nrtv:location_20;
+    nrtv:where nrtv:location_21;
+    nrtv:where nrtv:location_22;
+    nrtv:where nrtv:location_23;
+    nrtv:where nrtv:location_24;
+    nrtv:where nrtv:location_25;
+    nrtv:where nrtv:location_26;
+    nrtv:where nrtv:location_27;
+    nrtv:where nrtv:location_28;
+    nrtv:where nrtv:location_29;
+    nrtv:where nrtv:location_30;
+    nrtv:where nrtv:location_31;
+    nrtv:where nrtv:location_32;
+    nrtv:where nrtv:location_33;
+    nrtv:where nrtv:location_34;
+    nrtv:where nrtv:location_35;
+    nrtv:related_to nrtv:related_event_1.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q4724;
+    nrtv:role http://www.wikidata.org/prop/direct/P112.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q381937;
+    nrtv:role http://www.wikidata.org/prop/direct/P112.
+
+character_2 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q543444;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q637115;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q381937;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_5 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q4724;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_6 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q4724;
+    nrtv:role http://www.wikidata.org/prop/direct/P112.
+
+character_7 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q381937;
+    nrtv:role http://www.wikidata.org/prop/direct/P112.
+
+character_8 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q543444;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_9 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q637115;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_10 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q381937;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+character_11 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q4724;
+    nrtv:role http://www.wikidata.org/prop/direct/P135.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q142;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q106454707;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110947221;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110947878;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q115450014;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q115450298;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q117818350;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q38197607;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_8 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q55135825;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_9 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q55472352;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_10 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q65665729;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_11 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q93277391;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_12 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q102227847;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_13 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q102363041;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_14 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q104538220;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_15 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q104538324;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_16 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q105427693;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_17 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110392431;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_18 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q142;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_19 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q106454707;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_20 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110947221;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_21 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110947878;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_22 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q115450014;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_23 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q115450298;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_24 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q117818350;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_25 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q38197607;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_26 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q55135825;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_27 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q55472352;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_28 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q65665729;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_29 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q93277391;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_30 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q102227847;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_31 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q102363041;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_32 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q104538220;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_33 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q104538324;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_34 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q105427693;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+location_35 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q110392431;
+    nrtv:setting http://www.wikidata.org/prop/direct/P149.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q42934;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q42934;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+

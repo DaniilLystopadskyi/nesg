@@ -1,0 +1,1755 @@
+narrative_1 a nrtv:Narrative;
+    nrtv:about "Wembley Stadium";
+    nrtv:has_theme http://dbpedia.org/class/yago/Area108497294;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Artifact100021939;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Location100027167;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Object100002684;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PhysicalEntity100001930;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Region108630985;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Scene108645963;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Stadium104295881;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Structure104341686;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Venue108677628;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Whole100003553;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat1966FIFAWorldCupStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat2012SummerOlympicVenues;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatEuropeanRetractable-roofStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatFACupFinalVenues;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatFootballVenuesInEngland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatFootballVenuesInLondon;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMusicVenuesCompletedIn2007;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMusicVenuesInLondon;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatNationalStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatOlympicFootballVenues;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatOlympicStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatRetractable-roofStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatRugbyLeagueStadiumsInEngland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatRugbyLeagueStadiumsInLondon;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatRugbyLeagueWorldCupStadiums;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatRugbyUnionStadiumsInEngland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSportsVenuesCompletedIn2007;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSportsVenuesInEngland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSportsVenuesInLondon;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoGeoEntity;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoLegalActorGeo;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity;
+    nrtv:has_theme  http://dbpedia.org/ontology/ArchitecturalStructure;
+    nrtv:has_theme  http://dbpedia.org/ontology/Building;
+    nrtv:has_theme  http://dbpedia.org/ontology/Stadium;
+    nrtv:has_theme  http://dbpedia.org/ontology/Venue;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q41176;
+    nrtv:event_sequence event_sequence_1.
+
+event_sequence_1 a rdf:Seq;
+    rdf:_1 event_3;
+    rdf:_2 event_4;
+    rdf:_3 event_5;
+    rdf:_4 event_6;
+    rdf:_5 event_7;
+    rdf:_6 event_8;
+    rdf:_7 event_9;
+    rdf:_8 event_10;
+    rdf:_9 event_11;
+    rdf:_10 event_12;
+    rdf:_11 event_13;
+    rdf:_12 event_14;
+    rdf:_13 event_15;
+    rdf:_14 event_16;
+    rdf:_15 event_17;
+    rdf:_16 event_18;
+    rdf:_17 event_19;
+    rdf:_18 event_20;
+    rdf:_19 event_21;
+    rdf:_20 event_22;
+    rdf:_21 event_23;
+    rdf:_22 event_24.
+
+event_3 a nrtv:Event;
+    nrtv:what "broke ground";
+    nrtv:when "2002-09-30".
+
+event_4 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2006-12-16";
+    nrtv:who nrtv:character_0;
+    nrtv:who nrtv:character_1;
+    nrtv:who nrtv:character_2;
+    nrtv:who nrtv:character_3;
+    nrtv:who nrtv:character_4;
+    nrtv:who nrtv:character_5;
+    nrtv:who nrtv:character_6;
+    nrtv:who nrtv:character_7;
+    nrtv:who nrtv:character_8;
+    nrtv:who nrtv:character_9;
+    nrtv:who nrtv:character_10;
+    nrtv:where nrtv:location_2;
+    nrtv:where nrtv:location_3;
+    nrtv:where nrtv:location_4;
+    nrtv:where nrtv:location_5;
+    nrtv:where nrtv:location_6;
+    nrtv:where nrtv:location_7;
+    nrtv:where nrtv:location_8;
+    nrtv:where nrtv:location_9;
+    nrtv:where nrtv:location_10;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4.
+
+event_5 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-01-06";
+    nrtv:who nrtv:character_11;
+    nrtv:who nrtv:character_12;
+    nrtv:who nrtv:character_13;
+    nrtv:who nrtv:character_14;
+    nrtv:who nrtv:character_15;
+    nrtv:who nrtv:character_16;
+    nrtv:who nrtv:character_17;
+    nrtv:who nrtv:character_18;
+    nrtv:who nrtv:character_19;
+    nrtv:who nrtv:character_20;
+    nrtv:who nrtv:character_21;
+    nrtv:where nrtv:location_11;
+    nrtv:where nrtv:location_12;
+    nrtv:where nrtv:location_13;
+    nrtv:where nrtv:location_14;
+    nrtv:where nrtv:location_15;
+    nrtv:where nrtv:location_16;
+    nrtv:where nrtv:location_17;
+    nrtv:where nrtv:location_18;
+    nrtv:where nrtv:location_19;
+    nrtv:related_to nrtv:related_event_5;
+    nrtv:related_to nrtv:related_event_6;
+    nrtv:related_to nrtv:related_event_7;
+    nrtv:related_to nrtv:related_event_8;
+    nrtv:related_to nrtv:related_event_9.
+
+event_6 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-01-13";
+    nrtv:who nrtv:character_22;
+    nrtv:who nrtv:character_23;
+    nrtv:who nrtv:character_24;
+    nrtv:who nrtv:character_25;
+    nrtv:who nrtv:character_26;
+    nrtv:who nrtv:character_27;
+    nrtv:who nrtv:character_28;
+    nrtv:who nrtv:character_29;
+    nrtv:who nrtv:character_30;
+    nrtv:who nrtv:character_31;
+    nrtv:who nrtv:character_32;
+    nrtv:where nrtv:location_20;
+    nrtv:where nrtv:location_21;
+    nrtv:where nrtv:location_22;
+    nrtv:where nrtv:location_23;
+    nrtv:where nrtv:location_24;
+    nrtv:where nrtv:location_25;
+    nrtv:where nrtv:location_26;
+    nrtv:where nrtv:location_27;
+    nrtv:where nrtv:location_28;
+    nrtv:related_to nrtv:related_event_10;
+    nrtv:related_to nrtv:related_event_11;
+    nrtv:related_to nrtv:related_event_12;
+    nrtv:related_to nrtv:related_event_13;
+    nrtv:related_to nrtv:related_event_14.
+
+event_7 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-02-02";
+    nrtv:who nrtv:character_33;
+    nrtv:who nrtv:character_34;
+    nrtv:who nrtv:character_35;
+    nrtv:who nrtv:character_36;
+    nrtv:who nrtv:character_37;
+    nrtv:who nrtv:character_38;
+    nrtv:who nrtv:character_39;
+    nrtv:who nrtv:character_40;
+    nrtv:who nrtv:character_41;
+    nrtv:who nrtv:character_42;
+    nrtv:who nrtv:character_43;
+    nrtv:where nrtv:location_29;
+    nrtv:where nrtv:location_30;
+    nrtv:where nrtv:location_31;
+    nrtv:where nrtv:location_32;
+    nrtv:where nrtv:location_33;
+    nrtv:where nrtv:location_34;
+    nrtv:where nrtv:location_35;
+    nrtv:where nrtv:location_36;
+    nrtv:where nrtv:location_37;
+    nrtv:related_to nrtv:related_event_15;
+    nrtv:related_to nrtv:related_event_16;
+    nrtv:related_to nrtv:related_event_17;
+    nrtv:related_to nrtv:related_event_18;
+    nrtv:related_to nrtv:related_event_19.
+
+event_8 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-02-03";
+    nrtv:who nrtv:character_44;
+    nrtv:who nrtv:character_45;
+    nrtv:who nrtv:character_46;
+    nrtv:who nrtv:character_47;
+    nrtv:who nrtv:character_48;
+    nrtv:who nrtv:character_49;
+    nrtv:who nrtv:character_50;
+    nrtv:who nrtv:character_51;
+    nrtv:who nrtv:character_52;
+    nrtv:who nrtv:character_53;
+    nrtv:who nrtv:character_54;
+    nrtv:where nrtv:location_38;
+    nrtv:where nrtv:location_39;
+    nrtv:where nrtv:location_40;
+    nrtv:where nrtv:location_41;
+    nrtv:where nrtv:location_42;
+    nrtv:where nrtv:location_43;
+    nrtv:where nrtv:location_44;
+    nrtv:where nrtv:location_45;
+    nrtv:where nrtv:location_46;
+    nrtv:related_to nrtv:related_event_20;
+    nrtv:related_to nrtv:related_event_21;
+    nrtv:related_to nrtv:related_event_22;
+    nrtv:related_to nrtv:related_event_23;
+    nrtv:related_to nrtv:related_event_24.
+
+event_9 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-02-06";
+    nrtv:who nrtv:character_55;
+    nrtv:who nrtv:character_56;
+    nrtv:who nrtv:character_57;
+    nrtv:who nrtv:character_58;
+    nrtv:who nrtv:character_59;
+    nrtv:who nrtv:character_60;
+    nrtv:who nrtv:character_61;
+    nrtv:who nrtv:character_62;
+    nrtv:who nrtv:character_63;
+    nrtv:who nrtv:character_64;
+    nrtv:who nrtv:character_65;
+    nrtv:where nrtv:location_47;
+    nrtv:where nrtv:location_48;
+    nrtv:where nrtv:location_49;
+    nrtv:where nrtv:location_50;
+    nrtv:where nrtv:location_51;
+    nrtv:where nrtv:location_52;
+    nrtv:where nrtv:location_53;
+    nrtv:where nrtv:location_54;
+    nrtv:where nrtv:location_55;
+    nrtv:related_to nrtv:related_event_25;
+    nrtv:related_to nrtv:related_event_26;
+    nrtv:related_to nrtv:related_event_27;
+    nrtv:related_to nrtv:related_event_28;
+    nrtv:related_to nrtv:related_event_29.
+
+event_10 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-02-24";
+    nrtv:who nrtv:character_66;
+    nrtv:who nrtv:character_67;
+    nrtv:who nrtv:character_68;
+    nrtv:who nrtv:character_69;
+    nrtv:who nrtv:character_70;
+    nrtv:who nrtv:character_71;
+    nrtv:who nrtv:character_72;
+    nrtv:who nrtv:character_73;
+    nrtv:who nrtv:character_74;
+    nrtv:who nrtv:character_75;
+    nrtv:who nrtv:character_76;
+    nrtv:where nrtv:location_56;
+    nrtv:where nrtv:location_57;
+    nrtv:where nrtv:location_58;
+    nrtv:where nrtv:location_59;
+    nrtv:where nrtv:location_60;
+    nrtv:where nrtv:location_61;
+    nrtv:where nrtv:location_62;
+    nrtv:where nrtv:location_63;
+    nrtv:where nrtv:location_64;
+    nrtv:related_to nrtv:related_event_30;
+    nrtv:related_to nrtv:related_event_31;
+    nrtv:related_to nrtv:related_event_32;
+    nrtv:related_to nrtv:related_event_33;
+    nrtv:related_to nrtv:related_event_34.
+
+event_11 a nrtv:Event;
+    nrtv:what "opened";
+    nrtv:when "2007-03-09".
+
+event_12 a nrtv:Event;
+    nrtv:what "opening date";
+    nrtv:when "2007-03-09".
+
+event_13 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-03-10";
+    nrtv:who nrtv:character_77;
+    nrtv:who nrtv:character_78;
+    nrtv:who nrtv:character_79;
+    nrtv:who nrtv:character_80;
+    nrtv:who nrtv:character_81;
+    nrtv:who nrtv:character_82;
+    nrtv:who nrtv:character_83;
+    nrtv:who nrtv:character_84;
+    nrtv:who nrtv:character_85;
+    nrtv:who nrtv:character_86;
+    nrtv:who nrtv:character_87;
+    nrtv:where nrtv:location_65;
+    nrtv:where nrtv:location_66;
+    nrtv:where nrtv:location_67;
+    nrtv:where nrtv:location_68;
+    nrtv:where nrtv:location_69;
+    nrtv:where nrtv:location_70;
+    nrtv:where nrtv:location_71;
+    nrtv:where nrtv:location_72;
+    nrtv:where nrtv:location_73;
+    nrtv:related_to nrtv:related_event_35;
+    nrtv:related_to nrtv:related_event_36;
+    nrtv:related_to nrtv:related_event_37;
+    nrtv:related_to nrtv:related_event_38;
+    nrtv:related_to nrtv:related_event_39.
+
+event_14 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-03-17";
+    nrtv:who nrtv:character_88;
+    nrtv:who nrtv:character_89;
+    nrtv:who nrtv:character_90;
+    nrtv:who nrtv:character_91;
+    nrtv:who nrtv:character_92;
+    nrtv:who nrtv:character_93;
+    nrtv:who nrtv:character_94;
+    nrtv:who nrtv:character_95;
+    nrtv:who nrtv:character_96;
+    nrtv:who nrtv:character_97;
+    nrtv:who nrtv:character_98;
+    nrtv:where nrtv:location_74;
+    nrtv:where nrtv:location_75;
+    nrtv:where nrtv:location_76;
+    nrtv:where nrtv:location_77;
+    nrtv:where nrtv:location_78;
+    nrtv:where nrtv:location_79;
+    nrtv:where nrtv:location_80;
+    nrtv:where nrtv:location_81;
+    nrtv:where nrtv:location_82;
+    nrtv:related_to nrtv:related_event_40;
+    nrtv:related_to nrtv:related_event_41;
+    nrtv:related_to nrtv:related_event_42;
+    nrtv:related_to nrtv:related_event_43;
+    nrtv:related_to nrtv:related_event_44.
+
+event_15 a nrtv:Event;
+    nrtv:what "2007 FA Trophy Final date";
+    nrtv:when "2007-05-12";
+    nrtv:who nrtv:character_99;
+    nrtv:who nrtv:character_100;
+    nrtv:who nrtv:character_101;
+    nrtv:who nrtv:character_102;
+    nrtv:who nrtv:character_103;
+    nrtv:who nrtv:character_104;
+    nrtv:who nrtv:character_105;
+    nrtv:who nrtv:character_106;
+    nrtv:who nrtv:character_107;
+    nrtv:who nrtv:character_108;
+    nrtv:who nrtv:character_109;
+    nrtv:where nrtv:location_83;
+    nrtv:where nrtv:location_84;
+    nrtv:where nrtv:location_85;
+    nrtv:where nrtv:location_86;
+    nrtv:where nrtv:location_87;
+    nrtv:where nrtv:location_88;
+    nrtv:where nrtv:location_89;
+    nrtv:where nrtv:location_90;
+    nrtv:where nrtv:location_91;
+    nrtv:related_to nrtv:related_event_45;
+    nrtv:related_to nrtv:related_event_46;
+    nrtv:related_to nrtv:related_event_47;
+    nrtv:related_to nrtv:related_event_48;
+    nrtv:related_to nrtv:related_event_49.
+
+event_16 a nrtv:Event;
+    nrtv:what "2007 FA Cup Final date";
+    nrtv:when "2007-05-19";
+    nrtv:who nrtv:character_110;
+    nrtv:who nrtv:character_111;
+    nrtv:who nrtv:character_112;
+    nrtv:where nrtv:location_92;
+    nrtv:where nrtv:location_93;
+    nrtv:related_to nrtv:related_event_50;
+    nrtv:related_to nrtv:related_event_51;
+    nrtv:related_to nrtv:related_event_52;
+    nrtv:related_to nrtv:related_event_53.
+
+event_17 a nrtv:Event;
+    nrtv:what "2007 Football League Two play-off Final date";
+    nrtv:when "2007-05-26";
+    nrtv:who nrtv:character_113;
+    nrtv:who nrtv:character_114;
+    nrtv:who nrtv:character_115;
+    nrtv:related_to nrtv:related_event_54;
+    nrtv:related_to nrtv:related_event_55;
+    nrtv:related_to nrtv:related_event_56;
+    nrtv:related_to nrtv:related_event_57.
+
+event_18 a nrtv:Event;
+    nrtv:what "2007 Football League One play-off Final date";
+    nrtv:when "2007-05-27";
+    nrtv:who nrtv:character_116;
+    nrtv:who nrtv:character_117;
+    nrtv:related_to nrtv:related_event_58;
+    nrtv:related_to nrtv:related_event_59;
+    nrtv:related_to nrtv:related_event_60;
+    nrtv:related_to nrtv:related_event_61.
+
+event_19 a nrtv:Event;
+    nrtv:what "2007 Football League Championship play-off Final date";
+    nrtv:when "2007-05-28";
+    nrtv:who nrtv:character_118;
+    nrtv:who nrtv:character_119;
+    nrtv:related_to nrtv:related_event_62;
+    nrtv:related_to nrtv:related_event_63;
+    nrtv:related_to nrtv:related_event_64;
+    nrtv:related_to nrtv:related_event_65.
+
+event_20 a nrtv:Event;
+    nrtv:what "2007 FA Community Shield date";
+    nrtv:when "2007-08-05";
+    nrtv:who nrtv:character_120;
+    nrtv:who nrtv:character_121;
+    nrtv:who nrtv:character_122;
+    nrtv:where nrtv:location_94;
+    nrtv:where nrtv:location_95;
+    nrtv:related_to nrtv:related_event_66;
+    nrtv:related_to nrtv:related_event_67;
+    nrtv:related_to nrtv:related_event_68;
+    nrtv:related_to nrtv:related_event_69;
+    nrtv:related_to nrtv:related_event_70.
+
+event_21 a nrtv:Event;
+    nrtv:what "2008 FA Trophy Final date";
+    nrtv:when "2008-05-10";
+    nrtv:who nrtv:character_123;
+    nrtv:who nrtv:character_124;
+    nrtv:who nrtv:character_125;
+    nrtv:where nrtv:location_96;
+    nrtv:where nrtv:location_97;
+    nrtv:related_to nrtv:related_event_71;
+    nrtv:related_to nrtv:related_event_72;
+    nrtv:related_to nrtv:related_event_73;
+    nrtv:related_to nrtv:related_event_74.
+
+event_22 a nrtv:Event;
+    nrtv:what "2008 FA Cup Final date";
+    nrtv:when "2008-05-17";
+    nrtv:who nrtv:character_126;
+    nrtv:who nrtv:character_127;
+    nrtv:who nrtv:character_128;
+    nrtv:where nrtv:location_98;
+    nrtv:related_to nrtv:related_event_75;
+    nrtv:related_to nrtv:related_event_76;
+    nrtv:related_to nrtv:related_event_77;
+    nrtv:related_to nrtv:related_event_78.
+
+event_23 a nrtv:Event;
+    nrtv:what "2008 Conference Premier play-off Final date";
+    nrtv:when "2008-05-18";
+    nrtv:who nrtv:character_129;
+    nrtv:who nrtv:character_130;
+    nrtv:related_to nrtv:related_event_79;
+    nrtv:related_to nrtv:related_event_80;
+    nrtv:related_to nrtv:related_event_81.
+
+event_24 a nrtv:Event;
+    nrtv:what "2008 FA Community Shield date";
+    nrtv:when "2008-08-10";
+    nrtv:who nrtv:character_131;
+    nrtv:who nrtv:character_132;
+    nrtv:who nrtv:character_133;
+    nrtv:where nrtv:location_99;
+    nrtv:where nrtv:location_100;
+    nrtv:related_to nrtv:related_event_82;
+    nrtv:related_to nrtv:related_event_83;
+    nrtv:related_to nrtv:related_event_84;
+    nrtv:related_to nrtv:related_event_85;
+    nrtv:related_to nrtv:related_event_86.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_2 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_5 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_6 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_7 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_8 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_9 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_10 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_11 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_12 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_13 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_14 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_15 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_16 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_17 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_18 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_19 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_20 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_21 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_22 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_23 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_24 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_25 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_26 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_27 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_28 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_29 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_30 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_31 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_32 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_33 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_34 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_35 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_36 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_37 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_38 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_39 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_40 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_41 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_42 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_43 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_44 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_45 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_46 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_47 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_48 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_49 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_50 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_51 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_52 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_53 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_54 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_55 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_56 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_57 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_58 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_59 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_60 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_61 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_62 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_63 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_64 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_65 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_66 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_67 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_68 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_69 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_70 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_71 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_72 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_73 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_74 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_75 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_76 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_77 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_78 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_79 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_80 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_81 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_82 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_83 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_84 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_85 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_86 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_87 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_88 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_89 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_90 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_91 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_92 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_93 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_94 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_95 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_96 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_97 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_98 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_99 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Braintree_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_100 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Vauxhall_Motors_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_101 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_Foy_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_102 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Grays_Athletic_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_103 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Morecambe_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_104 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Stevenage_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_105 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_106 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Northwich_Victoria_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_107 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster_Harriers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_108 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Merthyr_Tydfil_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_109 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Salisbury_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_110 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Frank_Lampard;
+    nrtv:role http://dbpedia.org/property/manOfTheMatch1a.
+
+character_111 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Manchester_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_112 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chelsea_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_113 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Shrewsbury_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_114 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Bristol_Rovers_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_115 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mike_Jones_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_116 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Blackpool_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_117 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Yeovil_Town_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_118 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Derby_County_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_119 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/West_Bromwich_Albion_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_120 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Manchester_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_121 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Ashley_Cole;
+    nrtv:role http://dbpedia.org/property/manOfTheMatch1a.
+
+character_122 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chelsea_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_123 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Chris_McPhee;
+    nrtv:role http://dbpedia.org/property/manOfTheMatch1a.
+
+character_124 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Torquay_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_125 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Ebbsfleet_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_126 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Cardiff_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_127 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Portsmouth_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_128 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Nwankwo_Kanu;
+    nrtv:role http://dbpedia.org/property/manOfTheMatch1a.
+
+character_129 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Cambridge_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_130 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Exeter_City_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_131 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Peter_Walton_(referee);
+    nrtv:role http://dbpedia.org/property/referee.
+
+character_132 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Manchester_United_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+character_133 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Portsmouth_F.C.;
+    nrtv:role http://dbpedia.org/property/team.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_8 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_9 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_10 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_11 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_12 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_13 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_14 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_15 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_16 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_17 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_18 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_19 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_20 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_21 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_22 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_23 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_24 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_25 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_26 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_27 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_28 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_29 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_30 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_31 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_32 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_33 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_34 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_35 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_36 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_37 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_38 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_39 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_40 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_41 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_42 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_43 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_44 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_45 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_46 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_47 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_48 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_49 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_50 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_51 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_52 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_53 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_54 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_55 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_56 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_57 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_58 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_59 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_60 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_61 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_62 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_63 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_64 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_65 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_66 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_67 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_68 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_69 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_70 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_71 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_72 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_73 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_74 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_75 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_76 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_77 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_78 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_79 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_80 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_81 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_82 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_83 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Braintree,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_84 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Grays,_Essex;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_85 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Morecambe;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_86 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_87 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_88 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Stevenage;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_89 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Exeter;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_90 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Northwich;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_91 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kidderminster;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_92 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_93 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/ontology/city.
+
+location_94 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_95 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_96 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_97 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+location_98 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_99 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/city.
+
+location_100 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/London;
+    nrtv:setting http://dbpedia.org/property/stadium.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_9 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_10 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_11 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_12 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_13 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_14 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_15 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_16 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_17 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_18 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_19 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_20 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_21 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_22 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_23 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_24 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_25 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_26 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_27 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_28 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_29 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_30 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_31 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_32 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_33 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_34 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_35 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_36 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_37 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_38 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_39 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_40 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_41 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_42 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_43 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_44 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_45 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_46 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006–07_FA_Trophy;
+    nrtv:relation http://dbpedia.org/property/round.
+
+related_event_47 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_48 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_49 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_50 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_51 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_52 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_53 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_54 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_Two_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_55 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_Two_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_56 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_Two_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_57 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_Two_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_58 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_One_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_59 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_One_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_60 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_One_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_61 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_One_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_62 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_Championship_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_63 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_Championship_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_64 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_Football_League_Championship_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_65 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_Football_League_Championship_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_66 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_67 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_68 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_69 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007–08_in_English_football;
+    nrtv:relation http://dbpedia.org/property/supercup.
+
+related_event_70 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2006_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_71 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_72 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_73 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_74 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Trophy_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_75 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_76 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_77 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_78 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Cup_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_79 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_Conference_Premier_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_80 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_Conference_National_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_81 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_Conference_Premier_play-off_Final;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_82 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+
+related_event_83 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_84 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2007_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/followingEvent.
+
+related_event_85 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2008–09_in_English_football;
+    nrtv:relation http://dbpedia.org/property/supercup.
+
+related_event_86 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/2009_FA_Community_Shield;
+    nrtv:relation http://dbpedia.org/ontology/previousEvent.
+

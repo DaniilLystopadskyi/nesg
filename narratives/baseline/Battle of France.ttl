@@ -1,0 +1,3 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Battle of France";
+    nrtv:has_theme http://www.wikidata.org/entity/Q178561;

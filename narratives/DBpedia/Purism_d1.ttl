@@ -1,0 +1,4 @@
+narrative_1 a nrtv:Narrative;
+    nrtv:about "Purism";
+    nrtv:has_theme http://dbpedia.org/ontology/Organisation;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;

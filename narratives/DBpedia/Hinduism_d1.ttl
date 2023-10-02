@@ -1,0 +1,33 @@
+narrative_1 a nrtv:Narrative;
+    nrtv:about "Hinduism";
+    nrtv:has_theme http://dbpedia.org/class/yago/Abstraction100002137;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Attribute100024264;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Belief105941423;
+    nrtv:has_theme  http://dbpedia.org/class/yago/CardinalVirtue104847600;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Cognition100023271;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Content105809192;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Good104849241;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Morality104846770;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PsychologicalFeature100023100;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Quality104723816;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Religion105946687;
+    nrtv:has_theme  http://dbpedia.org/class/yago/TheologicalVirtue104847991;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Virtue104847482;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatIndianReligions;
+    nrtv:has_theme  http://dbpedia.org/ontology/Country;
+    nrtv:has_theme  http://dbpedia.org/ontology/EthnicGroup;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:event_sequence event_sequence_1.
+
+event_sequence_1 a rdf:Seq;
+    rdf:_1 event_2;
+    rdf:_2 event_3.
+
+event_2 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2019-12-22".
+
+event_3 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2021-04-18".
+

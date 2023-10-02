@@ -1,0 +1,242 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "World War II";
+    nrtv:has_theme http://dbpedia.org/class/yago/Abstraction100002137;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Act100030358;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Conflict100958896;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Event100029378;
+    nrtv:has_theme  http://dbpedia.org/class/yago/GroupAction101080366;
+    nrtv:has_theme  http://dbpedia.org/class/yago/MilitaryAction100952963;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PsychologicalFeature100023100;
+    nrtv:has_theme  http://dbpedia.org/class/yago/War100973077;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Wikicat20th-centuryConflicts;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1939;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1940;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1941;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1942;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1943;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1944;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatConflictsIn1945;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatGlobalConflicts;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatItalianWars;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingAlbania;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingAustralia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingAustria;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBelgium;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBolivia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBrazil;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBritishIndia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBulgaria;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingBurma;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCambodia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCanada;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingChile;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingColombia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCostaRica;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCroatia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCuba;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingCzechoslovakia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingDenmark;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingEcuador;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingEgypt;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingElSalvador;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingEstonia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingEthiopia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingFinland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingFrance;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingGermany;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingGreece;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingGuatemala;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingHaiti;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingHonduras;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingHungary;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingIceland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingIndonesia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingIran;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingIraq;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingItaly;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingJapan;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLaos;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLatvia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLebanon;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLiberia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLithuania;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingLuxembourg;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingMexico;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingMongolia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingMontenegro;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingNepal;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingNicaragua;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingNorway;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingPanama;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingParaguay;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingPeru;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingPoland;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingRomania;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSaudiArabia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSerbia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSlovakia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSlovenia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSouthAfrica;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSriLanka;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingSyria;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingThailand;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheDominicanRepublic;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheNetherlands;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingThePhilippines;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheRepublicOfChina;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheSovietUnion;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheUnitedKingdom;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTheUnitedStates;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingTurkey;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingUruguay;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingVenezuela;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingVietnam;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatWarsInvolvingYugoslavia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity;
+    nrtv:has_theme  http://dbpedia.org/ontology/Event;
+    nrtv:has_theme  http://dbpedia.org/ontology/MilitaryConflict;
+    nrtv:has_theme  http://dbpedia.org/ontology/MilitaryPerson;
+    nrtv:has_theme  http://dbpedia.org/ontology/SocietalEvent;
+    nrtv:has_theme  http://schema.org/Event;
+    nrtv:has_theme  http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q1656682;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1.
+
+event_1 a nrtv:Event;
+    nrtv:what "World War II date";
+    nrtv:when "2017-02-02";
+    nrtv:who nrtv:character_0;
+    nrtv:who nrtv:character_1;
+    nrtv:who nrtv:character_2;
+    nrtv:who nrtv:character_3;
+    nrtv:who nrtv:character_4;
+    nrtv:who nrtv:character_5;
+    nrtv:who nrtv:character_6;
+    nrtv:who nrtv:character_7;
+    nrtv:who nrtv:character_8;
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5;
+    nrtv:related_to nrtv:related_event_6;
+    nrtv:related_to nrtv:related_event_7;
+    nrtv:related_to nrtv:related_event_8;
+    nrtv:related_to nrtv:related_event_9;
+    nrtv:related_to nrtv:related_event_10;
+    nrtv:related_to nrtv:related_event_11;
+    nrtv:related_to nrtv:related_event_12;
+    nrtv:related_to nrtv:related_event_13;
+    nrtv:related_to nrtv:related_event_14.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Benito_Mussolini;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Joseph_Stalin;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_2 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Franklin_D._Roosevelt;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Axis_powers;
+    nrtv:role http://dbpedia.org/property/combatant.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Winston_Churchill;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_5 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Adolf_Hitler;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_6 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hirohito;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_7 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Axis_leaders_of_World_War_II;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_8 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Prisoner_of_war;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Theater_(warfare);
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Allies_of_World_War_II;
+    nrtv:setting http://dbpedia.org/property/combatant.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Battle_of_Gabon;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Battle_of_the_Atlantic;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Battle_of_the_River_Plate;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Mediterranean_and_Middle_East_theatre_of_World_War_II;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Air_raids_on_Japan;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/American_Theater_(World_War_II);
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/East_African_campaign_(World_War_II);
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/European_theatre_of_World_War_II;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/North_African_campaign;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_9 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Pacific_War;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_10 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/South-East_Asian_theatre_of_World_War_II;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_11 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Indian_Ocean_in_World_War_II;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_12 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Second_Sino-Japanese_War;
+    nrtv:relation http://dbpedia.org/ontology/place.
+
+related_event_13 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Presidency_of_Franklin_D._Roosevelt,_third_and_fourth_terms;
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_14 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Rangoon_bombing;
+    nrtv:relation http://www.w3.org/2002/07/owl#differentFrom.
+

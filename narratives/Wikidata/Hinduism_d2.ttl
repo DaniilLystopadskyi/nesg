@@ -1,0 +1,41 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Hinduism";
+    nrtv:has_theme http://www.wikidata.org/entity/Q6957341;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q81639;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q32090;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q11042;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q9174;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5;
+    rdf:_6 event_6.
+
+event_1 a nrtv:Event;
+    nrtv:what "subreddit start time";
+    nrtv:when "2008-06-02T00:00:00Z".
+
+event_2 a nrtv:Event;
+    nrtv:what "Treccani's Dizionario di Storia ID publication date";
+    nrtv:when "2010-01-01T00:00:00Z".
+
+event_3 a nrtv:Event;
+    nrtv:what "member count point in time";
+    nrtv:when "2020-01-01T00:00:00Z".
+
+event_4 a nrtv:Event;
+    nrtv:what "described by source Metropolitan Museum of Art Tagging Vocabulary point in time";
+    nrtv:when "2021-05-07T00:00:00Z".
+
+event_5 a nrtv:Event;
+    nrtv:what "on focus list of Wikimedia project Wikipedia:Vital articles/Level/4 point in time";
+    nrtv:when "2022-10-31T00:00:00Z".
+
+event_6 a nrtv:Event;
+    nrtv:what "different from Hinduism ";
+    nrtv:when "Indian loanwords".
+

@@ -1,0 +1,56 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Mount Everest";
+    nrtv:has_theme http://dbpedia.org/class/yago/Area108497294;
+    nrtv:has_theme  http://dbpedia.org/class/yago/GeologicalFormation109287968;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Location100027167;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Mountain109359803;
+    nrtv:has_theme  http://dbpedia.org/class/yago/NaturalElevation109366317;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Object100002684;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PhysicalEntity100001930;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Region108630985;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatClimbingAreas;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatInternationalMountainsOfAsia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMountains;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMountainsOfNepal;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatMountainsOfTibet;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatProtectedAreasEstablishedIn1989;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatProtectedAreasOfChina;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatSacredMountains;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoGeoEntity;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoLegalActorGeo;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity;
+    nrtv:has_theme  http://dbpedia.org/ontology/Location;
+    nrtv:has_theme  http://dbpedia.org/ontology/Mountain;
+    nrtv:has_theme  http://dbpedia.org/ontology/NaturalPlace;
+    nrtv:has_theme  http://dbpedia.org/ontology/Place;
+    nrtv:has_theme  http://schema.org/Mountain;
+    nrtv:has_theme  http://schema.org/Place;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Location_Underspecified;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Mountain;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q8502;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2.
+
+event_1 a nrtv:Event;
+    nrtv:what "first ascent";
+    nrtv:when "1953-05-29";
+    nrtv:where nrtv:location_0.
+
+event_2 a nrtv:Event;
+    nrtv:what "date";
+    nrtv:when "2016-11-14";
+    nrtv:where nrtv:location_1.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Mount_Everest;
+    nrtv:setting origin.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Mount_Everest;
+    nrtv:setting origin.
+

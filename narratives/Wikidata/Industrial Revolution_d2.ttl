@@ -1,0 +1,112 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Industrial Revolution";
+    nrtv:has_theme http://www.wikidata.org/entity/Q11514315;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3.
+
+event_1 a nrtv:Event;
+    nrtv:what "Industrial Revolution start time Wikipedia:List of articles all languages should have Wikipedia:Vital articles/Level/4 Industrious Revolution";
+    nrtv:when "1750-01-01T00:00:00Z";
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1;
+    nrtv:where nrtv:location_2;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2.
+
+event_2 a nrtv:Event;
+    nrtv:what "Luddite movement start time";
+    nrtv:when "1811-03-11T00:00:00Z";
+    nrtv:who nrtv:character_0;
+    nrtv:who nrtv:character_1;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5;
+    nrtv:related_to nrtv:related_event_6.
+
+event_3 a nrtv:Event;
+    nrtv:what "Industrial Revolution end time Wikipedia:List of articles all languages should have Wikipedia:Vital articles/Level/4 Industrious Revolution";
+    nrtv:when "1831-01-01T00:00:00Z";
+    nrtv:where nrtv:location_3;
+    nrtv:where nrtv:location_4;
+    nrtv:where nrtv:location_5;
+    nrtv:related_to nrtv:related_event_7;
+    nrtv:related_to nrtv:related_event_8;
+    nrtv:related_to nrtv:related_event_9.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q1647375;
+    nrtv:role http://www.wikidata.org/prop/direct/P1889.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q3917678;
+    nrtv:role http://www.wikidata.org/prop/direct/P1416.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q161885;
+    nrtv:setting http://www.wikidata.org/prop/direct/P495.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q23666;
+    nrtv:setting http://www.wikidata.org/prop/P580.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1788657;
+    nrtv:setting http://www.wikidata.org/prop/direct/P793.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q161885;
+    nrtv:setting http://www.wikidata.org/prop/direct/P495.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q23666;
+    nrtv:setting http://www.wikidata.org/prop/P580.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q1788657;
+    nrtv:setting http://www.wikidata.org/prop/direct/P793.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q208701;
+    nrtv:relation http://www.wikidata.org/prop/P1542.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1159675;
+    nrtv:relation http://www.wikidata.org/prop/P1542.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1159675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2269;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q208701;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q208701;
+    nrtv:relation http://www.wikidata.org/prop/P349.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q2269;
+    nrtv:relation http://www.wikidata.org/prop/P1542.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q208701;
+    nrtv:relation http://www.wikidata.org/prop/P1542.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1159675;
+    nrtv:relation http://www.wikidata.org/prop/P1542.
+
+related_event_9 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q1159675;
+    nrtv:relation http://www.wikidata.org/prop/direct/P828.
+

@@ -1,0 +1,140 @@
+narrative_0 a nrtv:Narrative;
+    nrtv:about "Marie Curie";
+    nrtv:has_theme http://www.wikidata.org/entity/Q5;
+    nrtv:event_sequence event_sequence_0.
+
+event_sequence_0 a rdf:Seq;
+    rdf:_1 event_1;
+    rdf:_2 event_2;
+    rdf:_3 event_3;
+    rdf:_4 event_4;
+    rdf:_5 event_5.
+
+event_1 a nrtv:Event;
+    nrtv:what "5th Solvay Conference on Physics";
+    nrtv:when "1927-01-01T00:00:00Z";
+    nrtv:who nrtv:character_0;
+    nrtv:who nrtv:character_1;
+    nrtv:where nrtv:location_0;
+    nrtv:where nrtv:location_1;
+    nrtv:related_to nrtv:related_event_0;
+    nrtv:related_to nrtv:related_event_1;
+    nrtv:related_to nrtv:related_event_2.
+
+event_2 a nrtv:Event;
+    nrtv:what "3rd Solvay Conference on Physics";
+    nrtv:when "1921-01-01T00:00:00Z";
+    nrtv:who nrtv:character_2;
+    nrtv:where nrtv:location_2;
+    nrtv:where nrtv:location_3;
+    nrtv:related_to nrtv:related_event_3;
+    nrtv:related_to nrtv:related_event_4;
+    nrtv:related_to nrtv:related_event_5.
+
+event_3 a nrtv:Event;
+    nrtv:what "1st Solvay Conference on Physics";
+    nrtv:when "1911-01-01T00:00:00Z";
+    nrtv:who nrtv:character_3;
+    nrtv:who nrtv:character_4;
+    nrtv:where nrtv:location_4;
+    nrtv:where nrtv:location_5;
+    nrtv:where nrtv:location_6;
+    nrtv:related_to nrtv:related_event_6;
+    nrtv:related_to nrtv:related_event_7.
+
+event_4 a nrtv:Event;
+    nrtv:what "Flying University";
+    nrtv:where nrtv:location_7.
+
+event_5 a nrtv:Event;
+    nrtv:what "Marie Skłodowska-Curie Actions";
+    nrtv:related_to nrtv:related_event_8.
+
+character_0 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q937;
+    nrtv:role http://www.wikidata.org/prop/direct/P710.
+
+character_1 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q50309126;
+    nrtv:role http://www.wikidata.org/prop/direct/P664.
+
+character_2 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q50309126;
+    nrtv:role http://www.wikidata.org/prop/direct/P664.
+
+character_3 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q937;
+    nrtv:role http://www.wikidata.org/prop/direct/P710.
+
+character_4 a nrtv:Character;
+    nrtv:entity http://www.wikidata.org/entity/Q50309126;
+    nrtv:role http://www.wikidata.org/prop/direct/P664.
+
+location_0 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q31;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_1 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q239;
+    nrtv:setting http://www.wikidata.org/prop/direct/P131.
+
+location_2 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q31;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_3 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q239;
+    nrtv:setting http://www.wikidata.org/prop/direct/P131.
+
+location_4 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q31;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+location_5 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q239;
+    nrtv:setting http://www.wikidata.org/prop/direct/P276.
+
+location_6 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q239;
+    nrtv:setting http://www.wikidata.org/prop/direct/P131.
+
+location_7 a nrtv:Location;
+    nrtv:entity http://www.wikidata.org/entity/Q36;
+    nrtv:setting http://www.wikidata.org/prop/direct/P17.
+
+related_event_0 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q847588;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_1 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q63430347;
+    nrtv:relation http://www.wikidata.org/prop/direct/P156.
+
+related_event_2 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q63430345;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+
+related_event_3 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q847588;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_4 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q63430343;
+    nrtv:relation http://www.wikidata.org/prop/direct/P155.
+
+related_event_5 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q63430345;
+    nrtv:relation http://www.wikidata.org/prop/direct/P156.
+
+related_event_6 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q847588;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+
+related_event_7 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q63430343;
+    nrtv:relation http://www.wikidata.org/prop/direct/P156.
+
+related_event_8 a nrtv:RelatedEvent;
+    nrtv:entity http://www.wikidata.org/entity/Q13583472;
+    nrtv:relation http://www.wikidata.org/prop/direct/P361.
+

@@ -1,0 +1,604 @@
+narrative_2 a nrtv:Narrative;
+    nrtv:about "Kabul";
+    nrtv:has_theme http://dbpedia.org/class/yago/AdministrativeDistrict108491826;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Area108497294;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Capital108518505;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Center108523483;
+    nrtv:has_theme  http://dbpedia.org/class/yago/City108524735;
+    nrtv:has_theme  http://dbpedia.org/class/yago/District108552138;
+    nrtv:has_theme  http://dbpedia.org/class/yago/GeographicalArea108574314;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Location100027167;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Municipality108626283;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Object100002684;
+    nrtv:has_theme  http://dbpedia.org/class/yago/PhysicalEntity100001930;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Region108630985;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Seat108647945;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Site108651247;
+    nrtv:has_theme  http://dbpedia.org/class/yago/Tract108673395;
+    nrtv:has_theme  http://dbpedia.org/class/yago/UrbanArea108675967;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatCapitalsInAsia;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatCitiesInAfghanistan;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatPopulatedPlacesEstablishedInThe2ndMillenniumBC;
+    nrtv:has_theme  http://dbpedia.org/class/yago/WikicatPopulatedPlacesInKabulProvince;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoGeoEntity;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoLegalActorGeo;
+    nrtv:has_theme  http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity;
+    nrtv:has_theme  http://dbpedia.org/ontology/City;
+    nrtv:has_theme  http://dbpedia.org/ontology/Location;
+    nrtv:has_theme  http://dbpedia.org/ontology/Place;
+    nrtv:has_theme  http://dbpedia.org/ontology/PopulatedPlace;
+    nrtv:has_theme  http://dbpedia.org/ontology/Settlement;
+    nrtv:has_theme  http://dbpedia.org/ontology/Town;
+    nrtv:has_theme  http://schema.org/Place;
+    nrtv:has_theme  http://umbel.org/umbel/rc/City;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Location_Underspecified;
+    nrtv:has_theme  http://umbel.org/umbel/rc/PopulatedPlace;
+    nrtv:has_theme  http://umbel.org/umbel/rc/Village;
+    nrtv:has_theme  http://www.w3.org/2002/07/owl#Thing;
+    nrtv:has_theme  http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q3957;
+    nrtv:has_theme  http://www.wikidata.org/entity/Q486972;
+    nrtv:event_sequence event_sequence_2.
+
+event_sequence_2 a rdf:Seq;
+    rdf:_1 event_25;
+    rdf:_2 event_26.
+
+event_25 a nrtv:Event;
+    nrtv:what "Islamic State–Taliban conflict date";
+    nrtv:when "2015-02-02";
+    nrtv:who nrtv:character_134;
+    nrtv:who nrtv:character_135;
+    nrtv:who nrtv:character_136;
+    nrtv:who nrtv:character_137;
+    nrtv:who nrtv:character_138;
+    nrtv:who nrtv:character_139;
+    nrtv:who nrtv:character_140;
+    nrtv:who nrtv:character_141;
+    nrtv:who nrtv:character_142;
+    nrtv:who nrtv:character_143;
+    nrtv:who nrtv:character_144;
+    nrtv:who nrtv:character_145;
+    nrtv:who nrtv:character_146;
+    nrtv:who nrtv:character_147;
+    nrtv:who nrtv:character_148;
+    nrtv:who nrtv:character_149;
+    nrtv:who nrtv:character_150;
+    nrtv:who nrtv:character_151;
+    nrtv:who nrtv:character_152;
+    nrtv:who nrtv:character_153;
+    nrtv:who nrtv:character_154;
+    nrtv:who nrtv:character_155;
+    nrtv:who nrtv:character_156;
+    nrtv:who nrtv:character_157;
+    nrtv:who nrtv:character_158;
+    nrtv:who nrtv:character_159;
+    nrtv:who nrtv:character_160;
+    nrtv:where nrtv:location_101;
+    nrtv:where nrtv:location_102;
+    nrtv:where nrtv:location_103;
+    nrtv:where nrtv:location_104;
+    nrtv:where nrtv:location_105;
+    nrtv:where nrtv:location_106;
+    nrtv:where nrtv:location_107;
+    nrtv:where nrtv:location_108;
+    nrtv:where nrtv:location_109;
+    nrtv:where nrtv:location_110;
+    nrtv:where nrtv:location_111;
+    nrtv:where nrtv:location_112;
+    nrtv:where nrtv:location_113;
+    nrtv:where nrtv:location_114;
+    nrtv:where nrtv:location_115;
+    nrtv:where nrtv:location_116;
+    nrtv:where nrtv:location_117;
+    nrtv:where nrtv:location_118;
+    nrtv:where nrtv:location_119;
+    nrtv:where nrtv:location_120;
+    nrtv:where nrtv:location_121;
+    nrtv:where nrtv:location_122;
+    nrtv:where nrtv:location_123;
+    nrtv:related_to nrtv:related_event_87;
+    nrtv:related_to nrtv:related_event_88;
+    nrtv:related_to nrtv:related_event_89;
+    nrtv:related_to nrtv:related_event_90;
+    nrtv:related_to nrtv:related_event_91.
+
+event_26 a nrtv:Event;
+    nrtv:what "Islamic State–Taliban conflict ";
+    nrtv:when "2022-09-23";
+    nrtv:who nrtv:character_161;
+    nrtv:who nrtv:character_162;
+    nrtv:who nrtv:character_163;
+    nrtv:who nrtv:character_164;
+    nrtv:who nrtv:character_165;
+    nrtv:who nrtv:character_166;
+    nrtv:who nrtv:character_167;
+    nrtv:who nrtv:character_168;
+    nrtv:who nrtv:character_169;
+    nrtv:who nrtv:character_170;
+    nrtv:who nrtv:character_171;
+    nrtv:who nrtv:character_172;
+    nrtv:who nrtv:character_173;
+    nrtv:who nrtv:character_174;
+    nrtv:who nrtv:character_175;
+    nrtv:who nrtv:character_176;
+    nrtv:who nrtv:character_177;
+    nrtv:who nrtv:character_178;
+    nrtv:who nrtv:character_179;
+    nrtv:who nrtv:character_180;
+    nrtv:who nrtv:character_181;
+    nrtv:who nrtv:character_182;
+    nrtv:who nrtv:character_183;
+    nrtv:who nrtv:character_184;
+    nrtv:who nrtv:character_185;
+    nrtv:who nrtv:character_186;
+    nrtv:who nrtv:character_187;
+    nrtv:where nrtv:location_124;
+    nrtv:where nrtv:location_125;
+    nrtv:where nrtv:location_126;
+    nrtv:where nrtv:location_127;
+    nrtv:where nrtv:location_128;
+    nrtv:where nrtv:location_129;
+    nrtv:where nrtv:location_130;
+    nrtv:where nrtv:location_131;
+    nrtv:where nrtv:location_132;
+    nrtv:where nrtv:location_133;
+    nrtv:where nrtv:location_134;
+    nrtv:where nrtv:location_135;
+    nrtv:where nrtv:location_136;
+    nrtv:where nrtv:location_137;
+    nrtv:where nrtv:location_138;
+    nrtv:where nrtv:location_139;
+    nrtv:where nrtv:location_140;
+    nrtv:where nrtv:location_141;
+    nrtv:where nrtv:location_142;
+    nrtv:where nrtv:location_143;
+    nrtv:where nrtv:location_144;
+    nrtv:where nrtv:location_145;
+    nrtv:where nrtv:location_146;
+    nrtv:related_to nrtv:related_event_92;
+    nrtv:related_to nrtv:related_event_93;
+    nrtv:related_to nrtv:related_event_94;
+    nrtv:related_to nrtv:related_event_95;
+    nrtv:related_to nrtv:related_event_96.
+
+character_134 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Tohir_Yoʻldosh;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_135 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mujib_Rahman_Ansari;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_136 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mujib_Rahman_Ansari;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_137 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Qari_Fasihuddin;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_138 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Muhammad_Rasul;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_139 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mullah_Yaqoob;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_140 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Najibullah_(militant_leader);
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_141 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Sirajuddin_Haqqani;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_142 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Ghani_Baradar;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_143 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Haseeb_Logari;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_144 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Rahman_Ghaleb;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_145 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Rauf_Aliza;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_146 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_Bakr_al-Baghdadi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_147 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_al-Hasan_al-Hashimi_al-Qurashi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_148 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Akhtar_Mansour;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_149 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hafiz_Saeed_Khan;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_150 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hamdullah_Mukhlis;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_151 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hibatullah_Akhundzada;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_152 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mansoor_Dadullah;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_153 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/United_Nations_Assistance_Mission_in_Afghanistan;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_154 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Nemat_(militant);
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_155 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Shahab_al-Muhajir;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_156 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Neda_Mohammad;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_157 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_al-Hussein_al-Husseini_al-Qurashi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_158 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Badri_313_Battalion;
+    nrtv:role http://dbpedia.org/property/battles.
+
+character_159 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Afghan_Air_Force;
+    nrtv:role http://dbpedia.org/property/battles.
+
+character_160 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Red_Unit;
+    nrtv:role http://dbpedia.org/property/battles.
+
+character_161 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Tohir_Yoʻldosh;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_162 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mujib_Rahman_Ansari;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_163 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mujib_Rahman_Ansari;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_164 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Qari_Fasihuddin;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_165 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Muhammad_Rasul;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_166 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mullah_Yaqoob;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_167 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Najibullah_(militant_leader);
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_168 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Sirajuddin_Haqqani;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_169 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Ghani_Baradar;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_170 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Haseeb_Logari;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_171 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Rahman_Ghaleb;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_172 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abdul_Rauf_Aliza;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_173 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_Bakr_al-Baghdadi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_174 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_al-Hasan_al-Hashimi_al-Qurashi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_175 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Akhtar_Mansour;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_176 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hafiz_Saeed_Khan;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_177 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hamdullah_Mukhlis;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_178 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Hibatullah_Akhundzada;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_179 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Mansoor_Dadullah;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_180 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/United_Nations_Assistance_Mission_in_Afghanistan;
+    nrtv:role http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+character_181 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Nemat_(militant);
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_182 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Shahab_al-Muhajir;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_183 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Neda_Mohammad;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_184 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Abu_al-Hussein_al-Husseini_al-Qurashi;
+    nrtv:role http://dbpedia.org/ontology/commander.
+
+character_185 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Badri_313_Battalion;
+    nrtv:role http://dbpedia.org/property/battles.
+
+character_186 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Afghan_Air_Force;
+    nrtv:role http://dbpedia.org/property/battles.
+
+character_187 a nrtv:Character;
+    nrtv:entity http://dbpedia.org/resource/Red_Unit;
+    nrtv:role http://dbpedia.org/property/battles.
+
+location_101 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_102 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Sar-e_Pol_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_103 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Jowzjan_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_104 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/United_States;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_105 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Uzbekistan;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_106 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_107 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Darzab_District;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_108 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Faryab_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_109 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Qush_Tepa_District;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_110 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_111 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_112 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_113 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Herat;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_114 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Herat;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_115 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_116 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_117 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_118 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Jowzjan_Province;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_119 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_120 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kunar_Province;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_121 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/United_States;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_122 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Wazir_Akbar_Khan,_Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_123 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/European_Union;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_124 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_125 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Sar-e_Pol_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_126 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Jowzjan_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_127 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/United_States;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_128 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Uzbekistan;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_129 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_130 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Darzab_District;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_131 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Faryab_Province;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_132 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Qush_Tepa_District;
+    nrtv:setting http://dbpedia.org/ontology/commander.
+
+location_133 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_134 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_135 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_136 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Herat;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_137 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Herat;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_138 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_139 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_140 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_141 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Jowzjan_Province;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_142 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_143 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Kunar_Province;
+    nrtv:setting http://dbpedia.org/ontology/place.
+
+location_144 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/United_States;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_145 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/Wazir_Akbar_Khan,_Kabul;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+location_146 a nrtv:Location;
+    nrtv:entity http://dbpedia.org/resource/European_Union;
+    nrtv:setting http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_87 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_88 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_89 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Islamic_State–Taliban_conflict;
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_90 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Islamic_State–Taliban_conflict;
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_91 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://dbpedia.org/ontology/isPartOfMilitaryConflict.
+
+related_event_92 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_93 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_94 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Islamic_State–Taliban_conflict;
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_95 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Islamic_State–Taliban_conflict;
+    nrtv:relation http://www.w3.org/2000/01/rdf-schema#seeAlso.
+
+related_event_96 a nrtv:RelatedEvent;
+    nrtv:entity http://dbpedia.org/resource/Afghanistan_conflict_(1978–present);
+    nrtv:relation http://dbpedia.org/ontology/isPartOfMilitaryConflict.
+
