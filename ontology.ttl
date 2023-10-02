@@ -1,0 +1,79 @@
+@prefix nrtv: <> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Classes
+nrtv:NarrativeElement a rdfs:Class .
+
+nrtv:Narrative a rdfs:Class ;
+    rdfs:subClassOf nrtv:NarrativeElement .
+
+nrtv:Event a rdfs:Class ;
+    rdfs:subClassOf nrtv:NarrativeElement .
+
+nrtv:Attribute a rdfs:Class ;
+    rdfs:subClassOf nrtv:NarrativeElement .
+
+nrtv:Character a rdfs:Class ;
+    rdfs:subClassOf nrtv:Attribute .
+
+nrtv:Place a rdfs:Class ;
+    rdfs:subClassOf nrtv:Attribute .
+
+nrtv:EventRelation a rdfs:Class ;
+    rdfs:subClassOf nrtv:Attribute .
+
+# Object Properties
+nrtv:eventSequence a rdf:Property ;
+    rdfs:domain nrtv:Narrative ;
+    rdfs:range rdf:Seq .
+
+nrtv:about a rdf:Property ;
+    rdfs:domain nrtv:Narrative ;
+    rdfs:range xsd:string .
+
+nrtv:hasTheme a rdf:Property ;
+    rdfs:domain nrtv:Narrative ;
+
+nrtv:who a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range nrtv:Character .
+
+nrtv:what a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range xsd:string .
+
+nrtv:where a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range nrtv:Place .
+
+nrtv:when a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range xsd:string .
+
+nrtv:why a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range xsd:string .
+
+nrtv:how a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range xsd:string .
+
+nrtv:relatedTo a rdf:Property ;
+    rdfs:domain nrtv:Event ;
+    rdfs:range nrtv:EventRelation .
+
+# Data Properties
+nrtv:subjectOf a owl:DatatypeProperty ;
+    rdfs:domain nrtv:Attribute .
+
+nrtv:hasRole a owl:DatatypeProperty ;
+    rdfs:domain nrtv:Character .
+
+nrtv:hasSetting a owl:DatatypeProperty ;
+    rdfs:domain nrtv:Place .
+
+nrtv:hasRelation a owl:DatatypeProperty ;
+    rdfs:domain nrtv:EventRelation .
